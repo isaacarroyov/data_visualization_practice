@@ -1,10 +1,10 @@
-# Data Visualization Practice: Folium  (Wildfires in Mexico)
-
+# Data Visualization Practice: **`folium`**
+**Topic:** Wildfires in Mexico 
 _Camacho-Perez Enrique, Arroyo-Velázquez Isaac_
 
 ## Description
 
-## Software Requirements 
+## Software Requirements
 
 ## Medium's Article
 
