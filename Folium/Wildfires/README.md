@@ -1,5 +1,5 @@
 # Data Visualization Practice: **`folium`**
-**Topic:** Wildfires in Mexico 
+**Topic:** Wildfires in Mexico
 _Camacho-Perez Enrique, Arroyo-Velázquez Isaac_
 
 ## Description
@@ -7,6 +7,8 @@ _Camacho-Perez Enrique, Arroyo-Velázquez Isaac_
 ## Software Requirements
 
 ## Medium's Article
+* (English Version)
+* (Spanish Version)
 
 ## Contact
 * [**Isaac Arroyo**](https://www.linkedin.com/in/isaac-arroyo/):
