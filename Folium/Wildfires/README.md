@@ -1,6 +1,7 @@
-# Data Visualization Practice: **`folium`**
+# Visualizing Mexico's wildfire information with `folium`
 **Topic:** Wildfires in Mexico
-_Camacho-Perez Enrique, Arroyo-Velázquez Isaac_
+
+**Authors:** _Camacho-Perez Enrique, Arroyo-Velázquez Isaac_
 
 ## Description
 
@@ -15,6 +16,6 @@ _Camacho-Perez Enrique, Arroyo-Velázquez Isaac_
   * e-mail: isaacarroyov@outlook.com
 * [**Enrique Camacho**](https://www.linkedin.com/in/ekamacho/):
   * e-mail: enrique.camacho@gmail.com
-  * [GitHub](https://github.com/enriquecamacho)
+  * [GitHub profile](https://github.com/enriquecamacho):octocat:
 
 .
