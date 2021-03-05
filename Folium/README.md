@@ -8,7 +8,7 @@ If we want to do great work exploring and communicating the geospatial data, we 
 
 ## What is folium?
 
-According to the official webpage:
+According to the [official webpage](https://python-visualization.github.io/folium/):
 
 "**`folium`** builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the **`leaflet.js`** library. Manipulate your data in Python, then visualize it in on a **Leaflet map** via **`folium`**."
 
