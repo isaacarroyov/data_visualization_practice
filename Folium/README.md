@@ -36,3 +36,8 @@ conda install folium -c conda-forge
 ```
 
 ## Examples
+![](https://bn02pap001files.storage.live.com/y4mZPnUdOGBHlo9vLAZMvVPX1jXa7T7-HznkHKQpJ0hsC4xWI4mMqluSjz3csyJjATUCZqpA-dQhF6pVnNaURIhHNrCmixLdqtpu8AEt54q-ILNa0tNr8qANLzWBpOg0Pll90v6HfFE_qVCj1tEy7NxapNF2pt0xnZsL56N8_cNFpxGolprXbaEsgT4DXkNSVEf-r7yBYiYlvPyeqyZgvdTaA/world_choropleth.png?psid=1&width=3073&height=1956)
+_Choropleth map_
+
+![](https://bn02pap001files.storage.live.com/y4mja-lecU6AYGotCqe53_4vAQD9JSgp7WMwRv-KieUG_AaTlZEG0z2SjzOrAtTR-JwKfUoavMNo4MnPto491iKJ_2pZdGF7eT1FNpv6cL5f6bgOzFY2DYea4rfjD5I6NEPROxxeT6uYdxpabF8RJKhi-S2ZcfGeyrv5ykIIH9S3geVtYfyCXX9LyLQAeIOOg2a2YfgXuCgZOpRnA9Uxhgqzg/merida_map.png?psid=1&width=2250&height=1610)
+_Map of a city_
