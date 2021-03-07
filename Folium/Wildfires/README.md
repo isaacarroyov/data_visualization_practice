@@ -10,6 +10,8 @@ No record found yet implies wildfires are a natural disaster, at least not in Me
 
 In my state, Yucatán, the number of lost vegetation by wildfires is enormous. Just in the first five months of 2020, seventeen wildfires occurred, and they consumed around 8 thousand hectares of land. Yucatán was in the top ten in the category of "Biggest affected states" and second place in "Damaged sensitive material." [(Reporteros Hoy, 2020)](https://reporteroshoy.mx/noticias/yucatan-sigue-en-el-top-ten-de-los-incendios-forestales/)
 
+![wildfire_yucatan](https://reporteroshoy.mx/noticias/wp-content/uploads/2020/05/INCENDIOS_FORESTALES-1.jpg)
+
 ## Bachelor's Thesis
 
 Currently (March 2020), I'm starting to work on my bachelor's thesis to predict wildfires in a region of Yucatán. Like any other research, I first had to see the bigger picture of Mexico's wildfire situation. I encountered a dataset that gives me information about the recorded wildfires in Mexico during 2017, so I decided to explore the data and found out the following way of visualizing it.
