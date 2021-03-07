@@ -16,7 +16,7 @@ In my state, Yucatán, the number of lost vegetation by wildfires is enormous. J
 
 Currently (March 2020), I'm starting to work on my bachelor's thesis to predict wildfires in a region of Yucatán. Like any other research, I first had to see the bigger picture of Mexico's wildfire situation. I encountered a dataset that gives me information about the recorded wildfires in Mexico during 2017, so I decided to explore the data and found out the following way of visualizing it.
 
-(images)
+![](https://bn02pap001files.storage.live.com/y4mdpISs_jIi_KptSwCthqMCXEZ-xryAxsDqvI_4GrHMGHbFvqhgu-0Jt28305NRuuwOH1zuz-FQerUN1ezGZac8LRgl-536Q_4sbHYlf1uwaPjkyp-eeP5duX69YgClBM528ej7B26X-TrZQHUAZAg0qYwOQCdZdxz05MCD-zkT0BM0IZ3g_x7YBR5_Sya4VMOUit1NLb-rd2jt2dYqfez0g/circles_duration_affected_area.png?psid=1&width=2704&height=1622)
 
 ## Objective
 
