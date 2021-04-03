@@ -37,7 +37,7 @@ We used the following Python's libraries:
 - **NumPy**:`pip install numpy` or `conda install numpy`
 - **Pandas**: `pip install pandas` or `conda install pandas`
 - **Matplotlib**: `pip install matplotlib` or `conda installa matplotlib`
-- **Folium**
+- **Folium** `pip install folium` or `conda install -c conda-forge folium`
 
 ## Contact
 * [**Isaac Arroyo**](https://www.linkedin.com/in/isaac-arroyo/):
