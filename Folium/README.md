@@ -18,8 +18,7 @@ The library has several built-in tilesets from OpenStreetMap, Mapbox, and Stamen
 
 ## Content (mini-projects)
 In the attempted to cover all the possible maps, here's the mini-projects list of this section:
-* [Visualizing Mexico's wildfire information](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Folium/Wildfires)
-*
+* [Visualizing Mexico's wildfire information](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Folium/Wildfires) 🌳 :fire: 🌳 🇲🇽
 
 ## Installation
 
