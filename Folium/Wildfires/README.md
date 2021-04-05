@@ -28,8 +28,6 @@ There are more tools inside **folium** that will be covered another time.
 
 (English version)
 
-(Spanish version)
-
 ## Software requirements
 
 We used the following Python's libraries:
