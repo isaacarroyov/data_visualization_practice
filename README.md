@@ -14,11 +14,11 @@ Join me, we can learn together!
 I organize this repository by folders (Python's Data Visualization libraries), and inside those folders are more folders ( the _mini-projects_ where I practice ). In each library folder, you can find:
 * a Jupyter Notebook with different ways of visualizing data according to the mini-project
 * (obviously) the **REAMDE.md** file where I write the required software/libraries for each mini-project
-* And there is a **relevant_code** folder: inside this folder are the **.py** files for the plots and visualizations only, so you can try them or modify them in the text editor of your preference (VS Code, Sublime Text, Atom, etc.)
+* And the **.py** files for the plots and visualizations only, so you can try them or modify them in the text editor of your preference (VS Code, Sublime Text, Atom, etc.)
 
 ## Mini-projects
 Here you can find the content inside this repository. I'm trying to use as many Python libraries or at least the most relevant ones.  For now, I've been using the following:
 * Matplotlib: (working on it... :hourglass_flowing_sand:)
 * Seaborn: (working on it... :hourglass_flowing_sand:)
 * Folium:
-  * [Visualizing Mexico's wildfire information](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Folium/Wildfires) (almost finishing it... :hourglass_flowing_sand:)
+  * [Visualizing Mexico's wildfire information](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Folium/Wildfires)
