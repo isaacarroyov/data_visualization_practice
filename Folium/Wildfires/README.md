@@ -25,8 +25,9 @@ I wanted to do a tutorial because I think this could help other people that perh
 There are more tools inside **folium** that will be covered another time.
 
 ## Medium's article
+I invite you to read my Medium's article published in [Towards Data Science](https://towardsdatascience.com)
 
-(English version)
+![](https://bn02pap001files.storage.live.com/y4mIxD7cfs12DUVafE1LSnxtuq5EW9MhMVwUWBfWWToQHkGGWpvOUVXFvxFf4jQM4JmJJhCdqauZQCl-4QHqKVBf9trZomEktshQMbjWPn_diGhT4TZJAydoaDLN2VZsWvAiRMefdMs5RFOjegSyKWEjppHfFl5wXuZosqwjS0xHROTifLMVn3rsSSJM5EG5M2SOIbdfBLxTVt9mp79lxOPsg/TDS_wildfires_article.jpeg?psid=1&width=745&height=938)
 
 ## Software requirements
 
