@@ -39,8 +39,8 @@ We used the following Python's libraries:
 - **Folium** `pip install folium` or `conda install -c conda-forge folium`
 
 ## Contact
-* [**Isaac Arroyo**](https://www.linkedin.com/in/isaac-arroyo/):
+* [**Isaac Arroyo**](https://www.linkedin.com/in/isaacarroyov/):
   * e-mail: isaacarroyov@outlook.com
 * [**Enrique Camacho**](https://www.linkedin.com/in/ekamacho/):
   * e-mail: enrique.camacho@gmail.com
-  * [GitHub profile](https://github.com/enriquecamacho):octocat:
+  * [GitHub profile](https://github.com/enriquecamacho) :octocat:
