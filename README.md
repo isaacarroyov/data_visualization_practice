@@ -18,7 +18,8 @@ I organize this repository by folders (Python's Data Visualization libraries), a
 
 ## Mini-projects
 Here you can find the content inside this repository. I'm trying to use as many Python libraries or at least the most relevant ones.  For now, I've been using the following:
-* Matplotlib: (working on it... :hourglass_flowing_sand:)
-* Seaborn: (working on it... :hourglass_flowing_sand:)
-* Folium:
+* Matplotlib + Seaborn :chart_with_upwards_trend: :bar_chart:: (working on it... :hourglass_flowing_sand:)
+* GeoPandas :earth_americas: :world_map: : (working on it... :hourglass_flowing_sand:)
+* Altair :eye: : (working on it... :hourglass_flowing_sand:)
+* Folium :earth_americas: :world_map::
   * [Visualizing Mexico's wildfire information](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Folium/Wildfires)
