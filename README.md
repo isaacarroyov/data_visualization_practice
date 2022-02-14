@@ -2,14 +2,14 @@
 "There is a magic in graphs. The proﬁle of a curve reveals in a ﬂash a whole situation — the life history of an epidemic, a panic, or an era 
 of prosperity. The curve informs the mind, awakens the imagination, convinces." - Henry D. Hubbard.
 
-Hello! My name is Isaac Arroyo. To me, visualizing data is as important as knowing what to do with them. I'm a visual person since I was 
-a kid. The people close to me know that I'm one step closer to finish it when a book has pictures in it. Most science books have any 
+Hello! My name is Isaac Arroyo. Visualizing data is as important as knowing what to do with them. I've been a visual person since I was 
+a kid. The people close to me know that I'm one step closer to finishing it when a book has pictures in it. Most science books have any 
 visual tool (photographs, charts, plots, diagrams, illustration, etc.), and I think that's why I'm into science (and mostly physics). 
 The better we visualize data, the better we can understand the problem and communicate the solution.
 
 
-As part of my learning path to become a Data Scientist (or something else related to the Artificial Intelligence field/industry), 
-I created this repository. Here you can find _mini-projects_ where I practice my **Data Visualization skills**. Use it as you like 
+As part of my learning path to become a Data Scientist, I created this repository. Here you can find _mini-projects_ where I practice 
+my **Data Visualization skills**. Use it as you like 
 it:
 * practice,
 * inspiration
@@ -27,8 +27,9 @@ I organize this repository by folders (Data Visualization libraries/packages). I
 
 ## Dataviz mini-projects
 Here you can find the content inside this repository:
-* Matplotlib + Seaborn :chart_with_upwards_trend: :bar_chart:: (working on it... :hourglass_flowing_sand:)
-* GeoPandas :earth_americas: :world_map: : (working on it... :hourglass_flowing_sand:)
-* Altair :eye: : (working on it... :hourglass_flowing_sand:)
-* Folium :earth_americas: :world_map::
+* **Matplotlib + Seaborn** :chart_with_upwards_trend: :bar_chart: : (working on it... :hourglass_flowing_sand:)
+* **GeoPandas** :earth_americas: :world_map: : (working on it... :hourglass_flowing_sand:)
+* **Altair** :eye: : (working on it... :hourglass_flowing_sand:)
+* **R** : (working on it... :hourglass_flowing_sand:)
+* **Folium** :earth_americas: :world_map::
   * [Visualizing Mexico's wildfire information](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Folium/Wildfires)
