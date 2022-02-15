@@ -34,6 +34,6 @@ Here you can find the content inside this repository:
 * **GeoPandas** :earth_americas: :world_map: : (working on it... :hourglass_flowing_sand:)
 * **Altair** :eye: : (working on it... :hourglass_flowing_sand:)
 * **R** :
-  * [Visualizing temperatures]() :chart_with_upwards_trend:
+  * [Visualizing temperatures](https://github.com/isaacarroyov/data_visualization_practice/tree/master/R/visualizing_temperatures) :chart_with_upwards_trend:
 * **Folium** :earth_americas: :world_map::
   * [Visualizing Mexico's wildfire information](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Folium/Wildfires)
