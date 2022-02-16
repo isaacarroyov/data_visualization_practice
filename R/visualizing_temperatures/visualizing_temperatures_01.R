@@ -60,7 +60,6 @@ set.seed(2022)
     axis.line = element_line(colour = 'gray70'),
     panel.grid = element_blank(),
     panel.border = element_blank(),
-    #plot.margin = margin(1, 1, 1, 1)
   ))
 
 # A D D   P O I N T S 
