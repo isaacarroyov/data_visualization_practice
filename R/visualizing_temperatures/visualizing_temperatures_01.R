@@ -73,27 +73,27 @@ set.seed(2022)
 
 # A D D   T E X T
 (g_plot_text = g_plot + annotate(geom = "text",
-                                x=39, y= 11.6, size = 0.0085 * h, color = "gray20",
+                                x=39, y= 11.6, size = 0.0073 * h, color = "gray20",
                                 family = 'Georgia', hjust=0.5,
                                 label = glue::glue("Mean temperature:\n{round(mid,1)} ºC")
 ) +
     annotate(geom="text",
-             x=15,y=10.75, size = 0.0085 * h, color = "gray20",
+             x=15,y=10.75, size = 0.0073 * h, color = "gray20",
              family = 'Georgia', hjust=0.5,
              label = "Monthly average\ntemperature"
 ) +
     annotate(geom="text",
-             x=15,y=7.5, size = 0.0085 * h, color = "gray20",
+             x=15,y=7.5, size = 0.0073 * h, color = "gray20",
              family = 'Georgia', hjust=0.5,
              label = glue::glue("The hottest month\n(on average) is April\nwith {round(max(df$MonthMeanTemp_History),1)} ºC")
 ) +
     annotate(geom="text",
-             x=40,y=4.5, size = 0.0085 * h, color = "gray20",
+             x=40,y=4.5, size = 0.0073 * h, color = "gray20",
              family = 'Georgia', hjust=0.5,
              label = glue::glue("The highest recorded\ntemperature is {round(max(df$Temperature),1)} ºC\n({as.character(df$Month[which.max(df$Temperature)])}, {as.character(df$Year[which.max(df$Temperature)])})")
 ) +
     annotate(geom="text",
-             x=14,y=3.5, size = 0.0085 * h, color = "gray20",
+             x=14,y=3.5, size = 0.0073 * h, color = "gray20",
              family = 'Georgia', hjust=0.5,
              label = glue::glue("The lowest recorded\ntemperature is {round(min(df$Temperature),1)} ºC\n({as.character(df$Month[which.min(df$Temperature)])}, {as.character(df$Year[which.min(df$Temperature)])})")
   )
