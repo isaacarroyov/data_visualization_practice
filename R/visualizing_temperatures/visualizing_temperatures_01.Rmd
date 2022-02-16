@@ -1,0 +1,178 @@
+---
+title: "Visualizing Temperatures 01 - Tutorial en español"
+author: "Isaac Arroyo"
+output: 
+  pdf_document:
+    fig_width : 6.25
+    fig_height: 5
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(comment=NA)
+```
+Este trabajo es la adaptación en español del blog post de Cédric Scherer: [**The Evoution of a ggplot (Ep. 1)**](https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/#data)
+
+# Cargar y preparar los datos
+```{r LIB_DATA_PREP_AND_LOAD_DATA, warning=FALSE}
+library(dplyr)
+df = read.csv('../../data/temperature_data_yuc.csv')
+head(df)
+```
+Lo primero es cambiar los valores y tipos de datos de las variable **Month** y **Year**. Se van a tener que tratar como `factor`.
+```{r MONTH_YEAR_INTO_FACTOR}
+months_factors = c("Enero", "Febrero","Marzo","Abril","Mayo", "Junio","Julio", "Agosto","Septiembre", "Octubre","Noviembre","Dicembre")
+df = df %>%
+  mutate(Year= factor(Year),
+         Month = factor(Month, labels = months_factors)
+         )
+```
+
+# Crear _plot_ base
+Las configuraciones que tiene **ggplot2** por defecto no están mal, pero se pueden mejorar. Lo primero es usar el tema _light_ y una letra **Palatino** (estos valores pueden cambiar, dependiendo de cada persona o proyecto)
+```{r LIB_PLOT_AND_BASE_THEME}
+library(ggplot2)
+theme_set(theme_light(base_family = "Palatino"))
+```
+
+Seguidamente vamos a ir creando nuestras capas de información y configuraciones:
+
+1. Seleccionar las variables a visualizar **`ggplot(df, aes(x=Temperature, y=Month, color=Temperature))`**.
+2. Escribir el título, subtítulo y nombres de los ejes **`labs()`**
+3. Cambiar el orden de los meses para que Enero se encuentre en la parte superior **`scale_y_discrete(limits=rev)`**
+4. Limitar el eje $x$ de 8 ºC a 45 ºC **`scale_x_continuous(limits = c(8,45))`**
+5. Elegir los colores para representar los valores de la temperatura **`scale_colour_gradient2()`**
+6. Modificar tamaños de fuente y eliminar el _grid_ de la visualización **theme()**
+7. **Extra**: Si se quiere definir como valor central para el gradiente de colores, la media de todas las temperaturas, entonces se crea una nueva variable llamada **`mid`**
+
+```{r BASE_PLOT}
+mid = mean(df$Temperature)
+
+(g = ggplot(df, aes(x=Temperature, y=Month, color=Temperature)) +
+  labs(x="Temperatura (ºC)", y=NULL,
+       title = "19 años de datos de temperatura",
+       subtitle = "Yucatan, Mexico. De 2001 a 2019\n",
+       caption = "\nDatos: MOD11A1.006 Terra Land Surface Temperature and\nEmissivity Daily Global 1km via Google Earth Engine\n\nVisualization by Isaac Arroyo (@unisaacarroyov)"
+       ) +
+  scale_y_discrete(limits=rev) +
+  scale_x_continuous(limits = c(8,45)) +
+  scale_colour_gradient2(low='#407B28',
+                         mid='#FFF599',
+                         high='#AE0A25',
+                         midpoint = mid) +
+  theme(
+    legend.position = "none",
+    plot.title = element_text(size=15),
+    plot.subtitle = element_text(size=12),
+    plot.caption = element_text(size=8, color = "gray60"),
+    axis.title.x = element_text(size=11),
+    axis.text.x = element_text(size=10),
+    axis.text.y = element_text(size=10.5),
+    axis.line = element_line(colour = 'gray70'),
+    panel.grid = element_blank(),
+    panel.border = element_blank(),
+  ))
+```
+
+# Agregar información y puntos
+Para esta ocación se usan 4 capas de _plots_:
+
+1. **`geom_jitter`**: Es como una nube de puntos. Es una mezcla entre un _scatter plot_, histograma y _box plot_. Nos ayuda a mostrar la distribución de los puntos de diferentes categorías.
+2. **`geom_segment`**: Dibuja una línea entre la media de cada distribución y la media **global** de todas las temperaturas del _data frame_.
+3. **`geom_vline`**: Traza una línea sobre la media **global** en todo el _plot_.
+4. **`stat_summary(fun=mean, geom = "point")`**: Dibuja puntos sobre la media de cada distribución.
+
+```{r ADD_PLOTS}
+(g_plot = g + geom_jitter(height = 0.13, size=3, alpha=0.15) +
+  geom_segment(aes(y=Month, yend=Month,
+                   x=MonthMeanTemp_History, xend=mid),
+               colour='black', size=1) +
+  geom_vline(xintercept = mid, color='black', size=0.4, alpha=0.8) +
+  stat_summary(fun=mean, geom = "point", size=4, colour='black'))
+
+```
+
+# Agregar texto
+Para agregar texto se usa **`annotate(geom="text")`** y si se quiere agregar el valor de alguna variable de **R** en el texto se usa **`glue::glue()`**
+
+```{r ADD_TEXT}
+(g_plot_text = g_plot + annotate(geom = "text",
+                                x=39, y= 11.6, size = 3.2, color = "gray20",
+                                family = 'Palatino', hjust=0.5,
+                                label = glue::glue("Temperatura media:\n{round(mid,1)} ºC")
+) +
+    annotate(geom="text",
+             x=15,y=10.75, size = 3.2, color = "gray20",
+             family = 'Palatino', hjust=0.5,
+             label = "Temperatura\nmensual promedio"
+) +
+    annotate(geom="text",
+             x=15,y=7.5, size = 3.2, color = "gray20",
+             family = 'Palatino', hjust=0.5,
+             label = glue::glue("El mes más cálido\n(en promedio) \nes Abril con {round(max(df$MonthMeanTemp_History),1)} ºC")
+) +
+    annotate(geom="text",
+             x=40,y=4.5, size = 3.2, color = "gray20",
+             family = 'Palatino', hjust=0.5,
+             label = glue::glue("La temperatura más alta\nregistrada es {round(max(df$Temperature),1)} ºC\n({as.character(df$Month[which.max(df$Temperature)])}, {as.character(df$Year[which.max(df$Temperature)])})")
+) +
+    annotate(geom="text",
+             x=14,y=3.5, size = 3.2, color = "gray20",
+             family = 'Palatino', hjust=0.5,
+             label = glue::glue("La temperatura más baja\nregistrada es {round(min(df$Temperature),1)} ºC\n({as.character(df$Month[which.min(df$Temperature)])}, {as.character(df$Year[which.min(df$Temperature)])})")
+  )
+)
+```
+# Agregar flechas 
+Solo el texto no es suficiente para entender el _plot_, por lo que se agregarán flechas para guiar al espectador a lo que nos interesa que vea.
+
+No hay una guía o proceso estandarizado para elegir las coordenadas de las flechas, es simplemente tanteo y paciencia.
+```{r ARROWS_COORD}
+arrows1 = tibble(
+  x1 = c(37, 15, 40, 14),
+  x2 = c(mid+0.3, 24.8, 42.43173, 10.25),
+  y1 = c(11.75, 11.6, 5.7, 2),
+  y2 = c(11.55, 12.1, 7.8, 1.05)
+)
+arrows2 = tibble(
+  x1 = c(20),
+  x2 = c(32),
+  y1 = c(6.5),
+  y2 = c(8.9)
+)
+```
+
+Para dibujar las flechas se usa **`geom_curve`**
+```{r ADD_ARROWS}
+g_final = g_plot_text + geom_curve(
+  data = arrows1,
+  aes(x=x1,xend=x2, y=y1, yend=y2),
+  arrow = arrow(length = unit(10,'points')),
+  size = 0.9,
+  color='gray20',
+  curvature = -0.3
+) +
+  geom_curve(
+    data = arrows2,
+    aes(x=x1,xend=x2, y=y1, yend=y2),
+    arrow = arrow(length = unit(10,'points')),
+    size = 0.9,
+    color='gray20',
+    curvature = 0.3
+  )
+```
+
+# Resultado final
+```{r FINAL_PLOT}
+g_final
+```
+# Guardar el _plot_
+Dentro de **RStudio** se puede dar click en la imagen para guardarla, sin embargo yo prefiero la siguiente línea de código
+
+```R
+ggsave('PATH/TO/FOLDER/NAME_PLOT.png',
+       width = 810, height = 648,
+       units = "px", dpi = 300, scale = 3)
+```
+Y de esta manera se guarda con una muy buena calidad.
