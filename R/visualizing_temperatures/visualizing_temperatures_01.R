@@ -78,9 +78,9 @@ set.seed(2022)
                                 label = glue::glue("Mean temperature:\n{round(mid,1)} ºC")
 ) +
     annotate(geom="text",
-             x=15,y=11.35, size = 0.0085 * h, color = "gray20",
+             x=15,y=10.75, size = 0.0085 * h, color = "gray20",
              family = 'Georgia', hjust=0.5,
-             label = "Monthly average"
+             label = "Monthly average\ntemperature"
 ) +
     annotate(geom="text",
              x=15,y=7.5, size = 0.0085 * h, color = "gray20",
@@ -120,6 +120,6 @@ set.seed(2022)
   ))
 
 # Save the plot 
-ggsave('visualizing_temperatures_R_01.png',
+ggsave('R/visualizing_temperatures/images/visualizing_temperatures_R_01.png',
        width = w, height = h,
        units = "px", dpi = 300, scale = 3)
