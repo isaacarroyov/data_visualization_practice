@@ -3,3 +3,4 @@ data/.DS_Store
 .DS_Store
 Folium/Wildfires/figures
 Folium/figures
+*.cache
