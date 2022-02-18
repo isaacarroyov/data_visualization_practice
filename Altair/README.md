@@ -3,6 +3,7 @@
 ## Visualizing Spotify
 ### The 5, 4, 3, 2 and 1
 ![Visualizing Spotify 01-01](./visualizing_spotify/images/visualizing_spotify_01-01_pca.png)
+[**_Source code_**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/Altair/visualizing_spotify/visualizing_spotify_01-01_pca.ipynb)
 
 ## Visualizing temperatures 02 (Working on it... :hourglass_flowing_sand:)
 This work is made to compare the outputs of similar plots made with different libraries and programming languages.
