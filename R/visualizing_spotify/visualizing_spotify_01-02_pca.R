@@ -45,7 +45,7 @@ df_annotations = tribble(
   ~x, ~y, ~label,
   5,-0.6,"**Falling by Harry Styles (Album: Fine Line).**<br>The second saddest song in the dataset. It has a positivity of 0.0592",
   8,0.706898436,"**Burning Love by Elvis Presley.**<br>The second happiest of the data set with a positivity of 0.972.",
-  10, -0.1, '**Out Of Love by Alessia Cara (Album: Growing Pains)**<br>I love the perspective the song gives. It is not about _"come back"_, is about _"I know you are not coming back, but let me ask you...when did you fall out if love?"_',
+  10, -0.1, '**Out Of Love by Alessia Cara (Album: Growing Pains)**<br>I love the perspective the song gives. It is not about _"come back"_, it is about _"I know you are not coming back, but let me ask you... when did you fall out of love?"_',
   -5, 0.9, "**Levitating by Dua Lipa (Album: Future Nostalgia)**<br>It is my go-to song to uplift my mood."
 )
 
@@ -105,7 +105,7 @@ df_legend_alpha_valence = tibble(x=c(0.66,0.83,1)-0.05,
                  fontface='bold', family = 'Georgia') + 
     geom_textbox(data= tribble(
       ~x, ~y,~label,
-      0, 25, "<b style='font-size:18pt'>Visualizing Spotify:<br>The 5, 4, 3, 2 and 1</b><br><br>Thanks to the marketing campaing **Spotify's Wrapped**, many of us share a summary of what we've been listening to throughout the year. Just like every **summary**, there's **data** in the process in the making. Here, I'm presenting you a **visual summary** of some of **my Spotify's Wrapped playlists**:",
+      0, 25, "<b style='font-size:18pt'>Visualizing Spotify:<br>The 5, 4, 3, 2 and 1</b><br><br>Thanks to the marketing campaign **Spotify's Wrapped**, many of us share a summary of what we've been listening to throughout the year. Just like every **summary**, there's **data** in the process. Here, I'm presenting you a **visual overview** of some of **my Spotify's Wrapped playlists**:",
       0, 12.3, "<p><b>· 5 years of music</b>: All the songs I listened to during my time in college (2016-2020)</p> <p><b>· 4 Spotify Audio Features</b>: Energy, Loudness, Acousticness and Song's Positivy </p> <p><b>· 3 encodings</b>: <b>Acousticness</b> (<span style='font-size:13pt'>size</span>), <b>Song's Positivy</b> (<span style='color:gray20'>opa</span><span style='color:gray50'>ci</span><span style='color:gray70'>ty</span>) and whether the <b>artist</b> of the song is part of the <b>top 10</b> or not (<b><span style='color:#e76254'>co</span><span style='color:#ef8a47'>lo</span><span style='color:#528fad'>ur</span></b>).</p>",
       0, -20, "<p><b>· 2-dimensional representation</b>: Principal Component Analysis <b>(PCA)</b> was used for <b>Dimensionality Reduction</b></p> <p><b>· 1 user</b>: Me</p>"
       ),
