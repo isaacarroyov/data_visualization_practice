@@ -30,8 +30,9 @@ I organize this repository by folders (Data Visualization libraries/packages). I
 
 ## Dataviz mini-projects
 Here you can find the content inside this repository:
-* **Matplotlib + Seaborn** :chart_with_upwards_trend: :bar_chart: : (working on it... :hourglass_flowing_sand:)
-* **GeoPandas** :earth_americas: :world_map: : (working on it... :hourglass_flowing_sand:)
+* **Visualizing Science :telescope::technologist::microscope::woman_scientist:**
+  * Visualizing Mathematics:
+    * [Line Integral on a Vector Field](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Scientific_Visualization#line-integral-on-a-vector-field)
 * **Altair** :eye: :
   * Visualizing Spotify:
     * [The 5, 4, 3, 2 and 1](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Altair#the-5-4-3-2-and-1)
