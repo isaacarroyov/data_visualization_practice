@@ -6,3 +6,4 @@ Folium/figures
 *.cache
 */svgs/
 tutorial_*.ipynb
+*.pdf
