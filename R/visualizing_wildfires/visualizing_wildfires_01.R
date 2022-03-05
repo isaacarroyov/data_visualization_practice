@@ -74,8 +74,8 @@ theme_update(
                                      title.hjust = 0.5, barwidth = unit(400,"points"),
                                      barheight = unit(10,"points"), ticks=F))
 )
-#ggsave('./../map_affected_area_total.png', width = 756, height = 756, units = "px", dpi = 300, scale = 3)
-#ggsave('./../map_affected_area_total_social_media.png', width = 756, height = 756, units = "px", dpi = 300, scale = 3)
+
+ggsave('./R/visualizing_wildfires/images/map_affected_area_total_plot.png', width = 756, height = 756, units = "px", dpi = 300, scale = 3)
 
 
 (map_NumWildfires <- carto_NumWildfires %>%
@@ -90,8 +90,7 @@ theme_update(
                                      barheight = unit(10,"points"), ticks=F))
         
 )
-#ggsave('./../map_number_of_wildfires.png', width = 756, height = 756, units = "px", dpi = 300, scale = 3)
-#ggsave('./../map_number_of_wildfires_social_media.png', width = 756, height = 756, units = "px", dpi = 300, scale = 3)
+ggsave('./R/visualizing_wildfires/images/map_number_of_wildfires_plot.png', width = 756, height = 756, units = "px", dpi = 300, scale = 3)
 
 
 (map_PercentageANPHectares <- carto_PercentageANPHectares %>%
@@ -106,6 +105,4 @@ theme_update(
                                      barheight = unit(10,"points"), ticks=F))
 )
 
-
-#ggsave('./../map_affected_area_anp.png', width = 756, height = 756, units = "px", dpi = 300, scale = 3)
-#ggsave('./../map_affected_area_anp_social_media.png', width = 756, height = 756, units = "px", dpi = 300, scale = 3)
+ggsave('./R/visualizing_wildfires/images/map_affected_area_anp_plot.png', width = 756, height = 756, units = "px", dpi = 300, scale = 3)
