@@ -16,4 +16,8 @@ You can also see the chart made with Python + Altair [here](https://github.com/i
 [_**Source code**_](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_spotify/visualizing_spotify_01-02_pca.R)
 
 ## Visualizing Wildfires
+### with Cartograms
+Visualize this plot and the details in Behance ([here](https://www.behance.net/gallery/138741291/Visualizing-wildfires)). 
+Also, the interactive version [here](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Altair#interactive-maps)
 ![Cartograms](./../R/visualizing_wildfires/images/visualizing_wildfires_cartograms.png)
+[**Source code**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_wildfires/visualizing_wildfires_01.R)
