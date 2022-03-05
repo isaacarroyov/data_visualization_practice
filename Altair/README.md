@@ -12,3 +12,10 @@ presenting you a **visual summary** of some of **my Spotify's Wrapped playlists*
 ## Visualizing temperatures 02 (Working on it... :hourglass_flowing_sand:)
 This work is made to compare the outputs of similar plots made with different libraries and programming languages.
 In the meantime, check out the first plot made with **R** [here](https://github.com/isaacarroyov/data_visualization_practice/tree/master/R#visualizing-temperatures-01)
+
+## Visualizing Wildfires
+### Interactive maps
+Interact with the maps [here](https://datapane.com/u/unisaacarroyov/reports/VkBgrZA/visualizing-wildfires-01/)
+![states mexico](./../Altair/visualizing_wildfires/images/visualizing_wildfires_python_states_points.png)
+![interactive points](./../Altair/visualizing_wildfires/images/visualizing_wildfires_python_interactive_points.png)
+[**Source code**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/Altair/visualizing_wildfires/visualizing_wildfires_01.ipynb)
