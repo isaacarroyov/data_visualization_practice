@@ -18,7 +18,7 @@ You can also see the chart made with Python + Altair [here](https://github.com/i
 ## Visualizing Wildfires
 ### with Cartograms
 Visualize this plot in Behance ([here](https://www.behance.net/gallery/138741291/Visualizing-wildfires)). In order to create the final product 
-I had to use [**Vectornator**](https://www.vectornator.io), an illustration software. 
+I had to used [**Vectornator**](https://www.vectornator.io), an illustration software. 
 
 I invite you to check out the interactive version [here](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Altair#interactive-maps)
 ![Cartograms](./../R/visualizing_wildfires/images/visualizing_wildfires_cartograms.png)
