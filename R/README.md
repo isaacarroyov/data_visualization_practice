@@ -14,3 +14,6 @@ presenting you a **visual summary** of some of **my Spotify's Wrapped playlists*
 You can also see the chart made with Python + Altair [here](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Altair#the-5-4-3-2-and-1)
 ![Scatter plot with legend](./../R/visualizing_spotify/images/visualizing_spotify_01-02_pca.png)
 [_**Source code**_](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_spotify/visualizing_spotify_01-02_pca.R)
+
+## Visualizing Wildfires
+![Cartograms](./../R/visualizing_wildfires/images/visualizing_wildfires_cartograms.png)
