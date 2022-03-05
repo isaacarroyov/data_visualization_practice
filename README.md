@@ -36,10 +36,14 @@ Here you can find the content inside this repository:
 * **Altair** :eye: :
   * Visualizing Spotify:
     * [The 5, 4, 3, 2 and 1](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Altair#the-5-4-3-2-and-1)
+  * Visualizing Wildfires:
+    * [Interactive maps](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Altair#interactive-maps)
 * **R** :
   * [Visualizing temperatures](https://github.com/isaacarroyov/data_visualization_practice/tree/master/R#visualizing-temperatures-01) :chart_with_upwards_trend:
   * Visualizing Spotify:
     * [The 5, 4, 3, 2 and 1](https://github.com/isaacarroyov/data_visualization_practice/tree/master/R#the-5-4-3-2-and-1)
+  * Visualizing wildfires:
+    * [with Cartograms](https://github.com/isaacarroyov/data_visualization_practice/tree/master/R#with-cartograms)
 
 * **Folium** :earth_americas: :world_map::
   * [Visualizing Mexico's wildfire information](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Folium/Wildfires)
