@@ -8,4 +8,4 @@ Spanish tutorial focused on data wrangling and data visualization with **Matplot
 > visualizaciones en **Matplotlib** y **Seaborn**.
 
 ![Child mortality](./../Matplotlib_Seaborn/visualizing_our_world_in_data/images/visualizing_our_world_in_data_01_child_mortality_english.png)
-[**Jupyter notebook (Englihs version :arrow_right: last cell)**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/Matplotlib_Seaborn/visualizing_our_world_in_data/01_child_morality.ipynb)
+[**Jupyter notebook (English version :arrow_right: last cell)**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/Matplotlib_Seaborn/visualizing_our_world_in_data/01_child_morality.ipynb)
