@@ -7,4 +7,4 @@ Folium/figures
 */svgs/
 tutorial_*.ipynb
 *.pdf
-ignore_
+ignore_*
