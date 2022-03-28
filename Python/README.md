@@ -18,3 +18,9 @@ Enjoy the visualizations! :sparkles:
 ![line integral](./visualizing_science/Mathematics/images/visualizing_science_math_line-integral-vector-field.JPG)
 [**Code**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/Python/visualizing_science/Mathematics/scientific_visualization_math_line-integral-vector-field.py)
 
+
+## Visualizing Wildfires
+### Interactive maps
+Interact with the maps [here](https://datapane.com/u/unisaacarroyov/reports/VkBgrZA/visualizing-wildfires-01/)
+![wildfire_map](./visualizing_wildfires/images/visualizing_wildfires_python_states_points.png)
+[**Code**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/Python/visualizing_wildfires/visualizing_wildfires_01.ipynb)
