@@ -10,7 +10,9 @@ have any visual tool (photographs, charts, plots, diagrams, illustration, etc.),
 think that's why I'm into science (and mostly physics). The better we visualize data, 
 the better we can understand the problem and communicate the solution.
 
-As part of my learning path to become a Data Scientist, I created this repository. 
+To me, Data Visualization is like telling a story. Consequently, I treat my projects with 
+patience and dedication, like a scientist writting a research paper.
+
 Here you can find _mini-projects_ where I practice my **Data Visualization skills**. 
 Use it as you like it:
 * practice,
@@ -21,31 +23,7 @@ Most of the plots are going to be on my Instagram account
 ([@unisaacarroyov](https://www.instagram.com/unisaacarroyov/)). Join me, we can learn together!
 
 ## What's in the repository?
-I organize this repository by folders (Data Visualization libraries/packages). Inside those folders you can find the _dataviz mini-projects_ 
-(where I practice). In each library folder, you can find:
-
-* a Jupyter Notebook, RMarkdown or any other resource for documentation of the process.
-* (obviously) the **REAMDE.md** file where I write the required software/libraries for each dataviz mini-project
-* Scripts for the visualizations only, so you can try them or modify them in the text editor of your preference.
-
-## Dataviz mini-projects
-Here you can find the content inside this repository:
-* **Visualizing Science :telescope::technologist::microscope::woman_scientist:**
-  * Visualizing Mathematics:
-    * [Line Integral on a Vector Field](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Scientific_Visualization#line-integral-on-a-vector-field)
-* **Altair** :eye: :
-  * Visualizing Spotify:
-    * [The 5, 4, 3, 2 and 1](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Altair#the-5-4-3-2-and-1)
-  * Visualizing Wildfires:
-    * [Interactive maps](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Altair#interactive-maps)
-* **R** :
-  * [Visualizing temperatures](https://github.com/isaacarroyov/data_visualization_practice/tree/master/R#visualizing-temperatures-01) :chart_with_upwards_trend:
-  * Visualizing Spotify:
-    * [The 5, 4, 3, 2 and 1](https://github.com/isaacarroyov/data_visualization_practice/tree/master/R#the-5-4-3-2-and-1)
-  * Visualizing wildfires:
-    * [with Cartograms](https://github.com/isaacarroyov/data_visualization_practice/tree/master/R#with-cartograms)
-* **Matplotlib + Seaborn**:
-  * Visualizing **Our World in Data**:
-    * [**Child mortality (Spanish tutorial)**](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Matplotlib_Seaborn#child-mortality-spanish-tutorial)
-* **Folium** :earth_americas: :world_map::
-  * [Visualizing Mexico's wildfire information](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Folium/Wildfires)
+I organized this repository the following way:
+> * :open_file_folder: **Folders** :arrow_right: Data Visualization tool (programming language or software)
+>   * (_inside_) :open_file_folder: **Folders** :arrow_right: Data visualization projects (name)
+>     * (_inside_) :books: **Resources** :arrow_right: the final charts (a folder named **images**), the code and external links (not all the times).
