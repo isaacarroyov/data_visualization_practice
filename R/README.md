@@ -1,11 +1,17 @@
 # R – Gallery
-## Visualizing temperatures 01
-This work is made to compare the outputs of similar plots made with different libraries and programming languages.
-The other plot is going to be made with Python + Altair ([here](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Altair#visualizing-temperatures-02-working-on-it-hourglass_flowing_sand))
-![Distribution of temperature data](visualizing_temperatures/images/visualizing_temperatures_R_01.png)
-[_**Source code**_](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_temperatures/visualizing_temperatures_01.R)
+## Visualizing environmental data in Yucatan, Mexico
+### Part I: Temperature, soil moisture and drought severity
+These chart are the individual version of a _bigger_ data visualization project called **"20 years of environmental data in Yucatan, Mexico"**
+the complete data visualization is still in process.
+![grid charts](./visualizing_environmental_data/images/visualizing_environmental_data_pt1_grid_charts.png)
+[_**Source code**_](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_environmental_data/visualizing_environmental_data_individuals_charts_2001_2020.R)
 
-## Visualizing Spotify 02
+### Visualizing temperatures
+_This is the "old" project_
+![jitter plot](./visualizing_environmental_data/images/visualizing_temperatures_R_01.png)
+[_**Source code**_](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_environmental_data/visualizing_temperatures_01.R)
+
+## Visualizing Spotify
 ### The 5, 4, 3, 2 and 1
 Thanks to the marketing campaing **Spotify's Wrapped**, many of us share a summary of what we've been listening 
 to throughout the year. Just like every **summary**, there's **data** in the process in the making. Here, I'm 
