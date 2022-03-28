@@ -27,3 +27,6 @@ I organized this repository the following way:
 > * :open_file_folder: **Folders** :arrow_right: Data Visualization tool (programming language or software)
 >   * (_inside_) :open_file_folder: **Folders** :arrow_right: Data visualization projects (name)
 >     * (_inside_) :books: **Resources** :arrow_right: the final charts (a folder named **images**), the code and external links (not all the times).
+
+[**Python – Gallery**](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Python)
+[**R – Gallery**](https://github.com/isaacarroyov/data_visualization_practice/tree/master/R)
