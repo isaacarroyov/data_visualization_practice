@@ -18,13 +18,6 @@ Enjoy the visualizations! :sparkles:
 ![line integral](./visualizing_science/Mathematics/images/visualizing_science_math_line-integral-vector-field.JPG)  
 [**Code**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/Python/visualizing_science/Mathematics/scientific_visualization_math_line-integral-vector-field.py)
 
-
-## Visualizing Wildfires
-### Interactive maps (`Alatair`)
-Interact with the maps [here](https://datapane.com/u/unisaacarroyov/reports/VkBgrZA/visualizing-wildfires-01/)  
-![wildfire_map](./visualizing_wildfires/images/visualizing_wildfires_python_states_points.png)  
-[**Jupyter notebook**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/Python/visualizing_wildfires/visualizing_wildfires_01.ipynb)
-
 ## Visualizing Spotify
 ### The 5, 4, 3, 2 and 1 (`Alatair`)
 Thanks to the marketing campaing **Spotify's Wrapped**, many of us share a summary of what we've been listening 
@@ -33,3 +26,11 @@ presenting you a **visual summary** of some of **my Spotify's Wrapped playlists*
 ![spotify data viz](./visualizing_spotify/images/visualizing_spotify_01-01_pca.png)  
 [**Interactive chart**](https://datapane.com/u/unisaacarroyov/reports/E7Pwzy3/visualizing-spotify-the-5-4-3-2-and-1/)  
 [**Jupyter notebook**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/Python/visualizing_spotify/visualizing_spotify_01-01_pca.ipynb)
+
+## Visualizing Wildfires
+### Interactive maps (`Alatair`)
+Interact with the maps [here](https://datapane.com/u/unisaacarroyov/reports/VkBgrZA/visualizing-wildfires-01/)  
+![wildfire_map](./visualizing_wildfires/images/visualizing_wildfires_python_states_points.png)  
+[**Jupyter notebook**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/Python/visualizing_wildfires/visualizing_wildfires_01.ipynb)
+### Visualizing Mexican Wildfires during 2017 :arrow_right: Towards Data Science – Medium post (`Folium`)
+<img src="./visualizing_mexican_wildfires_tds/images/TDS_wildfires_article.jpeg" width=400px>
