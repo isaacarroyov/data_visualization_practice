@@ -33,4 +33,5 @@ Interact with the maps [here](https://datapane.com/u/unisaacarroyov/reports/VkBg
 ![wildfire_map](./visualizing_wildfires/images/visualizing_wildfires_python_states_points.png)  
 [**Jupyter notebook**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/Python/visualizing_wildfires/visualizing_wildfires_01.ipynb)
 ### Visualizing Mexican Wildfires during 2017 :arrow_right: Towards Data Science – Medium post (`Folium`)
-<img src="./visualizing_mexican_wildfires_tds/images/TDS_wildfires_article.jpeg" width=600px>
+![](./visualizing_mexican_wildfires_tds/images/TDS_wildfires_article.jpeg)
+[**Project**](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Python/visualizing_mexican_wildfires_tds)
