@@ -1,10 +1,6 @@
 .ipynb_checkpoints/
 data/.DS_Store
 .DS_Store
-Folium/Wildfires/figures
-Folium/figures
 *.cache
-*/svgs/
-tutorial_*.ipynb
 *.pdf
 ignore_*
