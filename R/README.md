@@ -4,12 +4,12 @@
 These chart are the individual version of a _bigger_ data visualization project called **"20 years of environmental data in Yucatan, Mexico"**
 the complete data visualization is still in process.
 ![grid charts](./visualizing_environmental_data/images/visualizing_environmental_data_pt1_grid_charts.png)
-[_**Source code**_](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_environmental_data/visualizing_environmental_data_individuals_charts_2001_2020.R)
+[_**Code**_](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_environmental_data/visualizing_environmental_data_individuals_charts_2001_2020.R)
 
 ### Visualizing temperatures
 _This is the "old" project_
 ![jitter plot](./visualizing_environmental_data/images/visualizing_temperatures_R_01.png)
-[_**Source code**_](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_environmental_data/visualizing_temperatures_01.R)
+[_**Code**_](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_environmental_data/visualizing_temperatures_01.R)
 
 ## Visualizing Spotify
 ### The 5, 4, 3, 2 and 1
@@ -19,7 +19,7 @@ presenting you a **visual summary** of some of **my Spotify's Wrapped playlists*
 
 You can also see the chart made with Python + Altair [here](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Altair#the-5-4-3-2-and-1)
 ![Scatter plot with legend](./../R/visualizing_spotify/images/visualizing_spotify_01-02_pca.png)
-[_**Source code**_](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_spotify/visualizing_spotify_01-02_pca.R)
+[_**Code**_](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_spotify/visualizing_spotify_01-02_pca.R)
 
 ## Visualizing Wildfires
 ### with Cartograms
@@ -28,4 +28,4 @@ I had to used [**Vectornator**](https://www.vectornator.io), an illustration sof
 
 I invite you to check out the interactive version [here](https://github.com/isaacarroyov/data_visualization_practice/tree/master/Altair#interactive-maps)
 ![Cartograms](./../R/visualizing_wildfires/images/visualizing_wildfires_cartograms.png)
-[**Source code**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_wildfires/visualizing_wildfires_01.R)
+[**Code**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_wildfires/visualizing_wildfires_01.R)
