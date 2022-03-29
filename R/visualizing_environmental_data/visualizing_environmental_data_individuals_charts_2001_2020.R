@@ -58,7 +58,7 @@ theme_update(
     scale_y_discrete(limits=rev) +
     coord_cartesian(clip="off") +
     annotate(geom = "text", family="Georgia", x= 33, y= 11.5, size=3.5, hjust=0,
-             label=glue::glue("Historic average\ntemperature: {round(mean(df$temperature),1)} ºC")) +
+             label=glue::glue("Historical average\ntemperature: {round(mean(df$temperature),1)} ºC")) +
     annotate(geom = "text", family="Georgia", x= 21.5, y= 9, size=3.5, hjust=0,
              label=glue::glue("January has the lowest\ntemperature with {round(df$temperature[which.min(df$temperature)],1)} ºC\nrecorded in 2020, even\nthough historically the coldest\nmonth is December with {round(df_monthly_avg$temperature_monthly_avg[12],1)} ºC.")) +
     annotate(geom = "text", family="Georgia", x= 30.75, y= 4.5, size=3.5, hjust=0,
@@ -99,7 +99,7 @@ ggsave("./R/visualizing_environmental_data/images/visualizing_environmental_data
     scale_y_discrete(limits=rev) +
     coord_cartesian(clip="off") +
     annotate(geom = "text", family="Georgia", x= 130, y= 11.5, size=3.5, hjust=0,
-             label=glue::glue("Historic average\nsoil moisture: {round(mean(df$soil_moisture),1)} mm")) +
+             label=glue::glue("Historical average\nsoil moisture: {round(mean(df$soil_moisture),1)} mm")) +
     annotate(geom = "text", family="Georgia", x= 103, y= 9, size=3.5, hjust=0,
              label=glue::glue("March, April and May are the months with\nthe lowest values of soil mositure\ncompared with the historical average")) +
     labs( title= "**20 years of environmental data in Yucatan, Mexico:<br>Soil Moisture**",
