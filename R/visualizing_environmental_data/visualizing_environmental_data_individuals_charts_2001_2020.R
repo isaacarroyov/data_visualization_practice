@@ -105,7 +105,7 @@ ggsave("./R/visualizing_environmental_data/images/visualizing_environmental_data
     labs( title= "**20 years of environmental data in Yucatan, Mexico:<br>Soil Moisture**",
           subtitle="Distribution of monthly soil moisture from 2001 to 2020. The <span style='font-size:9pt'><b>smaller dots</b></span> are monthly soil moisture average, the <span style='font-size:13pt'><b>larger ones</b></span> are the historical soil moisture average for the month, and the vertical line is the overall historical soil moisture average.",
           caption="**Data**: TerraClimate: Monthly Climate and Climatic Water Balance for Global Terrestrial Surfaces, University of Idaho<br>**Visualization by Isaac Arroyo (@unisaacarroyov)**") +
-    xlab("Soil moisture data in **millimeters (mm)**") +
+    xlab("Soil moisture data in **millimetres (mm)**") +
     geom_curve(
       data = tribble(
         ~x1,~x2,~y1,~y2,
@@ -147,7 +147,7 @@ ggsave("./R/visualizing_environmental_data/images/visualizing_environmental_data
     labs( title= "**20 years of environmental data in Yucatan, Mexico:<br>Drought severity**",
           subtitle="Distribution of monthly drought severity from 2001 to 2020. The <span style='font-size:9pt'><b>smaller dots</b></span> are monthly drought severity average, the <span style='font-size:13pt'><b>larger ones</b></span> are the historical drought severity average for the month, and the vertical line is the overall historical drought severity average.",
           caption="**Data**: TerraClimate: Monthly Climate and Climatic Water Balance for Global Terrestrial Surfaces, University of Idaho<br>**Visualization by Isaac Arroyo (@unisaacarroyov)**") +
-    xlab("Drought severity given by **Palmer's Drought Severuty Index (PDSI)**.<br><span style='font-size:9pt'>Negatives values mean higher periods of time without rain</span>") +
+    xlab("Drought severity given by **Palmer Drought Severuty Index (PDSI)**.<br><span style='font-size:9pt'>Negatives values mean higher periods of time without rain</span>") +
     geom_curve(
       data = tribble(
         ~x1,~x2,~y1,~y2,
@@ -202,7 +202,7 @@ ggsave("./R/visualizing_environmental_data/images/visualizing_environmental_data
     scale_x_discrete(breaks= levels(df$Year),
                      labels= c("01","02","03","04","05","06","07","08","09","10","11","12",
                                "13","14","15","16","17","18","19","20")) +
-    guides(color=guide_colorbar(title="Soil moisture data in **millimeters (mm)**", ticks=F, reverse=T,
+    guides(color=guide_colorbar(title="Soil moisture data in **millimetres (mm)**", ticks=F, reverse=T,
                                 direction = "horizontal", title.position = "top",
                                 barwidth = unit(430,"points"), barheight = unit(5,"points"))) +
     labs(title = "**20 years of environmental data in Yucatan, Mexico:<br>Soil moisture**",
@@ -232,7 +232,7 @@ ggsave("./R/visualizing_environmental_data/images/visualizing_environmental_data
     scale_x_discrete(breaks= levels(df$Year),
                      labels= c("01","02","03","04","05","06","07","08","09","10","11","12",
                                "13","14","15","16","17","18","19","20")) +
-    guides(color=guide_colorbar(title="Drought severity given by **Palmer's Drought Severuty Index (PDSI)**.<br><span style='font-size:7pt'>Negatives values mean higher periods of time without rain</span>", ticks=F, reverse=F,
+    guides(color=guide_colorbar(title="Drought severity given by **Palmer Drought Severuty Index (PDSI)**.<br><span style='font-size:7pt'>Negatives values mean higher periods of time without rain</span>", ticks=F, reverse=F,
                                 direction = "horizontal", title.position = "top",
                                 barwidth = unit(430,"points"), barheight = unit(5,"points"))) +
     labs(title = "**20 years of environmental data in Yucatan, Mexico:<br>Drought severity**",
