@@ -1,8 +1,8 @@
 # R – Gallery
 ## Visualizing environmental data in Yucatan, Mexico
 ### Part I: Temperature, soil moisture and drought severity
-These chart are the individual version of a _bigger_ data visualization project called **"20 years of environmental data in Yucatan, Mexico"**
-the complete data visualization is still in process.
+These chart are the individual version of a _bigger_ data visualization project called [**"20 years of environmental data in Yucatan, Mexico"**](https://www.behance.net/gallery/140490559/20-years-of-environmental-data)
+the complete data visualization is my [Behance profile](https://www.behance.net/unisaacarroyov).
 ![grid charts](./visualizing_environmental_data/images/visualizing_environmental_data_pt1_grid_charts.png)
 [_**Code**_](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/visualizing_environmental_data/visualizing_environmental_data_individuals_charts_2001_2020.R)
 
