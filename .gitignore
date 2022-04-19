@@ -6,3 +6,5 @@ data/.DS_Store
 ignore_*
 .RData
 .Rhistory
+*.svg
+*.ai
