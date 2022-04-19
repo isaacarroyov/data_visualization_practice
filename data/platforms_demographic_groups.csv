@@ -1,0 +1,221 @@
+group,platform,values
+Total,Youtube,81
+Men,Youtube,82
+Women,Youtube,80
+White,Youtube,79
+Black,Youtube,84
+Hispanic,Youtube,85
+18-29 years old,Youtube,95
+30-49 years old,Youtube,91
+50-64 years old,Youtube,83
+65+ years old,Youtube,49
+<$30K,Youtube,75
+"$30K-$49,999",Youtube,83
+"$50K-74,999",Youtube,79
+$75K+,Youtube,90
+High School or less,Youtube,70
+Some college,Youtube,86
+College+,Youtube,89
+Urban,Youtube,84
+Suburban,Youtube,81
+Rural,Youtube,74
+Total,Facebook,69
+Men,Facebook,61
+Women,Facebook,77
+White,Facebook,67
+Black,Facebook,74
+Hispanic,Facebook,72
+18-29 years old,Facebook,70
+30-49 years old,Facebook,77
+50-64 years old,Facebook,73
+65+ years old,Facebook,50
+<$30K,Facebook,70
+"$30K-$49,999",Facebook,76
+"$50K-74,999",Facebook,61
+$75K+,Facebook,70
+High School or less,Facebook,64
+Some college,Facebook,71
+College+,Facebook,73
+Urban,Facebook,70
+Suburban,Facebook,70
+Rural,Facebook,67
+Total,Instagram,40
+Men,Instagram,36
+Women,Instagram,44
+White,Instagram,35
+Black,Instagram,49
+Hispanic,Instagram,52
+18-29 years old,Instagram,71
+30-49 years old,Instagram,48
+50-64 years old,Instagram,29
+65+ years old,Instagram,13
+<$30K,Instagram,35
+"$30K-$49,999",Instagram,45
+"$50K-74,999",Instagram,39
+$75K+,Instagram,47
+High School or less,Instagram,30
+Some college,Instagram,44
+College+,Instagram,49
+Urban,Instagram,45
+Suburban,Instagram,41
+Rural,Instagram,25
+Total,Pinterest,31
+Men,Pinterest,16
+Women,Pinterest,46
+White,Pinterest,34
+Black,Pinterest,35
+Hispanic,Pinterest,18
+18-29 years old,Pinterest,32
+30-49 years old,Pinterest,34
+50-64 years old,Pinterest,38
+65+ years old,Pinterest,18
+<$30K,Pinterest,21
+"$30K-$49,999",Pinterest,33
+"$50K-74,999",Pinterest,29
+$75K+,Pinterest,40
+High School or less,Pinterest,22
+Some college,Pinterest,36
+College+,Pinterest,37
+Urban,Pinterest,30
+Suburban,Pinterest,32
+Rural,Pinterest,34
+Total,LinkedIn,28
+Men,LinkedIn,31
+Women,LinkedIn,26
+White,LinkedIn,29
+Black,LinkedIn,27
+Hispanic,LinkedIn,19
+18-29 years old,LinkedIn,30
+30-49 years old,LinkedIn,36
+50-64 years old,LinkedIn,33
+65+ years old,LinkedIn,11
+<$30K,LinkedIn,12
+"$30K-$49,999",LinkedIn,21
+"$50K-74,999",LinkedIn,21
+$75K+,LinkedIn,50
+High School or less,LinkedIn,10
+Some college,LinkedIn,28
+College+,LinkedIn,51
+Urban,LinkedIn,30
+Suburban,LinkedIn,33
+Rural,LinkedIn,15
+Total,Snapchat,25
+Men,Snapchat,22
+Women,Snapchat,28
+White,Snapchat,23
+Black,Snapchat,26
+Hispanic,Snapchat,31
+18-29 years old,Snapchat,65
+30-49 years old,Snapchat,24
+50-64 years old,Snapchat,12
+65+ years old,Snapchat,2
+<$30K,Snapchat,25
+"$30K-$49,999",Snapchat,27
+"$50K-74,999",Snapchat,29
+$75K+,Snapchat,28
+High School or less,Snapchat,21
+Some college,Snapchat,32
+College+,Snapchat,23
+Urban,Snapchat,28
+Suburban,Snapchat,25
+Rural,Snapchat,18
+Total,Twitter,23
+Men,Twitter,25
+Women,Twitter,22
+White,Twitter,22
+Black,Twitter,29
+Hispanic,Twitter,23
+18-29 years old,Twitter,42
+30-49 years old,Twitter,27
+50-64 years old,Twitter,18
+65+ years old,Twitter,7
+<$30K,Twitter,12
+"$30K-$49,999",Twitter,29
+"$50K-74,999",Twitter,22
+$75K+,Twitter,34
+High School or less,Twitter,14
+Some college,Twitter,26
+College+,Twitter,33
+Urban,Twitter,27
+Suburban,Twitter,23
+Rural,Twitter,18
+Total,WhatsApp,23
+Men,WhatsApp,26
+Women,WhatsApp,21
+White,WhatsApp,16
+Black,WhatsApp,23
+Hispanic,WhatsApp,46
+18-29 years old,WhatsApp,24
+30-49 years old,WhatsApp,40
+50-64 years old,WhatsApp,23
+65+ years old,WhatsApp,10
+<$30K,WhatsApp,23
+"$30K-$49,999",WhatsApp,20
+"$50K-74,999",WhatsApp,19
+$75K+,WhatsApp,29
+High School or less,WhatsApp,20
+Some college,WhatsApp,16
+College+,WhatsApp,33
+Urban,WhatsApp,28
+Suburban,WhatsApp,23
+Rural,WhatsApp,9
+Total,TikTok,21
+Men,TikTok,17
+Women,TikTok,24
+White,TikTok,18
+Black,TikTok,30
+Hispanic,TikTok,31
+18-29 years old,TikTok,48
+30-49 years old,TikTok,22
+50-64 years old,TikTok,14
+65+ years old,TikTok,4
+<$30K,TikTok,22
+"$30K-$49,999",TikTok,29
+"$50K-74,999",TikTok,29
+$75K+,TikTok,29
+High School or less,TikTok,21
+Some college,TikTok,24
+College+,TikTok,19
+Urban,TikTok,24
+Suburban,TikTok,20
+Rural,TikTok,16
+Total,Reddit,18
+Men,Reddit,23
+Women,Reddit,12
+White,Reddit,17
+Black,Reddit,17
+Hispanic,Reddit,14
+18-29 years old,Reddit,36
+30-49 years old,Reddit,22
+50-64 years old,Reddit,10
+65+ years old,Reddit,3
+<$30K,Reddit,10
+"$30K-$49,999",Reddit,17
+"$50K-74,999",Reddit,20
+$75K+,Reddit,26
+High School or less,Reddit,9
+Some college,Reddit,20
+College+,Reddit,26
+Urban,Reddit,18
+Suburban,Reddit,21
+Rural,Reddit,10
+Total,Nextdoor,13
+Men,Nextdoor,10
+Women,Nextdoor,16
+White,Nextdoor,15
+Black,Nextdoor,10
+Hispanic,Nextdoor,8
+18-29 years old,Nextdoor,5
+30-49 years old,Nextdoor,17
+50-64 years old,Nextdoor,16
+65+ years old,Nextdoor,8
+<$30K,Nextdoor,6
+"$30K-$49,999",Nextdoor,11
+"$50K-74,999",Nextdoor,12
+$75K+,Nextdoor,20
+High School or less,Nextdoor,4
+Some college,Nextdoor,12
+College+,Nextdoor,24
+Urban,Nextdoor,17
+Suburban,Nextdoor,14
+Rural,Nextdoor,2
