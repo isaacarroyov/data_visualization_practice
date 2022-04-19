@@ -1,4 +1,13 @@
 # R – Gallery
+
+## Social Media Use in 2021 by demographic group
+Created a visualization based on the original one ([here](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/pi_2021-04-07_social-media_0-03/)). 
+The base chart was made in R and the final editing with Adobe Illustrator.
+
+[**Code**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/R/task_bloomberg/task_bloomberg_02.R)
+
+![](./../R/task_bloomberg/task_bloomberg_chart_02.png)
+
 ## Visualizing environmental data in Yucatan, Mexico
 ### Part I: Temperature, soil moisture and drought severity
 These chart are the individual version of a _bigger_ data visualization project called [**"20 years of environmental data in Yucatan, Mexico"**](https://www.behance.net/gallery/140490559/20-years-of-environmental-data)
