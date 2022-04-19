@@ -1,4 +1,14 @@
 # Python – Gallery
+
+## Interactive chart: Nuclear Energy
+Created an interactive chart based on the Bloomberg's article 
+[_"Nuclear Power Gets a Fresh Look as Nations Chase Climate Goals"_](https://www.bloomberg.com/news/articles/2022-01-10/nuclear-power-reactors-could-be-way-for-nations-to-achieve-climate-goals).
+
+[**Code**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/Python/task_bloomberg/task_bloomberg_01.ipynb)  
+[**_Interactive chart (HTML)_**](https://github.com/isaacarroyov/data_visualization_practice/blob/master/Python/task_bloomberg/task_bloomberg_chart_01.html)
+
+![](./../Python/task_bloomberg/bloomberg_task_chart_01.png)
+
 ## Visualizing Our World in Data
 ### Child mortality (`Matplotlib`)
 Spanish tutorial focused on data wrangling and data visualization with **Matplotlib** and **Seaborn**.
