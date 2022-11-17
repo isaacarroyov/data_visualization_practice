@@ -1,0 +1,5143 @@
+Entity,Code,Year,Expected Years of Schooling (years)
+Afghanistan,AFG,1990,2.6
+Afghanistan,AFG,1991,2.9
+Afghanistan,AFG,1992,3.2
+Afghanistan,AFG,1993,3.6
+Afghanistan,AFG,1994,3.9
+Afghanistan,AFG,1995,4.2
+Afghanistan,AFG,1996,4.6
+Afghanistan,AFG,1997,4.9
+Afghanistan,AFG,1998,5.2
+Afghanistan,AFG,1999,5.5
+Afghanistan,AFG,2000,5.9
+Afghanistan,AFG,2001,6.2
+Afghanistan,AFG,2002,6.5
+Afghanistan,AFG,2003,6.8
+Afghanistan,AFG,2004,7.9
+Afghanistan,AFG,2005,8.1
+Afghanistan,AFG,2006,8.4
+Afghanistan,AFG,2007,8.7
+Afghanistan,AFG,2008,8.9
+Afghanistan,AFG,2009,9.2
+Afghanistan,AFG,2010,9.5
+Afghanistan,AFG,2011,9.8
+Afghanistan,AFG,2012,10
+Afghanistan,AFG,2013,10.2
+Afghanistan,AFG,2014,10.4
+Afghanistan,AFG,2015,10.4
+Afghanistan,AFG,2016,10.4
+Afghanistan,AFG,2017,10.4
+Albania,ALB,1990,11.6
+Albania,ALB,1991,11.8
+Albania,ALB,1992,10.7
+Albania,ALB,1993,10.2
+Albania,ALB,1994,10.1
+Albania,ALB,1995,10.2
+Albania,ALB,1996,10.3
+Albania,ALB,1997,10.6
+Albania,ALB,1998,10.7
+Albania,ALB,1999,10.7
+Albania,ALB,2000,10.6
+Albania,ALB,2001,10.7
+Albania,ALB,2002,10.8
+Albania,ALB,2003,11
+Albania,ALB,2004,10.9
+Albania,ALB,2005,11.5
+Albania,ALB,2006,11.6
+Albania,ALB,2007,12
+Albania,ALB,2008,12.2
+Albania,ALB,2009,12.3
+Albania,ALB,2010,13.1
+Albania,ALB,2011,13.8
+Albania,ALB,2012,14.7
+Albania,ALB,2013,14.8
+Albania,ALB,2014,14.8
+Albania,ALB,2015,14.8
+Albania,ALB,2016,14.8
+Albania,ALB,2017,14.8
+Algeria,DZA,1990,9.6
+Algeria,DZA,1991,9.7
+Algeria,DZA,1992,9.8
+Algeria,DZA,1993,9.8
+Algeria,DZA,1994,9.9
+Algeria,DZA,1995,9.8
+Algeria,DZA,1996,10
+Algeria,DZA,1997,10.3
+Algeria,DZA,1998,10.5
+Algeria,DZA,1999,10.7
+Algeria,DZA,2000,10.9
+Algeria,DZA,2001,11.1
+Algeria,DZA,2002,11.5
+Algeria,DZA,2003,11.7
+Algeria,DZA,2004,12
+Algeria,DZA,2005,12.3
+Algeria,DZA,2006,12.3
+Algeria,DZA,2007,12.6
+Algeria,DZA,2008,13.1
+Algeria,DZA,2009,13.6
+Algeria,DZA,2010,14
+Algeria,DZA,2011,14.3
+Algeria,DZA,2012,14.3
+Algeria,DZA,2013,14.3
+Algeria,DZA,2014,14.3
+Algeria,DZA,2015,14.3
+Algeria,DZA,2016,14.3
+Algeria,DZA,2017,14.4
+Andorra,AND,1990,10.8
+Andorra,AND,1991,10.8
+Andorra,AND,1992,10.8
+Andorra,AND,1993,10.8
+Andorra,AND,1994,10.8
+Andorra,AND,1995,10.8
+Andorra,AND,1996,10.8
+Andorra,AND,1997,10.8
+Andorra,AND,1998,10.8
+Andorra,AND,1999,10.8
+Andorra,AND,2000,10.8
+Andorra,AND,2001,10.8
+Andorra,AND,2002,11
+Andorra,AND,2003,10.9
+Andorra,AND,2004,10.8
+Andorra,AND,2005,10.8
+Andorra,AND,2006,11.2
+Andorra,AND,2007,11.2
+Andorra,AND,2008,11.7
+Andorra,AND,2009,11.7
+Andorra,AND,2010,11.7
+Andorra,AND,2011,11.7
+Andorra,AND,2012,13.5
+Andorra,AND,2013,13.5
+Andorra,AND,2014,13.5
+Andorra,AND,2015,13.5
+Andorra,AND,2016,13.5
+Andorra,AND,2017,13.5
+Angola,AGO,1990,3.8
+Angola,AGO,1991,3.6
+Angola,AGO,1992,3.5
+Angola,AGO,1993,3.7
+Angola,AGO,1994,3.8
+Angola,AGO,1995,3.9
+Angola,AGO,1996,4
+Angola,AGO,1997,4.1
+Angola,AGO,1998,4.2
+Angola,AGO,1999,4.6
+Angola,AGO,2000,5.1
+Angola,AGO,2001,5.5
+Angola,AGO,2002,5.9
+Angola,AGO,2003,6.4
+Angola,AGO,2004,6.8
+Angola,AGO,2005,7.2
+Angola,AGO,2006,7.7
+Angola,AGO,2007,8.1
+Angola,AGO,2008,8.5
+Angola,AGO,2009,9
+Angola,AGO,2010,8.6
+Angola,AGO,2011,9.5
+Angola,AGO,2012,9.9
+Angola,AGO,2013,10.3
+Angola,AGO,2014,10.7
+Angola,AGO,2015,11
+Angola,AGO,2016,11.4
+Angola,AGO,2017,11.8
+Antigua and Barbuda,ATG,2005,13.3
+Antigua and Barbuda,ATG,2006,13.3
+Antigua and Barbuda,ATG,2007,13.3
+Antigua and Barbuda,ATG,2008,13.1
+Antigua and Barbuda,ATG,2009,13
+Antigua and Barbuda,ATG,2010,12.9
+Antigua and Barbuda,ATG,2011,12.6
+Antigua and Barbuda,ATG,2012,12.8
+Antigua and Barbuda,ATG,2013,13
+Antigua and Barbuda,ATG,2014,13
+Antigua and Barbuda,ATG,2015,13.3
+Antigua and Barbuda,ATG,2016,13.2
+Antigua and Barbuda,ATG,2017,13.2
+Argentina,ARG,1990,13.2
+Argentina,ARG,1991,13.2
+Argentina,ARG,1992,13.2
+Argentina,ARG,1993,13.1
+Argentina,ARG,1994,13.1
+Argentina,ARG,1995,13.3
+Argentina,ARG,1996,13.5
+Argentina,ARG,1997,13.8
+Argentina,ARG,1998,14
+Argentina,ARG,1999,15
+Argentina,ARG,2000,15.6
+Argentina,ARG,2001,16.3
+Argentina,ARG,2002,16.4
+Argentina,ARG,2003,16.3
+Argentina,ARG,2004,16.3
+Argentina,ARG,2005,16.1
+Argentina,ARG,2006,16.3
+Argentina,ARG,2007,16.3
+Argentina,ARG,2008,16.5
+Argentina,ARG,2009,16.8
+Argentina,ARG,2010,17.1
+Argentina,ARG,2011,17.2
+Argentina,ARG,2012,17.2
+Argentina,ARG,2013,17.1
+Argentina,ARG,2014,17.3
+Argentina,ARG,2015,17.4
+Argentina,ARG,2016,17.4
+Argentina,ARG,2017,17.4
+Armenia,ARM,1990,10.7
+Armenia,ARM,1991,10.7
+Armenia,ARM,1992,10.6
+Armenia,ARM,1993,10.8
+Armenia,ARM,1994,10.4
+Armenia,ARM,1995,10.2
+Armenia,ARM,1996,10
+Armenia,ARM,1997,10.4
+Armenia,ARM,1998,11.1
+Armenia,ARM,1999,11.2
+Armenia,ARM,2000,11.1
+Armenia,ARM,2001,10.8
+Armenia,ARM,2002,10.8
+Armenia,ARM,2003,10.9
+Armenia,ARM,2004,10.9
+Armenia,ARM,2005,11.2
+Armenia,ARM,2006,11.7
+Armenia,ARM,2007,12.3
+Armenia,ARM,2008,12.4
+Armenia,ARM,2009,13
+Armenia,ARM,2010,13
+Armenia,ARM,2011,13
+Armenia,ARM,2012,13
+Armenia,ARM,2013,13
+Armenia,ARM,2014,13
+Armenia,ARM,2015,13
+Armenia,ARM,2016,13
+Armenia,ARM,2017,13
+Australia,AUS,1990,17.4
+Australia,AUS,1991,17.3
+Australia,AUS,1992,17.3
+Australia,AUS,1993,17.3
+Australia,AUS,1994,17.3
+Australia,AUS,1995,18.8
+Australia,AUS,1996,19.4
+Australia,AUS,1997,20.2
+Australia,AUS,1998,20.1
+Australia,AUS,1999,20.4
+Australia,AUS,2000,20.5
+Australia,AUS,2001,20.1
+Australia,AUS,2002,20.6
+Australia,AUS,2003,20.7
+Australia,AUS,2004,20.3
+Australia,AUS,2005,20.3
+Australia,AUS,2006,19
+Australia,AUS,2007,19.1
+Australia,AUS,2008,19.1
+Australia,AUS,2009,19.5
+Australia,AUS,2010,19.8
+Australia,AUS,2011,20.1
+Australia,AUS,2012,20.3
+Australia,AUS,2013,20.4
+Australia,AUS,2014,20.4
+Australia,AUS,2015,23.3
+Australia,AUS,2016,22.9
+Australia,AUS,2017,22.9
+Austria,AUT,1990,14
+Austria,AUT,1991,14.1
+Austria,AUT,1992,14.4
+Austria,AUT,1993,14.4
+Austria,AUT,1994,14.8
+Austria,AUT,1995,14.9
+Austria,AUT,1996,14.9
+Austria,AUT,1997,15
+Austria,AUT,1998,15.7
+Austria,AUT,1999,15.4
+Austria,AUT,2000,15.5
+Austria,AUT,2001,16.1
+Austria,AUT,2002,14.7
+Austria,AUT,2003,14.7
+Austria,AUT,2004,14.9
+Austria,AUT,2005,15
+Austria,AUT,2006,15.2
+Austria,AUT,2007,15.1
+Austria,AUT,2008,15.3
+Austria,AUT,2009,15.4
+Austria,AUT,2010,16
+Austria,AUT,2011,16
+Austria,AUT,2012,16.1
+Austria,AUT,2013,15.8
+Austria,AUT,2014,15.8
+Austria,AUT,2015,15.9
+Austria,AUT,2016,16.1
+Austria,AUT,2017,16.1
+Azerbaijan,AZE,1990,10.7
+Azerbaijan,AZE,1991,10.6
+Azerbaijan,AZE,1992,10.6
+Azerbaijan,AZE,1993,10.4
+Azerbaijan,AZE,1994,10.1
+Azerbaijan,AZE,1995,10
+Azerbaijan,AZE,1996,9.8
+Azerbaijan,AZE,1997,9.7
+Azerbaijan,AZE,1998,9.9
+Azerbaijan,AZE,1999,10.1
+Azerbaijan,AZE,2000,10.4
+Azerbaijan,AZE,2001,10.6
+Azerbaijan,AZE,2002,10.8
+Azerbaijan,AZE,2003,11
+Azerbaijan,AZE,2004,11.2
+Azerbaijan,AZE,2005,10.7
+Azerbaijan,AZE,2006,11.6
+Azerbaijan,AZE,2007,11.6
+Azerbaijan,AZE,2008,11.6
+Azerbaijan,AZE,2009,11.7
+Azerbaijan,AZE,2010,11.7
+Azerbaijan,AZE,2011,11.8
+Azerbaijan,AZE,2012,11.9
+Azerbaijan,AZE,2013,12.2
+Azerbaijan,AZE,2014,12.7
+Azerbaijan,AZE,2015,12.7
+Azerbaijan,AZE,2016,12.7
+Azerbaijan,AZE,2017,12.7
+Bahamas,BHS,1990,12.1
+Bahamas,BHS,1991,12
+Bahamas,BHS,1992,12
+Bahamas,BHS,1993,11.9
+Bahamas,BHS,1994,11.8
+Bahamas,BHS,1995,11.7
+Bahamas,BHS,1996,11.8
+Bahamas,BHS,1997,11.9
+Bahamas,BHS,1998,11.9
+Bahamas,BHS,1999,12
+Bahamas,BHS,2000,12.1
+Bahamas,BHS,2001,12.1
+Bahamas,BHS,2002,12.2
+Bahamas,BHS,2003,12.3
+Bahamas,BHS,2004,12.4
+Bahamas,BHS,2005,12.4
+Bahamas,BHS,2006,12.5
+Bahamas,BHS,2007,12.6
+Bahamas,BHS,2008,12.6
+Bahamas,BHS,2009,12.6
+Bahamas,BHS,2010,12.6
+Bahamas,BHS,2011,12.8
+Bahamas,BHS,2012,12.8
+Bahamas,BHS,2013,12.8
+Bahamas,BHS,2014,12.8
+Bahamas,BHS,2015,12.8
+Bahamas,BHS,2016,12.8
+Bahamas,BHS,2017,12.8
+Bahrain,BHR,1990,13.4
+Bahrain,BHR,1991,13.6
+Bahrain,BHR,1992,13.3
+Bahrain,BHR,1993,13.5
+Bahrain,BHR,1994,13.6
+Bahrain,BHR,1995,13.7
+Bahrain,BHR,1996,13.6
+Bahrain,BHR,1997,13.5
+Bahrain,BHR,1998,13.3
+Bahrain,BHR,1999,13.2
+Bahrain,BHR,2000,13.2
+Bahrain,BHR,2001,13.2
+Bahrain,BHR,2002,13.2
+Bahrain,BHR,2003,13.2
+Bahrain,BHR,2004,13
+Bahrain,BHR,2005,12.8
+Bahrain,BHR,2006,13
+Bahrain,BHR,2007,13.1
+Bahrain,BHR,2008,13.2
+Bahrain,BHR,2009,13.3
+Bahrain,BHR,2010,13.5
+Bahrain,BHR,2011,13.6
+Bahrain,BHR,2012,13.4
+Bahrain,BHR,2013,13.5
+Bahrain,BHR,2014,13.7
+Bahrain,BHR,2015,14.8
+Bahrain,BHR,2016,16
+Bahrain,BHR,2017,16
+Bangladesh,BGD,1990,5.6
+Bangladesh,BGD,1991,5.8
+Bangladesh,BGD,1992,6
+Bangladesh,BGD,1993,6.2
+Bangladesh,BGD,1994,6.4
+Bangladesh,BGD,1995,6.6
+Bangladesh,BGD,1996,6.8
+Bangladesh,BGD,1997,6.9
+Bangladesh,BGD,1998,7.1
+Bangladesh,BGD,1999,7.3
+Bangladesh,BGD,2000,7.5
+Bangladesh,BGD,2001,7.7
+Bangladesh,BGD,2002,7.9
+Bangladesh,BGD,2003,8
+Bangladesh,BGD,2004,8.2
+Bangladesh,BGD,2005,8.4
+Bangladesh,BGD,2006,8.5
+Bangladesh,BGD,2007,8.6
+Bangladesh,BGD,2008,8.4
+Bangladesh,BGD,2009,8.9
+Bangladesh,BGD,2010,9.4
+Bangladesh,BGD,2011,9.8
+Bangladesh,BGD,2012,10.2
+Bangladesh,BGD,2013,10.6
+Bangladesh,BGD,2014,10.9
+Bangladesh,BGD,2015,11.3
+Bangladesh,BGD,2016,11.4
+Bangladesh,BGD,2017,11.4
+Barbados,BRB,1990,12.8
+Barbados,BRB,1991,12.9
+Barbados,BRB,1992,13.1
+Barbados,BRB,1993,13.2
+Barbados,BRB,1994,13.3
+Barbados,BRB,1995,13.5
+Barbados,BRB,1996,13.6
+Barbados,BRB,1997,13.7
+Barbados,BRB,1998,13.4
+Barbados,BRB,1999,14
+Barbados,BRB,2000,14
+Barbados,BRB,2001,14
+Barbados,BRB,2002,14.2
+Barbados,BRB,2003,14.4
+Barbados,BRB,2004,14.6
+Barbados,BRB,2005,14.8
+Barbados,BRB,2006,15
+Barbados,BRB,2007,15.3
+Barbados,BRB,2008,15.5
+Barbados,BRB,2009,15.8
+Barbados,BRB,2010,15.5
+Barbados,BRB,2011,15.3
+Barbados,BRB,2012,15.4
+Barbados,BRB,2013,15.4
+Barbados,BRB,2014,15.4
+Barbados,BRB,2015,15.3
+Barbados,BRB,2016,15.3
+Barbados,BRB,2017,15.3
+Belarus,BLR,1990,12.9
+Belarus,BLR,1991,12.7
+Belarus,BLR,1992,12.5
+Belarus,BLR,1993,12.4
+Belarus,BLR,1994,12.4
+Belarus,BLR,1995,12.4
+Belarus,BLR,1996,12.8
+Belarus,BLR,1997,12.9
+Belarus,BLR,1998,12.8
+Belarus,BLR,1999,13.1
+Belarus,BLR,2000,13.3
+Belarus,BLR,2001,13.6
+Belarus,BLR,2002,13.9
+Belarus,BLR,2003,14.1
+Belarus,BLR,2004,14.4
+Belarus,BLR,2005,14.6
+Belarus,BLR,2006,14.9
+Belarus,BLR,2007,15.1
+Belarus,BLR,2008,15.4
+Belarus,BLR,2009,15.5
+Belarus,BLR,2010,15.5
+Belarus,BLR,2011,15.6
+Belarus,BLR,2012,15.7
+Belarus,BLR,2013,15.6
+Belarus,BLR,2014,15.5
+Belarus,BLR,2015,15.5
+Belarus,BLR,2016,15.5
+Belarus,BLR,2017,15.5
+Belgium,BEL,1990,14.1
+Belgium,BEL,1991,14.2
+Belgium,BEL,1992,15.4
+Belgium,BEL,1993,16.6
+Belgium,BEL,1994,16.9
+Belgium,BEL,1995,17.3
+Belgium,BEL,1996,17.6
+Belgium,BEL,1997,17.7
+Belgium,BEL,1998,17.9
+Belgium,BEL,1999,17.7
+Belgium,BEL,2000,17.9
+Belgium,BEL,2001,18.4
+Belgium,BEL,2002,18.4
+Belgium,BEL,2003,18.6
+Belgium,BEL,2004,18.4
+Belgium,BEL,2005,18.7
+Belgium,BEL,2006,18.9
+Belgium,BEL,2007,19
+Belgium,BEL,2008,19
+Belgium,BEL,2009,19
+Belgium,BEL,2010,19.1
+Belgium,BEL,2011,19.1
+Belgium,BEL,2012,19.2
+Belgium,BEL,2013,19.4
+Belgium,BEL,2014,19.7
+Belgium,BEL,2015,19.8
+Belgium,BEL,2016,19.8
+Belgium,BEL,2017,19.8
+Belize,BLZ,1990,10.8
+Belize,BLZ,1991,10.9
+Belize,BLZ,1992,11
+Belize,BLZ,1993,11.1
+Belize,BLZ,1994,11.2
+Belize,BLZ,1995,11.3
+Belize,BLZ,1996,11.4
+Belize,BLZ,1997,11.5
+Belize,BLZ,1998,11.6
+Belize,BLZ,1999,11.7
+Belize,BLZ,2000,11.8
+Belize,BLZ,2001,11.9
+Belize,BLZ,2002,12.2
+Belize,BLZ,2003,12.5
+Belize,BLZ,2004,12.8
+Belize,BLZ,2005,12.3
+Belize,BLZ,2006,12.8
+Belize,BLZ,2007,12.8
+Belize,BLZ,2008,12.7
+Belize,BLZ,2009,12.4
+Belize,BLZ,2010,12.4
+Belize,BLZ,2011,12.5
+Belize,BLZ,2012,12.9
+Belize,BLZ,2013,12.8
+Belize,BLZ,2014,12.8
+Belize,BLZ,2015,12.8
+Belize,BLZ,2016,12.8
+Belize,BLZ,2017,12.8
+Benin,BEN,1990,5.3
+Benin,BEN,1991,5.4
+Benin,BEN,1992,5.5
+Benin,BEN,1993,5.7
+Benin,BEN,1994,5.8
+Benin,BEN,1995,5.9
+Benin,BEN,1996,6
+Benin,BEN,1997,6.1
+Benin,BEN,1998,6.3
+Benin,BEN,1999,6.5
+Benin,BEN,2000,6.7
+Benin,BEN,2001,7.4
+Benin,BEN,2002,7.9
+Benin,BEN,2003,8.3
+Benin,BEN,2004,8.7
+Benin,BEN,2005,9.1
+Benin,BEN,2006,9.5
+Benin,BEN,2007,9.9
+Benin,BEN,2008,10.3
+Benin,BEN,2009,10.6
+Benin,BEN,2010,11
+Benin,BEN,2011,11.4
+Benin,BEN,2012,12
+Benin,BEN,2013,12.6
+Benin,BEN,2014,12.6
+Benin,BEN,2015,12.6
+Benin,BEN,2016,12.6
+Benin,BEN,2017,12.6
+Bhutan,BTN,1990,5.4
+Bhutan,BTN,1991,5.6
+Bhutan,BTN,1992,5.8
+Bhutan,BTN,1993,6
+Bhutan,BTN,1994,6.2
+Bhutan,BTN,1995,6.4
+Bhutan,BTN,1996,6.6
+Bhutan,BTN,1997,6.8
+Bhutan,BTN,1998,6.3
+Bhutan,BTN,1999,7.3
+Bhutan,BTN,2000,7.6
+Bhutan,BTN,2001,8
+Bhutan,BTN,2002,8.4
+Bhutan,BTN,2003,8.8
+Bhutan,BTN,2004,9.2
+Bhutan,BTN,2005,9.3
+Bhutan,BTN,2006,9.7
+Bhutan,BTN,2007,10.1
+Bhutan,BTN,2008,10.5
+Bhutan,BTN,2009,11.1
+Bhutan,BTN,2010,11.5
+Bhutan,BTN,2011,11.9
+Bhutan,BTN,2012,12.3
+Bhutan,BTN,2013,12.1
+Bhutan,BTN,2014,12.2
+Bhutan,BTN,2015,12.2
+Bhutan,BTN,2016,12.3
+Bhutan,BTN,2017,12.3
+Bolivia,BOL,1990,11.3
+Bolivia,BOL,1991,11.5
+Bolivia,BOL,1992,11.6
+Bolivia,BOL,1993,11.8
+Bolivia,BOL,1994,12
+Bolivia,BOL,1995,12.1
+Bolivia,BOL,1996,12.3
+Bolivia,BOL,1997,12
+Bolivia,BOL,1998,12.6
+Bolivia,BOL,1999,13.3
+Bolivia,BOL,2000,13.7
+Bolivia,BOL,2001,14
+Bolivia,BOL,2002,14.4
+Bolivia,BOL,2003,14.6
+Bolivia,BOL,2004,14.4
+Bolivia,BOL,2005,14.3
+Bolivia,BOL,2006,14.1
+Bolivia,BOL,2007,14
+Bolivia,BOL,2008,13.8
+Bolivia,BOL,2009,13.8
+Bolivia,BOL,2010,13.8
+Bolivia,BOL,2011,13.8
+Bolivia,BOL,2012,13.8
+Bolivia,BOL,2013,13.8
+Bolivia,BOL,2014,13.8
+Bolivia,BOL,2015,13.8
+Bolivia,BOL,2016,13.9
+Bolivia,BOL,2017,14
+Bosnia and Herzegovina,BIH,2000,11.6
+Bosnia and Herzegovina,BIH,2001,11.9
+Bosnia and Herzegovina,BIH,2002,12.1
+Bosnia and Herzegovina,BIH,2003,12.3
+Bosnia and Herzegovina,BIH,2004,12.5
+Bosnia and Herzegovina,BIH,2005,12.7
+Bosnia and Herzegovina,BIH,2006,12.9
+Bosnia and Herzegovina,BIH,2007,13.1
+Bosnia and Herzegovina,BIH,2008,13.3
+Bosnia and Herzegovina,BIH,2009,13.3
+Bosnia and Herzegovina,BIH,2010,13.4
+Bosnia and Herzegovina,BIH,2011,13.9
+Bosnia and Herzegovina,BIH,2012,14.2
+Bosnia and Herzegovina,BIH,2013,14.2
+Bosnia and Herzegovina,BIH,2014,14.2
+Bosnia and Herzegovina,BIH,2015,14.2
+Bosnia and Herzegovina,BIH,2016,14.2
+Bosnia and Herzegovina,BIH,2017,14.2
+Botswana,BWA,1990,10
+Botswana,BWA,1991,10.3
+Botswana,BWA,1992,10.3
+Botswana,BWA,1993,10.3
+Botswana,BWA,1994,10.2
+Botswana,BWA,1995,10.6
+Botswana,BWA,1996,10.8
+Botswana,BWA,1997,11
+Botswana,BWA,1998,11.3
+Botswana,BWA,1999,11.7
+Botswana,BWA,2000,11.8
+Botswana,BWA,2001,11.9
+Botswana,BWA,2002,11.8
+Botswana,BWA,2003,11.8
+Botswana,BWA,2004,11.9
+Botswana,BWA,2005,11.9
+Botswana,BWA,2006,12.1
+Botswana,BWA,2007,12.1
+Botswana,BWA,2008,12.2
+Botswana,BWA,2009,12.3
+Botswana,BWA,2010,12.4
+Botswana,BWA,2011,12.5
+Botswana,BWA,2012,12.6
+Botswana,BWA,2013,12.6
+Botswana,BWA,2014,12.6
+Botswana,BWA,2015,12.6
+Botswana,BWA,2016,12.6
+Botswana,BWA,2017,12.6
+Brazil,BRA,1990,12.2
+Brazil,BRA,1991,12.4
+Brazil,BRA,1992,12.6
+Brazil,BRA,1993,12.8
+Brazil,BRA,1994,13
+Brazil,BRA,1995,13.3
+Brazil,BRA,1996,13.5
+Brazil,BRA,1997,13.7
+Brazil,BRA,1998,13.9
+Brazil,BRA,1999,14.1
+Brazil,BRA,2000,14.3
+Brazil,BRA,2001,14.6
+Brazil,BRA,2002,14.8
+Brazil,BRA,2003,14
+Brazil,BRA,2004,13.8
+Brazil,BRA,2005,13.8
+Brazil,BRA,2006,13.5
+Brazil,BRA,2007,13.3
+Brazil,BRA,2008,13.8
+Brazil,BRA,2009,13.8
+Brazil,BRA,2010,14
+Brazil,BRA,2011,13.9
+Brazil,BRA,2012,13.9
+Brazil,BRA,2013,14.8
+Brazil,BRA,2014,15
+Brazil,BRA,2015,15.4
+Brazil,BRA,2016,15.4
+Brazil,BRA,2017,15.4
+Brunei,BRN,1990,12.1
+Brunei,BRN,1991,12.3
+Brunei,BRN,1992,12.5
+Brunei,BRN,1993,12.7
+Brunei,BRN,1994,12.8
+Brunei,BRN,1995,12.9
+Brunei,BRN,1996,12.9
+Brunei,BRN,1997,13
+Brunei,BRN,1998,13.1
+Brunei,BRN,1999,13.4
+Brunei,BRN,2000,13.4
+Brunei,BRN,2001,13.3
+Brunei,BRN,2002,13.4
+Brunei,BRN,2003,13.7
+Brunei,BRN,2004,14.1
+Brunei,BRN,2005,14.3
+Brunei,BRN,2006,14.3
+Brunei,BRN,2007,14.2
+Brunei,BRN,2008,14.1
+Brunei,BRN,2009,14.2
+Brunei,BRN,2010,14.1
+Brunei,BRN,2011,14.4
+Brunei,BRN,2012,14.9
+Brunei,BRN,2013,14.9
+Brunei,BRN,2014,14.8
+Brunei,BRN,2015,14.5
+Brunei,BRN,2016,14.5
+Brunei,BRN,2017,14.5
+Bulgaria,BGR,1990,12.1
+Bulgaria,BGR,1991,12.2
+Bulgaria,BGR,1992,12
+Bulgaria,BGR,1993,11.9
+Bulgaria,BGR,1994,11.8
+Bulgaria,BGR,1995,12.1
+Bulgaria,BGR,1996,12.6
+Bulgaria,BGR,1997,12.7
+Bulgaria,BGR,1998,12.8
+Bulgaria,BGR,1999,12.9
+Bulgaria,BGR,2000,12.9
+Bulgaria,BGR,2001,12.9
+Bulgaria,BGR,2002,12.9
+Bulgaria,BGR,2003,13.3
+Bulgaria,BGR,2004,13.5
+Bulgaria,BGR,2005,13.5
+Bulgaria,BGR,2006,13.5
+Bulgaria,BGR,2007,14
+Bulgaria,BGR,2008,14.1
+Bulgaria,BGR,2009,14.2
+Bulgaria,BGR,2010,14.4
+Bulgaria,BGR,2011,14.5
+Bulgaria,BGR,2012,14.5
+Bulgaria,BGR,2013,14.9
+Bulgaria,BGR,2014,15.2
+Bulgaria,BGR,2015,15.1
+Bulgaria,BGR,2016,14.8
+Bulgaria,BGR,2017,14.8
+Burkina Faso,BFA,1990,2.5
+Burkina Faso,BFA,1991,2.6
+Burkina Faso,BFA,1992,2.7
+Burkina Faso,BFA,1993,2.8
+Burkina Faso,BFA,1994,2.9
+Burkina Faso,BFA,1995,3
+Burkina Faso,BFA,1996,3.1
+Burkina Faso,BFA,1997,3.2
+Burkina Faso,BFA,1998,3.3
+Burkina Faso,BFA,1999,3.4
+Burkina Faso,BFA,2000,3.5
+Burkina Faso,BFA,2001,3.6
+Burkina Faso,BFA,2002,3.8
+Burkina Faso,BFA,2003,3.9
+Burkina Faso,BFA,2004,4.3
+Burkina Faso,BFA,2005,4.7
+Burkina Faso,BFA,2006,4.9
+Burkina Faso,BFA,2007,5.4
+Burkina Faso,BFA,2008,5.9
+Burkina Faso,BFA,2009,6.3
+Burkina Faso,BFA,2010,6.7
+Burkina Faso,BFA,2011,7.2
+Burkina Faso,BFA,2012,7.5
+Burkina Faso,BFA,2013,7.7
+Burkina Faso,BFA,2014,7.9
+Burkina Faso,BFA,2015,8.3
+Burkina Faso,BFA,2016,8.5
+Burkina Faso,BFA,2017,8.5
+Burundi,BDI,1990,4.4
+Burundi,BDI,1991,4.6
+Burundi,BDI,1992,4.4
+Burundi,BDI,1993,4.7
+Burundi,BDI,1994,4.6
+Burundi,BDI,1995,4.6
+Burundi,BDI,1996,4.6
+Burundi,BDI,1997,4.5
+Burundi,BDI,1998,4.5
+Burundi,BDI,1999,4.5
+Burundi,BDI,2000,4.5
+Burundi,BDI,2001,4.4
+Burundi,BDI,2002,4.7
+Burundi,BDI,2003,5.2
+Burundi,BDI,2004,5.6
+Burundi,BDI,2005,5.9
+Burundi,BDI,2006,7.2
+Burundi,BDI,2007,7.9
+Burundi,BDI,2008,8.6
+Burundi,BDI,2009,9.8
+Burundi,BDI,2010,10.5
+Burundi,BDI,2011,11
+Burundi,BDI,2012,11.1
+Burundi,BDI,2013,11.4
+Burundi,BDI,2014,11.7
+Burundi,BDI,2015,11.7
+Burundi,BDI,2016,11.7
+Burundi,BDI,2017,11.7
+Cambodia,KHM,1990,6.7
+Cambodia,KHM,1991,6.8
+Cambodia,KHM,1992,6.9
+Cambodia,KHM,1993,7
+Cambodia,KHM,1994,7
+Cambodia,KHM,1995,7.1
+Cambodia,KHM,1996,7.2
+Cambodia,KHM,1997,7.3
+Cambodia,KHM,1998,7.4
+Cambodia,KHM,1999,7.2
+Cambodia,KHM,2000,7.6
+Cambodia,KHM,2001,8.2
+Cambodia,KHM,2002,9.3
+Cambodia,KHM,2003,9.7
+Cambodia,KHM,2004,10
+Cambodia,KHM,2005,10.2
+Cambodia,KHM,2006,10.4
+Cambodia,KHM,2007,10.5
+Cambodia,KHM,2008,10.6
+Cambodia,KHM,2009,10.8
+Cambodia,KHM,2010,11
+Cambodia,KHM,2011,11.2
+Cambodia,KHM,2012,11.4
+Cambodia,KHM,2013,11.6
+Cambodia,KHM,2014,11.6
+Cambodia,KHM,2015,11.7
+Cambodia,KHM,2016,11.7
+Cambodia,KHM,2017,11.7
+Cameroon,CMR,1990,8
+Cameroon,CMR,1991,8
+Cameroon,CMR,1992,7.8
+Cameroon,CMR,1993,7.7
+Cameroon,CMR,1994,7.6
+Cameroon,CMR,1995,7.5
+Cameroon,CMR,1996,7.3
+Cameroon,CMR,1997,7.2
+Cameroon,CMR,1998,7.5
+Cameroon,CMR,1999,6.9
+Cameroon,CMR,2000,7.1
+Cameroon,CMR,2001,8.4
+Cameroon,CMR,2002,8.1
+Cameroon,CMR,2003,8.2
+Cameroon,CMR,2004,8.3
+Cameroon,CMR,2005,8.2
+Cameroon,CMR,2006,8.4
+Cameroon,CMR,2007,9.2
+Cameroon,CMR,2008,9.6
+Cameroon,CMR,2009,10.1
+Cameroon,CMR,2010,10.5
+Cameroon,CMR,2011,10.9
+Cameroon,CMR,2012,11.5
+Cameroon,CMR,2013,11.9
+Cameroon,CMR,2014,12.2
+Cameroon,CMR,2015,12.2
+Cameroon,CMR,2016,12.2
+Cameroon,CMR,2017,12.2
+Canada,CAN,1990,16.7
+Canada,CAN,1991,17
+Canada,CAN,1992,17.2
+Canada,CAN,1993,16.8
+Canada,CAN,1994,16.9
+Canada,CAN,1995,16.9
+Canada,CAN,1996,16.9
+Canada,CAN,1997,16.5
+Canada,CAN,1998,16
+Canada,CAN,1999,15.9
+Canada,CAN,2000,15.8
+Canada,CAN,2001,15.8
+Canada,CAN,2002,15.8
+Canada,CAN,2003,15.8
+Canada,CAN,2004,15.8
+Canada,CAN,2005,15.8
+Canada,CAN,2006,15.8
+Canada,CAN,2007,15.8
+Canada,CAN,2008,15.9
+Canada,CAN,2009,15.9
+Canada,CAN,2010,15.9
+Canada,CAN,2011,15.9
+Canada,CAN,2012,15.9
+Canada,CAN,2013,15.9
+Canada,CAN,2014,16.3
+Canada,CAN,2015,16.3
+Canada,CAN,2016,16.4
+Canada,CAN,2017,16.4
+Cape Verde,CPV,1999,11.3
+Cape Verde,CPV,2000,11.5
+Cape Verde,CPV,2001,11.3
+Cape Verde,CPV,2002,11.6
+Cape Verde,CPV,2003,11.6
+Cape Verde,CPV,2004,11.4
+Cape Verde,CPV,2005,11.5
+Cape Verde,CPV,2006,12.2
+Cape Verde,CPV,2007,12.1
+Cape Verde,CPV,2008,12.2
+Cape Verde,CPV,2009,12.2
+Cape Verde,CPV,2010,12.3
+Cape Verde,CPV,2011,12.5
+Cape Verde,CPV,2012,12.3
+Cape Verde,CPV,2013,12.6
+Cape Verde,CPV,2014,12.6
+Cape Verde,CPV,2015,12.6
+Cape Verde,CPV,2016,12.6
+Cape Verde,CPV,2017,12.6
+Central African Republic,CAF,1990,5.2
+Central African Republic,CAF,1991,4.9
+Central African Republic,CAF,1992,4.2
+Central African Republic,CAF,1993,4.3
+Central African Republic,CAF,1994,4.4
+Central African Republic,CAF,1995,4.6
+Central African Republic,CAF,1996,4.7
+Central African Republic,CAF,1997,4.9
+Central African Republic,CAF,1998,5
+Central African Republic,CAF,1999,5.2
+Central African Republic,CAF,2000,5.3
+Central African Republic,CAF,2001,5.4
+Central African Republic,CAF,2002,5.6
+Central African Republic,CAF,2003,5.7
+Central African Republic,CAF,2004,5.9
+Central African Republic,CAF,2005,6
+Central African Republic,CAF,2006,6.2
+Central African Republic,CAF,2007,6.3
+Central African Republic,CAF,2008,6.4
+Central African Republic,CAF,2009,6.6
+Central African Republic,CAF,2010,6.8
+Central African Republic,CAF,2011,7
+Central African Republic,CAF,2012,7
+Central African Republic,CAF,2013,7.1
+Central African Republic,CAF,2014,7.1
+Central African Republic,CAF,2015,7.1
+Central African Republic,CAF,2016,7.2
+Central African Republic,CAF,2017,7.2
+Chad,TCD,1990,3.2
+Chad,TCD,1991,3.3
+Chad,TCD,1992,3.3
+Chad,TCD,1993,3.4
+Chad,TCD,1994,3.5
+Chad,TCD,1995,3.6
+Chad,TCD,1996,3.7
+Chad,TCD,1997,4
+Chad,TCD,1998,4.5
+Chad,TCD,1999,4.7
+Chad,TCD,2000,4.9
+Chad,TCD,2001,5.1
+Chad,TCD,2002,5.4
+Chad,TCD,2003,5.6
+Chad,TCD,2004,5.6
+Chad,TCD,2005,5.5
+Chad,TCD,2006,5.7
+Chad,TCD,2007,6
+Chad,TCD,2008,6.2
+Chad,TCD,2009,6.7
+Chad,TCD,2010,6.7
+Chad,TCD,2011,7.3
+Chad,TCD,2012,7.5
+Chad,TCD,2013,7.7
+Chad,TCD,2014,7.8
+Chad,TCD,2015,8
+Chad,TCD,2016,8
+Chad,TCD,2017,8
+Chile,CHL,1990,12.9
+Chile,CHL,1991,13.2
+Chile,CHL,1992,13.2
+Chile,CHL,1993,12.1
+Chile,CHL,1994,12.3
+Chile,CHL,1995,12.5
+Chile,CHL,1996,12.6
+Chile,CHL,1997,12.8
+Chile,CHL,1998,12.9
+Chile,CHL,1999,13.5
+Chile,CHL,2000,13.7
+Chile,CHL,2001,13.9
+Chile,CHL,2002,13.7
+Chile,CHL,2003,13.9
+Chile,CHL,2004,14.2
+Chile,CHL,2005,14.5
+Chile,CHL,2006,14.5
+Chile,CHL,2007,14.9
+Chile,CHL,2008,15
+Chile,CHL,2009,15
+Chile,CHL,2010,15.2
+Chile,CHL,2011,15.3
+Chile,CHL,2012,15.4
+Chile,CHL,2013,16
+Chile,CHL,2014,16.1
+Chile,CHL,2015,16.3
+Chile,CHL,2016,16.4
+Chile,CHL,2017,16.4
+China,CHN,1990,8.8
+China,CHN,1991,8.8
+China,CHN,1992,8.9
+China,CHN,1993,8.9
+China,CHN,1994,8.9
+China,CHN,1995,9.1
+China,CHN,1996,9.2
+China,CHN,1997,9.2
+China,CHN,1998,9.3
+China,CHN,1999,9.5
+China,CHN,2000,9.6
+China,CHN,2001,9.7
+China,CHN,2002,9.9
+China,CHN,2003,10.2
+China,CHN,2004,10.6
+China,CHN,2005,11
+China,CHN,2006,11.5
+China,CHN,2007,12
+China,CHN,2008,12.3
+China,CHN,2009,12.6
+China,CHN,2010,12.9
+China,CHN,2011,13.1
+China,CHN,2012,13.3
+China,CHN,2013,13.5
+China,CHN,2014,13.8
+China,CHN,2015,13.8
+China,CHN,2016,13.8
+China,CHN,2017,13.8
+Colombia,COL,1990,9.1
+Colombia,COL,1991,9.1
+Colombia,COL,1992,9.6
+Colombia,COL,1993,9.8
+Colombia,COL,1994,9.9
+Colombia,COL,1995,10
+Colombia,COL,1996,10.5
+Colombia,COL,1997,10.9
+Colombia,COL,1998,11.3
+Colombia,COL,1999,11.3
+Colombia,COL,2000,11.4
+Colombia,COL,2001,11.5
+Colombia,COL,2002,11.6
+Colombia,COL,2003,11.3
+Colombia,COL,2004,12.3
+Colombia,COL,2005,12.9
+Colombia,COL,2006,13.3
+Colombia,COL,2007,13.6
+Colombia,COL,2008,13.9
+Colombia,COL,2009,14.3
+Colombia,COL,2010,14.3
+Colombia,COL,2011,14.4
+Colombia,COL,2012,14.1
+Colombia,COL,2013,14.5
+Colombia,COL,2014,14.4
+Colombia,COL,2015,14.4
+Colombia,COL,2016,14.4
+Colombia,COL,2017,14.4
+Comoros,COM,1990,7.9
+Comoros,COM,1991,8
+Comoros,COM,1992,8
+Comoros,COM,1993,8
+Comoros,COM,1994,8
+Comoros,COM,1995,8.1
+Comoros,COM,1996,8.1
+Comoros,COM,1997,8.1
+Comoros,COM,1998,8.1
+Comoros,COM,1999,8.2
+Comoros,COM,2000,8.5
+Comoros,COM,2001,8.8
+Comoros,COM,2002,9.2
+Comoros,COM,2003,9.5
+Comoros,COM,2004,9.7
+Comoros,COM,2005,9.9
+Comoros,COM,2006,10
+Comoros,COM,2007,10.2
+Comoros,COM,2008,10.3
+Comoros,COM,2009,10.5
+Comoros,COM,2010,10.6
+Comoros,COM,2011,10.8
+Comoros,COM,2012,10.9
+Comoros,COM,2013,11.2
+Comoros,COM,2014,11.2
+Comoros,COM,2015,11.2
+Comoros,COM,2016,11.2
+Comoros,COM,2017,11.2
+Congo,COG,1990,11.2
+Congo,COG,1991,11
+Congo,COG,1992,10.9
+Congo,COG,1993,10.7
+Congo,COG,1994,10.6
+Congo,COG,1995,10.4
+Congo,COG,1996,10.3
+Congo,COG,1997,10.1
+Congo,COG,1998,10
+Congo,COG,1999,9.8
+Congo,COG,2000,9.7
+Congo,COG,2001,9.5
+Congo,COG,2002,9.4
+Congo,COG,2003,9.2
+Congo,COG,2004,9.4
+Congo,COG,2005,9.6
+Congo,COG,2006,9.8
+Congo,COG,2007,10
+Congo,COG,2008,10.3
+Congo,COG,2009,10.5
+Congo,COG,2010,10.7
+Congo,COG,2011,10.6
+Congo,COG,2012,10.6
+Congo,COG,2013,10.8
+Congo,COG,2014,11
+Congo,COG,2015,11.2
+Congo,COG,2016,11.4
+Congo,COG,2017,11.4
+Costa Rica,CRI,1990,9.8
+Costa Rica,CRI,1991,10.1
+Costa Rica,CRI,1992,10.4
+Costa Rica,CRI,1993,10.6
+Costa Rica,CRI,1994,10.7
+Costa Rica,CRI,1995,10.9
+Costa Rica,CRI,1996,11.1
+Costa Rica,CRI,1997,11.2
+Costa Rica,CRI,1998,11.4
+Costa Rica,CRI,1999,11.6
+Costa Rica,CRI,2000,11.7
+Costa Rica,CRI,2001,11.9
+Costa Rica,CRI,2002,12.1
+Costa Rica,CRI,2003,12.2
+Costa Rica,CRI,2004,12.4
+Costa Rica,CRI,2005,12.6
+Costa Rica,CRI,2006,12.8
+Costa Rica,CRI,2007,12.9
+Costa Rica,CRI,2008,13.1
+Costa Rica,CRI,2009,13.3
+Costa Rica,CRI,2010,13.4
+Costa Rica,CRI,2011,13.6
+Costa Rica,CRI,2012,14.4
+Costa Rica,CRI,2013,14.6
+Costa Rica,CRI,2014,14.8
+Costa Rica,CRI,2015,15.1
+Costa Rica,CRI,2016,15.2
+Costa Rica,CRI,2017,15.4
+Cote d'Ivoire,CIV,1990,5.9
+Cote d'Ivoire,CIV,1991,6
+Cote d'Ivoire,CIV,1992,6.1
+Cote d'Ivoire,CIV,1993,6.2
+Cote d'Ivoire,CIV,1994,6.2
+Cote d'Ivoire,CIV,1995,6.3
+Cote d'Ivoire,CIV,1996,6.4
+Cote d'Ivoire,CIV,1997,6.5
+Cote d'Ivoire,CIV,1998,6.3
+Cote d'Ivoire,CIV,1999,6.6
+Cote d'Ivoire,CIV,2000,6.8
+Cote d'Ivoire,CIV,2001,7
+Cote d'Ivoire,CIV,2002,7.1
+Cote d'Ivoire,CIV,2003,7.3
+Cote d'Ivoire,CIV,2004,7.5
+Cote d'Ivoire,CIV,2005,7.6
+Cote d'Ivoire,CIV,2006,7.8
+Cote d'Ivoire,CIV,2007,8
+Cote d'Ivoire,CIV,2008,8.1
+Cote d'Ivoire,CIV,2009,8.3
+Cote d'Ivoire,CIV,2010,8.5
+Cote d'Ivoire,CIV,2011,8.6
+Cote d'Ivoire,CIV,2012,8.7
+Cote d'Ivoire,CIV,2013,8.8
+Cote d'Ivoire,CIV,2014,8.8
+Cote d'Ivoire,CIV,2015,8.8
+Cote d'Ivoire,CIV,2016,9
+Cote d'Ivoire,CIV,2017,9
+Croatia,HRV,1990,10.7
+Croatia,HRV,1991,10.8
+Croatia,HRV,1992,10.8
+Croatia,HRV,1993,10.9
+Croatia,HRV,1994,11.4
+Croatia,HRV,1995,11.3
+Croatia,HRV,1996,11.4
+Croatia,HRV,1997,11.5
+Croatia,HRV,1998,11.9
+Croatia,HRV,1999,12.2
+Croatia,HRV,2000,12.3
+Croatia,HRV,2001,12.6
+Croatia,HRV,2002,12.9
+Croatia,HRV,2003,13.3
+Croatia,HRV,2004,13.6
+Croatia,HRV,2005,14
+Croatia,HRV,2006,14.3
+Croatia,HRV,2007,14.3
+Croatia,HRV,2008,14.2
+Croatia,HRV,2009,14.2
+Croatia,HRV,2010,14.4
+Croatia,HRV,2011,14.5
+Croatia,HRV,2012,14.8
+Croatia,HRV,2013,15.1
+Croatia,HRV,2014,15.2
+Croatia,HRV,2015,15.1
+Croatia,HRV,2016,15
+Croatia,HRV,2017,15
+Cuba,CUB,1990,12.3
+Cuba,CUB,1991,12.2
+Cuba,CUB,1992,12.1
+Cuba,CUB,1993,12.1
+Cuba,CUB,1994,11.4
+Cuba,CUB,1995,11.3
+Cuba,CUB,1996,11.8
+Cuba,CUB,1997,11.8
+Cuba,CUB,1998,11.9
+Cuba,CUB,1999,12.1
+Cuba,CUB,2000,12.3
+Cuba,CUB,2001,12.5
+Cuba,CUB,2002,12.8
+Cuba,CUB,2003,13.2
+Cuba,CUB,2004,14.2
+Cuba,CUB,2005,14.6
+Cuba,CUB,2006,15.9
+Cuba,CUB,2007,16.9
+Cuba,CUB,2008,17.5
+Cuba,CUB,2009,17.3
+Cuba,CUB,2010,16.4
+Cuba,CUB,2011,15.7
+Cuba,CUB,2012,14.8
+Cuba,CUB,2013,14.1
+Cuba,CUB,2014,14.2
+Cuba,CUB,2015,14
+Cuba,CUB,2016,14
+Cuba,CUB,2017,14
+Cyprus,CYP,1990,9.2
+Cyprus,CYP,1991,9.3
+Cyprus,CYP,1992,9.3
+Cyprus,CYP,1993,12.4
+Cyprus,CYP,1994,12.4
+Cyprus,CYP,1995,12.5
+Cyprus,CYP,1996,12.6
+Cyprus,CYP,1997,12.6
+Cyprus,CYP,1998,12.6
+Cyprus,CYP,1999,12.5
+Cyprus,CYP,2000,12.4
+Cyprus,CYP,2001,12.5
+Cyprus,CYP,2002,13
+Cyprus,CYP,2003,13.4
+Cyprus,CYP,2004,13.5
+Cyprus,CYP,2005,13.4
+Cyprus,CYP,2006,13.5
+Cyprus,CYP,2007,13.7
+Cyprus,CYP,2008,14.1
+Cyprus,CYP,2009,14.6
+Cyprus,CYP,2010,13.8
+Cyprus,CYP,2011,13.8
+Cyprus,CYP,2012,13.8
+Cyprus,CYP,2013,14
+Cyprus,CYP,2014,14.3
+Cyprus,CYP,2015,14.3
+Cyprus,CYP,2016,14.6
+Cyprus,CYP,2017,14.6
+Czechia,CZE,1990,11.9
+Czechia,CZE,1991,11.8
+Czechia,CZE,1992,11.7
+Czechia,CZE,1993,11.9
+Czechia,CZE,1994,12.2
+Czechia,CZE,1995,12.4
+Czechia,CZE,1996,13.1
+Czechia,CZE,1997,13.3
+Czechia,CZE,1998,12.9
+Czechia,CZE,1999,13.4
+Czechia,CZE,2000,13.9
+Czechia,CZE,2001,14.3
+Czechia,CZE,2002,14.6
+Czechia,CZE,2003,14.9
+Czechia,CZE,2004,14.6
+Czechia,CZE,2005,14.8
+Czechia,CZE,2006,15
+Czechia,CZE,2007,15.3
+Czechia,CZE,2008,15.5
+Czechia,CZE,2009,15.8
+Czechia,CZE,2010,16
+Czechia,CZE,2011,16.1
+Czechia,CZE,2012,16.1
+Czechia,CZE,2013,16.6
+Czechia,CZE,2014,16.7
+Czechia,CZE,2015,16.9
+Czechia,CZE,2016,16.9
+Czechia,CZE,2017,16.9
+Democratic Republic of Congo,COD,1990,6.8
+Democratic Republic of Congo,COD,1991,6.7
+Democratic Republic of Congo,COD,1992,6.7
+Democratic Republic of Congo,COD,1993,6.7
+Democratic Republic of Congo,COD,1994,6.6
+Democratic Republic of Congo,COD,1995,6.6
+Democratic Republic of Congo,COD,1996,6.7
+Democratic Republic of Congo,COD,1997,6.8
+Democratic Republic of Congo,COD,1998,6.9
+Democratic Republic of Congo,COD,1999,6.9
+Democratic Republic of Congo,COD,2000,7
+Democratic Republic of Congo,COD,2001,7.1
+Democratic Republic of Congo,COD,2002,7.2
+Democratic Republic of Congo,COD,2003,7.3
+Democratic Republic of Congo,COD,2004,7.4
+Democratic Republic of Congo,COD,2005,7.5
+Democratic Republic of Congo,COD,2006,7.6
+Democratic Republic of Congo,COD,2007,7.7
+Democratic Republic of Congo,COD,2008,8.4
+Democratic Republic of Congo,COD,2009,8.5
+Democratic Republic of Congo,COD,2010,8.8
+Democratic Republic of Congo,COD,2011,9.1
+Democratic Republic of Congo,COD,2012,9
+Democratic Republic of Congo,COD,2013,9.2
+Democratic Republic of Congo,COD,2014,9.4
+Democratic Republic of Congo,COD,2015,9.6
+Democratic Republic of Congo,COD,2016,9.6
+Democratic Republic of Congo,COD,2017,9.8
+Denmark,DNK,1990,14.1
+Denmark,DNK,1991,14.2
+Denmark,DNK,1992,14.3
+Denmark,DNK,1993,14.6
+Denmark,DNK,1994,14.9
+Denmark,DNK,1995,15.1
+Denmark,DNK,1996,15.4
+Denmark,DNK,1997,15.6
+Denmark,DNK,1998,15.7
+Denmark,DNK,1999,16.5
+Denmark,DNK,2000,16.2
+Denmark,DNK,2001,16.6
+Denmark,DNK,2002,16.3
+Denmark,DNK,2003,16.5
+Denmark,DNK,2004,16.6
+Denmark,DNK,2005,16.9
+Denmark,DNK,2006,16.7
+Denmark,DNK,2007,16.8
+Denmark,DNK,2008,16.8
+Denmark,DNK,2009,16.8
+Denmark,DNK,2010,16.9
+Denmark,DNK,2011,18.4
+Denmark,DNK,2012,18.7
+Denmark,DNK,2013,19.1
+Denmark,DNK,2014,19.1
+Denmark,DNK,2015,19.2
+Denmark,DNK,2016,19.1
+Denmark,DNK,2017,19.1
+Djibouti,DJI,1990,2.7
+Djibouti,DJI,1991,2.7
+Djibouti,DJI,1992,2.8
+Djibouti,DJI,1993,2.6
+Djibouti,DJI,1994,2.7
+Djibouti,DJI,1995,2.8
+Djibouti,DJI,1996,2.8
+Djibouti,DJI,1997,2.9
+Djibouti,DJI,1998,2.9
+Djibouti,DJI,1999,2.9
+Djibouti,DJI,2000,2.9
+Djibouti,DJI,2001,3.3
+Djibouti,DJI,2002,3.5
+Djibouti,DJI,2003,3.7
+Djibouti,DJI,2004,4
+Djibouti,DJI,2005,4.3
+Djibouti,DJI,2006,4.5
+Djibouti,DJI,2007,5
+Djibouti,DJI,2008,5.3
+Djibouti,DJI,2009,5.5
+Djibouti,DJI,2010,5.9
+Djibouti,DJI,2011,6
+Djibouti,DJI,2012,6.1
+Djibouti,DJI,2013,6.2
+Djibouti,DJI,2014,6.2
+Djibouti,DJI,2015,6.2
+Djibouti,DJI,2016,6.2
+Djibouti,DJI,2017,6.2
+Dominica,DMA,1990,11.4
+Dominica,DMA,1991,11.5
+Dominica,DMA,1992,11.5
+Dominica,DMA,1993,11.6
+Dominica,DMA,1994,11.7
+Dominica,DMA,1995,11.8
+Dominica,DMA,1996,11.8
+Dominica,DMA,1997,11.9
+Dominica,DMA,1998,12
+Dominica,DMA,1999,12
+Dominica,DMA,2000,12.1
+Dominica,DMA,2001,12.2
+Dominica,DMA,2002,12.2
+Dominica,DMA,2003,12.3
+Dominica,DMA,2004,12.4
+Dominica,DMA,2005,12.4
+Dominica,DMA,2006,12.5
+Dominica,DMA,2007,12.6
+Dominica,DMA,2008,12.7
+Dominica,DMA,2009,12.7
+Dominica,DMA,2010,12.7
+Dominica,DMA,2011,12.7
+Dominica,DMA,2012,12.7
+Dominica,DMA,2013,12.7
+Dominica,DMA,2014,12.7
+Dominica,DMA,2015,12.8
+Dominica,DMA,2016,12.8
+Dominica,DMA,2017,12.7
+Dominican Republic,DOM,1990,11.5
+Dominican Republic,DOM,1991,11.6
+Dominican Republic,DOM,1992,11.7
+Dominican Republic,DOM,1993,11.7
+Dominican Republic,DOM,1994,11.8
+Dominican Republic,DOM,1995,11.9
+Dominican Republic,DOM,1996,12
+Dominican Republic,DOM,1997,12
+Dominican Republic,DOM,1998,12.1
+Dominican Republic,DOM,1999,12.2
+Dominican Republic,DOM,2000,12.3
+Dominican Republic,DOM,2001,12.3
+Dominican Republic,DOM,2002,12.4
+Dominican Republic,DOM,2003,12.5
+Dominican Republic,DOM,2004,12.6
+Dominican Republic,DOM,2005,12.6
+Dominican Republic,DOM,2006,12.7
+Dominican Republic,DOM,2007,12.8
+Dominican Republic,DOM,2008,12.9
+Dominican Republic,DOM,2009,12.9
+Dominican Republic,DOM,2010,13
+Dominican Republic,DOM,2011,13.1
+Dominican Republic,DOM,2012,13.2
+Dominican Republic,DOM,2013,13.2
+Dominican Republic,DOM,2014,13.2
+Dominican Republic,DOM,2015,13.8
+Dominican Republic,DOM,2016,13.7
+Dominican Republic,DOM,2017,13.7
+Ecuador,ECU,1990,11.9
+Ecuador,ECU,1991,11.7
+Ecuador,ECU,1992,11.8
+Ecuador,ECU,1993,11.9
+Ecuador,ECU,1994,12
+Ecuador,ECU,1995,12
+Ecuador,ECU,1996,12.1
+Ecuador,ECU,1997,12.2
+Ecuador,ECU,1998,12.3
+Ecuador,ECU,1999,12.4
+Ecuador,ECU,2000,12.4
+Ecuador,ECU,2001,12.5
+Ecuador,ECU,2002,12.6
+Ecuador,ECU,2003,12.7
+Ecuador,ECU,2004,12.8
+Ecuador,ECU,2005,12.8
+Ecuador,ECU,2006,12.9
+Ecuador,ECU,2007,13
+Ecuador,ECU,2008,13.1
+Ecuador,ECU,2009,13.1
+Ecuador,ECU,2010,13.2
+Ecuador,ECU,2011,13.3
+Ecuador,ECU,2012,13.4
+Ecuador,ECU,2013,13.7
+Ecuador,ECU,2014,14
+Ecuador,ECU,2015,14.3
+Ecuador,ECU,2016,14.6
+Ecuador,ECU,2017,14.7
+Egypt,EGY,1990,9.8
+Egypt,EGY,1991,9.8
+Egypt,EGY,1992,9.9
+Egypt,EGY,1993,10.1
+Egypt,EGY,1994,10.3
+Egypt,EGY,1995,10.4
+Egypt,EGY,1996,10.6
+Egypt,EGY,1997,10.7
+Egypt,EGY,1998,10.4
+Egypt,EGY,1999,11
+Egypt,EGY,2000,11.1
+Egypt,EGY,2001,11.2
+Egypt,EGY,2002,11.3
+Egypt,EGY,2003,11.2
+Egypt,EGY,2004,11.4
+Egypt,EGY,2005,11.5
+Egypt,EGY,2006,11.7
+Egypt,EGY,2007,11.9
+Egypt,EGY,2008,12
+Egypt,EGY,2009,11.8
+Egypt,EGY,2010,12
+Egypt,EGY,2011,12
+Egypt,EGY,2012,12.4
+Egypt,EGY,2013,12.7
+Egypt,EGY,2014,12.7
+Egypt,EGY,2015,13.1
+Egypt,EGY,2016,13.1
+Egypt,EGY,2017,13.1
+El Salvador,SLV,1990,9.3
+El Salvador,SLV,1991,9.3
+El Salvador,SLV,1992,9.6
+El Salvador,SLV,1993,9.9
+El Salvador,SLV,1994,10.2
+El Salvador,SLV,1995,10.5
+El Salvador,SLV,1996,10.8
+El Salvador,SLV,1997,11.1
+El Salvador,SLV,1998,11.5
+El Salvador,SLV,1999,11.3
+El Salvador,SLV,2000,11.6
+El Salvador,SLV,2001,11.8
+El Salvador,SLV,2002,12
+El Salvador,SLV,2003,12.4
+El Salvador,SLV,2004,12.7
+El Salvador,SLV,2005,12.9
+El Salvador,SLV,2006,12.9
+El Salvador,SLV,2007,13.1
+El Salvador,SLV,2008,12.4
+El Salvador,SLV,2009,12.4
+El Salvador,SLV,2010,12.5
+El Salvador,SLV,2011,12.7
+El Salvador,SLV,2012,12.7
+El Salvador,SLV,2013,12.8
+El Salvador,SLV,2014,12.6
+El Salvador,SLV,2015,12.6
+El Salvador,SLV,2016,12.6
+El Salvador,SLV,2017,12.6
+Equatorial Guinea,GNQ,2000,8
+Equatorial Guinea,GNQ,2001,8.2
+Equatorial Guinea,GNQ,2002,8.4
+Equatorial Guinea,GNQ,2003,8.5
+Equatorial Guinea,GNQ,2004,8.7
+Equatorial Guinea,GNQ,2005,9
+Equatorial Guinea,GNQ,2006,9
+Equatorial Guinea,GNQ,2007,9.1
+Equatorial Guinea,GNQ,2008,9.1
+Equatorial Guinea,GNQ,2009,9.2
+Equatorial Guinea,GNQ,2010,9.2
+Equatorial Guinea,GNQ,2011,9.2
+Equatorial Guinea,GNQ,2012,9.2
+Equatorial Guinea,GNQ,2013,9.2
+Equatorial Guinea,GNQ,2014,9.2
+Equatorial Guinea,GNQ,2015,9.2
+Equatorial Guinea,GNQ,2016,9.3
+Equatorial Guinea,GNQ,2017,9.3
+Eritrea,ERI,1995,3.8
+Eritrea,ERI,1996,3.8
+Eritrea,ERI,1997,3.7
+Eritrea,ERI,1998,3.8
+Eritrea,ERI,1999,4.2
+Eritrea,ERI,2000,4.7
+Eritrea,ERI,2001,4.7
+Eritrea,ERI,2002,5.1
+Eritrea,ERI,2003,5
+Eritrea,ERI,2004,5.8
+Eritrea,ERI,2005,5.3
+Eritrea,ERI,2006,5.3
+Eritrea,ERI,2007,5.2
+Eritrea,ERI,2008,5.2
+Eritrea,ERI,2009,5.5
+Eritrea,ERI,2010,5.4
+Eritrea,ERI,2011,5.1
+Eritrea,ERI,2012,5.1
+Eritrea,ERI,2013,5.2
+Eritrea,ERI,2014,5.2
+Eritrea,ERI,2015,5.4
+Eritrea,ERI,2016,5.4
+Eritrea,ERI,2017,5.4
+Estonia,EST,1990,13.1
+Estonia,EST,1991,12.9
+Estonia,EST,1992,12.8
+Estonia,EST,1993,12.4
+Estonia,EST,1994,12.5
+Estonia,EST,1995,12.9
+Estonia,EST,1996,13.2
+Estonia,EST,1997,13.7
+Estonia,EST,1998,14.2
+Estonia,EST,1999,14.4
+Estonia,EST,2000,15
+Estonia,EST,2001,15.4
+Estonia,EST,2002,15.6
+Estonia,EST,2003,15.7
+Estonia,EST,2004,15.9
+Estonia,EST,2005,16.1
+Estonia,EST,2006,16.1
+Estonia,EST,2007,16.1
+Estonia,EST,2008,16.1
+Estonia,EST,2009,16.2
+Estonia,EST,2010,16.4
+Estonia,EST,2011,16.5
+Estonia,EST,2012,16.5
+Estonia,EST,2013,16.4
+Estonia,EST,2014,16.2
+Estonia,EST,2015,16.1
+Estonia,EST,2016,16.1
+Estonia,EST,2017,16.1
+Eswatini,SWZ,1990,9.6
+Eswatini,SWZ,1991,9.6
+Eswatini,SWZ,1992,9.7
+Eswatini,SWZ,1993,9.7
+Eswatini,SWZ,1994,9.7
+Eswatini,SWZ,1995,9.6
+Eswatini,SWZ,1996,9.6
+Eswatini,SWZ,1997,9.5
+Eswatini,SWZ,1998,9.5
+Eswatini,SWZ,1999,9.4
+Eswatini,SWZ,2000,9.3
+Eswatini,SWZ,2001,9.2
+Eswatini,SWZ,2002,9.1
+Eswatini,SWZ,2003,9.4
+Eswatini,SWZ,2004,9.7
+Eswatini,SWZ,2005,9.9
+Eswatini,SWZ,2006,10.4
+Eswatini,SWZ,2007,10.6
+Eswatini,SWZ,2008,10.8
+Eswatini,SWZ,2009,11
+Eswatini,SWZ,2010,11.2
+Eswatini,SWZ,2011,11.2
+Eswatini,SWZ,2012,11.2
+Eswatini,SWZ,2013,11.2
+Eswatini,SWZ,2014,11.2
+Eswatini,SWZ,2015,11.2
+Eswatini,SWZ,2016,11.2
+Eswatini,SWZ,2017,11.2
+Ethiopia,ETH,1990,3.1
+Ethiopia,ETH,1991,2.8
+Ethiopia,ETH,1992,2.6
+Ethiopia,ETH,1993,2.4
+Ethiopia,ETH,1994,2.3
+Ethiopia,ETH,1995,2.5
+Ethiopia,ETH,1996,2.9
+Ethiopia,ETH,1997,3.2
+Ethiopia,ETH,1998,3.6
+Ethiopia,ETH,1999,3.9
+Ethiopia,ETH,2000,4.3
+Ethiopia,ETH,2001,4.9
+Ethiopia,ETH,2002,5.2
+Ethiopia,ETH,2003,5.4
+Ethiopia,ETH,2004,5.8
+Ethiopia,ETH,2005,6.6
+Ethiopia,ETH,2006,7.1
+Ethiopia,ETH,2007,7.6
+Ethiopia,ETH,2008,8.1
+Ethiopia,ETH,2009,8.1
+Ethiopia,ETH,2010,8.2
+Ethiopia,ETH,2011,8.3
+Ethiopia,ETH,2012,8.4
+Ethiopia,ETH,2013,8.5
+Ethiopia,ETH,2014,8.5
+Ethiopia,ETH,2015,8.5
+Ethiopia,ETH,2016,8.5
+Ethiopia,ETH,2017,8.5
+Fiji,FJI,1990,12.1
+Fiji,FJI,1991,12.5
+Fiji,FJI,1992,12.6
+Fiji,FJI,1993,12.6
+Fiji,FJI,1994,12.7
+Fiji,FJI,1995,12.8
+Fiji,FJI,1996,12.9
+Fiji,FJI,1997,12.9
+Fiji,FJI,1998,13
+Fiji,FJI,1999,13.1
+Fiji,FJI,2000,13.2
+Fiji,FJI,2001,13.3
+Fiji,FJI,2002,13.3
+Fiji,FJI,2003,13.4
+Fiji,FJI,2004,13.9
+Fiji,FJI,2005,14.1
+Fiji,FJI,2006,14.2
+Fiji,FJI,2007,14.5
+Fiji,FJI,2008,14.4
+Fiji,FJI,2009,14.6
+Fiji,FJI,2010,15
+Fiji,FJI,2011,15.2
+Fiji,FJI,2012,15
+Fiji,FJI,2013,15.2
+Fiji,FJI,2014,15.1
+Fiji,FJI,2015,15.3
+Fiji,FJI,2016,15.3
+Fiji,FJI,2017,15.3
+Finland,FIN,1990,15
+Finland,FIN,1991,15.2
+Finland,FIN,1992,15.8
+Finland,FIN,1993,15.9
+Finland,FIN,1994,16.2
+Finland,FIN,1995,16.3
+Finland,FIN,1996,16.5
+Finland,FIN,1997,16.8
+Finland,FIN,1998,17.1
+Finland,FIN,1999,17.3
+Finland,FIN,2000,17.7
+Finland,FIN,2001,18
+Finland,FIN,2002,18.1
+Finland,FIN,2003,18.3
+Finland,FIN,2004,17.1
+Finland,FIN,2005,17.2
+Finland,FIN,2006,17.2
+Finland,FIN,2007,17.1
+Finland,FIN,2008,17
+Finland,FIN,2009,16.8
+Finland,FIN,2010,16.9
+Finland,FIN,2011,17
+Finland,FIN,2012,17
+Finland,FIN,2013,17.6
+Finland,FIN,2014,17.6
+Finland,FIN,2015,17.6
+Finland,FIN,2016,17.6
+Finland,FIN,2017,17.6
+France,FRA,1990,14.2
+France,FRA,1991,14.4
+France,FRA,1992,14.8
+France,FRA,1993,14.8
+France,FRA,1994,15.6
+France,FRA,1995,15.7
+France,FRA,1996,15.8
+France,FRA,1997,15.7
+France,FRA,1998,15.7
+France,FRA,1999,15.7
+France,FRA,2000,15.6
+France,FRA,2001,15.5
+France,FRA,2002,15.4
+France,FRA,2003,15.5
+France,FRA,2004,15.5
+France,FRA,2005,16.1
+France,FRA,2006,16.1
+France,FRA,2007,16.1
+France,FRA,2008,16
+France,FRA,2009,16
+France,FRA,2010,16.1
+France,FRA,2011,16.1
+France,FRA,2012,16.2
+France,FRA,2013,16.2
+France,FRA,2014,16.3
+France,FRA,2015,16.4
+France,FRA,2016,16.4
+France,FRA,2017,16.4
+Gabon,GAB,1990,11.8
+Gabon,GAB,1991,11.9
+Gabon,GAB,1992,11.9
+Gabon,GAB,1993,12
+Gabon,GAB,1994,12
+Gabon,GAB,1995,12
+Gabon,GAB,1996,12.1
+Gabon,GAB,1997,12.1
+Gabon,GAB,1998,12.2
+Gabon,GAB,1999,12.2
+Gabon,GAB,2000,12.3
+Gabon,GAB,2001,12.3
+Gabon,GAB,2002,12.3
+Gabon,GAB,2003,12.3
+Gabon,GAB,2004,12.4
+Gabon,GAB,2005,12.4
+Gabon,GAB,2006,12.4
+Gabon,GAB,2007,12.4
+Gabon,GAB,2008,12.4
+Gabon,GAB,2009,12.5
+Gabon,GAB,2010,12.5
+Gabon,GAB,2011,12.5
+Gabon,GAB,2012,12.5
+Gabon,GAB,2013,12.6
+Gabon,GAB,2014,12.6
+Gabon,GAB,2015,12.6
+Gabon,GAB,2016,12.6
+Gabon,GAB,2017,12.8
+Gambia,GMB,1990,5.1
+Gambia,GMB,1991,5.2
+Gambia,GMB,1992,5.2
+Gambia,GMB,1993,5.3
+Gambia,GMB,1994,5.3
+Gambia,GMB,1995,5.4
+Gambia,GMB,1996,5.7
+Gambia,GMB,1997,5.9
+Gambia,GMB,1998,6.2
+Gambia,GMB,1999,6.5
+Gambia,GMB,2000,6.8
+Gambia,GMB,2001,7
+Gambia,GMB,2002,7.3
+Gambia,GMB,2003,7.6
+Gambia,GMB,2004,7.8
+Gambia,GMB,2005,8.1
+Gambia,GMB,2006,8.4
+Gambia,GMB,2007,8.6
+Gambia,GMB,2008,8.9
+Gambia,GMB,2009,8.8
+Gambia,GMB,2010,8.7
+Gambia,GMB,2011,8.8
+Gambia,GMB,2012,8.9
+Gambia,GMB,2013,9.2
+Gambia,GMB,2014,9.2
+Gambia,GMB,2015,9.2
+Gambia,GMB,2016,9.2
+Gambia,GMB,2017,9.2
+Georgia,GEO,1990,12.4
+Georgia,GEO,1991,12.4
+Georgia,GEO,1992,12
+Georgia,GEO,1993,11.6
+Georgia,GEO,1994,11.3
+Georgia,GEO,1995,10.9
+Georgia,GEO,1996,10.9
+Georgia,GEO,1997,11.2
+Georgia,GEO,1998,11.3
+Georgia,GEO,1999,11.4
+Georgia,GEO,2000,11.7
+Georgia,GEO,2001,11.8
+Georgia,GEO,2002,11.8
+Georgia,GEO,2003,12
+Georgia,GEO,2004,12.2
+Georgia,GEO,2005,12.6
+Georgia,GEO,2006,12.5
+Georgia,GEO,2007,13.1
+Georgia,GEO,2008,12.8
+Georgia,GEO,2009,13.3
+Georgia,GEO,2010,13.3
+Georgia,GEO,2011,13.4
+Georgia,GEO,2012,13.5
+Georgia,GEO,2013,13.9
+Georgia,GEO,2014,14.2
+Georgia,GEO,2015,14.7
+Georgia,GEO,2016,15
+Georgia,GEO,2017,15
+Germany,DEU,1990,14.4
+Germany,DEU,1991,14.7
+Germany,DEU,1992,14.8
+Germany,DEU,1993,15.5
+Germany,DEU,1994,15.6
+Germany,DEU,1995,15.7
+Germany,DEU,1996,15.8
+Germany,DEU,1997,15.9
+Germany,DEU,1998,16.1
+Germany,DEU,1999,16.2
+Germany,DEU,2000,16.2
+Germany,DEU,2001,16.3
+Germany,DEU,2002,16.3
+Germany,DEU,2003,16.4
+Germany,DEU,2004,16.4
+Germany,DEU,2005,16.5
+Germany,DEU,2006,16.6
+Germany,DEU,2007,16.6
+Germany,DEU,2008,16.7
+Germany,DEU,2009,16.7
+Germany,DEU,2010,16.8
+Germany,DEU,2011,16.9
+Germany,DEU,2012,16.9
+Germany,DEU,2013,16.8
+Germany,DEU,2014,16.9
+Germany,DEU,2015,17
+Germany,DEU,2016,17
+Germany,DEU,2017,17
+Ghana,GHA,1990,7.6
+Ghana,GHA,1991,7.6
+Ghana,GHA,1992,7.6
+Ghana,GHA,1993,7.7
+Ghana,GHA,1994,7.7
+Ghana,GHA,1995,7.7
+Ghana,GHA,1996,7.7
+Ghana,GHA,1997,7.7
+Ghana,GHA,1998,7.7
+Ghana,GHA,1999,7.7
+Ghana,GHA,2000,8
+Ghana,GHA,2001,7.6
+Ghana,GHA,2002,7.9
+Ghana,GHA,2003,7.7
+Ghana,GHA,2004,8.1
+Ghana,GHA,2005,8.7
+Ghana,GHA,2006,9.1
+Ghana,GHA,2007,9.8
+Ghana,GHA,2008,10.4
+Ghana,GHA,2009,10.5
+Ghana,GHA,2010,10.9
+Ghana,GHA,2011,11
+Ghana,GHA,2012,11.3
+Ghana,GHA,2013,11.5
+Ghana,GHA,2014,11.2
+Ghana,GHA,2015,11.7
+Ghana,GHA,2016,11.6
+Ghana,GHA,2017,11.6
+Greece,GRC,1990,12.4
+Greece,GRC,1991,12.9
+Greece,GRC,1992,12.8
+Greece,GRC,1993,12.6
+Greece,GRC,1994,12.8
+Greece,GRC,1995,12.7
+Greece,GRC,1996,12.9
+Greece,GRC,1997,13
+Greece,GRC,1998,13.6
+Greece,GRC,1999,13.5
+Greece,GRC,2000,13.9
+Greece,GRC,2001,14.3
+Greece,GRC,2002,14.8
+Greece,GRC,2003,14.9
+Greece,GRC,2004,15.2
+Greece,GRC,2005,15.9
+Greece,GRC,2006,16
+Greece,GRC,2007,15.5
+Greece,GRC,2008,16.2
+Greece,GRC,2009,16.4
+Greece,GRC,2010,16.2
+Greece,GRC,2011,16.3
+Greece,GRC,2012,16.6
+Greece,GRC,2013,16.7
+Greece,GRC,2014,17.3
+Greece,GRC,2015,17.3
+Greece,GRC,2016,17.3
+Greece,GRC,2017,17.3
+Grenada,GRD,1990,12.6
+Grenada,GRD,1991,12.8
+Grenada,GRD,1992,13
+Grenada,GRD,1993,13.1
+Grenada,GRD,1994,13.3
+Grenada,GRD,1995,13.5
+Grenada,GRD,1996,13.6
+Grenada,GRD,1997,13.8
+Grenada,GRD,1998,14
+Grenada,GRD,1999,14.1
+Grenada,GRD,2000,14.3
+Grenada,GRD,2001,14.4
+Grenada,GRD,2002,14.6
+Grenada,GRD,2003,14.8
+Grenada,GRD,2004,14.9
+Grenada,GRD,2005,15.1
+Grenada,GRD,2006,15.3
+Grenada,GRD,2007,15.4
+Grenada,GRD,2008,15.6
+Grenada,GRD,2009,15.8
+Grenada,GRD,2010,15.9
+Grenada,GRD,2011,16.1
+Grenada,GRD,2012,16.2
+Grenada,GRD,2013,16.4
+Grenada,GRD,2014,16.6
+Grenada,GRD,2015,16.7
+Grenada,GRD,2016,16.9
+Grenada,GRD,2017,16.9
+Guatemala,GTM,1990,6.5
+Guatemala,GTM,1991,6.6
+Guatemala,GTM,1992,6.7
+Guatemala,GTM,1993,6.8
+Guatemala,GTM,1994,6.9
+Guatemala,GTM,1995,7
+Guatemala,GTM,1996,7.3
+Guatemala,GTM,1997,7.6
+Guatemala,GTM,1998,7.9
+Guatemala,GTM,1999,8.2
+Guatemala,GTM,2000,8.5
+Guatemala,GTM,2001,8.8
+Guatemala,GTM,2002,9
+Guatemala,GTM,2003,9.3
+Guatemala,GTM,2004,9.6
+Guatemala,GTM,2005,9.8
+Guatemala,GTM,2006,10.1
+Guatemala,GTM,2007,10.4
+Guatemala,GTM,2008,10.4
+Guatemala,GTM,2009,10.5
+Guatemala,GTM,2010,10.5
+Guatemala,GTM,2011,10.6
+Guatemala,GTM,2012,10.7
+Guatemala,GTM,2013,10.6
+Guatemala,GTM,2014,10.7
+Guatemala,GTM,2015,10.8
+Guatemala,GTM,2016,10.8
+Guatemala,GTM,2017,10.8
+Guinea,GIN,1990,2.9
+Guinea,GIN,1991,3
+Guinea,GIN,1992,3.1
+Guinea,GIN,1993,3.2
+Guinea,GIN,1994,3.4
+Guinea,GIN,1995,3.5
+Guinea,GIN,1996,3.7
+Guinea,GIN,1997,4
+Guinea,GIN,1998,4.4
+Guinea,GIN,1999,4.8
+Guinea,GIN,2000,5.1
+Guinea,GIN,2001,5.5
+Guinea,GIN,2002,5.9
+Guinea,GIN,2003,5.1
+Guinea,GIN,2004,6.6
+Guinea,GIN,2005,7.1
+Guinea,GIN,2006,7.6
+Guinea,GIN,2007,7.9
+Guinea,GIN,2008,8.1
+Guinea,GIN,2009,8.3
+Guinea,GIN,2010,8.4
+Guinea,GIN,2011,8.7
+Guinea,GIN,2012,8.7
+Guinea,GIN,2013,8.9
+Guinea,GIN,2014,9.1
+Guinea,GIN,2015,9.1
+Guinea,GIN,2016,9.1
+Guinea,GIN,2017,9.1
+Guinea-Bissau,GNB,1990,3.7
+Guinea-Bissau,GNB,1991,4
+Guinea-Bissau,GNB,1992,4.3
+Guinea-Bissau,GNB,1993,4.6
+Guinea-Bissau,GNB,1994,4.9
+Guinea-Bissau,GNB,1995,5.2
+Guinea-Bissau,GNB,1996,5.5
+Guinea-Bissau,GNB,1997,5.8
+Guinea-Bissau,GNB,1998,6.1
+Guinea-Bissau,GNB,1999,6.4
+Guinea-Bissau,GNB,2000,6.7
+Guinea-Bissau,GNB,2001,7.1
+Guinea-Bissau,GNB,2002,7.4
+Guinea-Bissau,GNB,2003,7.7
+Guinea-Bissau,GNB,2004,8
+Guinea-Bissau,GNB,2005,8.5
+Guinea-Bissau,GNB,2006,9
+Guinea-Bissau,GNB,2007,9.2
+Guinea-Bissau,GNB,2008,9.5
+Guinea-Bissau,GNB,2009,9.7
+Guinea-Bissau,GNB,2010,9.9
+Guinea-Bissau,GNB,2011,10.1
+Guinea-Bissau,GNB,2012,10.3
+Guinea-Bissau,GNB,2013,10.4
+Guinea-Bissau,GNB,2014,10.5
+Guinea-Bissau,GNB,2015,10.5
+Guinea-Bissau,GNB,2016,10.5
+Guinea-Bissau,GNB,2017,10.5
+Guyana,GUY,1990,10.1
+Guyana,GUY,1991,10.2
+Guyana,GUY,1992,10.3
+Guyana,GUY,1993,10.4
+Guyana,GUY,1994,10.4
+Guyana,GUY,1995,10.5
+Guyana,GUY,1996,10.6
+Guyana,GUY,1997,10.7
+Guyana,GUY,1998,10.8
+Guyana,GUY,1999,10.9
+Guyana,GUY,2000,10.9
+Guyana,GUY,2001,11
+Guyana,GUY,2002,11.1
+Guyana,GUY,2003,10.5
+Guyana,GUY,2004,10.8
+Guyana,GUY,2005,11
+Guyana,GUY,2006,10.8
+Guyana,GUY,2007,10.6
+Guyana,GUY,2008,10.7
+Guyana,GUY,2009,10.7
+Guyana,GUY,2010,10.9
+Guyana,GUY,2011,11.4
+Guyana,GUY,2012,11.4
+Guyana,GUY,2013,11.4
+Guyana,GUY,2014,11.4
+Guyana,GUY,2015,11.4
+Guyana,GUY,2016,11.4
+Guyana,GUY,2017,11.4
+Haiti,HTI,1990,7.2
+Haiti,HTI,1991,7.2
+Haiti,HTI,1992,7.3
+Haiti,HTI,1993,7.4
+Haiti,HTI,1994,7.5
+Haiti,HTI,1995,7.5
+Haiti,HTI,1996,7.6
+Haiti,HTI,1997,7.7
+Haiti,HTI,1998,7.8
+Haiti,HTI,1999,7.8
+Haiti,HTI,2000,7.9
+Haiti,HTI,2001,8
+Haiti,HTI,2002,8.1
+Haiti,HTI,2003,8.1
+Haiti,HTI,2004,8.2
+Haiti,HTI,2005,8.3
+Haiti,HTI,2006,8.4
+Haiti,HTI,2007,8.4
+Haiti,HTI,2008,8.5
+Haiti,HTI,2009,8.6
+Haiti,HTI,2010,8.7
+Haiti,HTI,2011,8.9
+Haiti,HTI,2012,8.9
+Haiti,HTI,2013,9
+Haiti,HTI,2014,9.1
+Haiti,HTI,2015,9.1
+Haiti,HTI,2016,9.2
+Haiti,HTI,2017,9.3
+Honduras,HND,1990,8.6
+Honduras,HND,1991,8.6
+Honduras,HND,1992,8.7
+Honduras,HND,1993,8.8
+Honduras,HND,1994,8.9
+Honduras,HND,1995,9.1
+Honduras,HND,1996,9.3
+Honduras,HND,1997,9.4
+Honduras,HND,1998,9.6
+Honduras,HND,1999,9.8
+Honduras,HND,2000,9.9
+Honduras,HND,2001,10.1
+Honduras,HND,2002,10.3
+Honduras,HND,2003,10.4
+Honduras,HND,2004,10.6
+Honduras,HND,2005,10.8
+Honduras,HND,2006,10.9
+Honduras,HND,2007,11.1
+Honduras,HND,2008,10.5
+Honduras,HND,2009,10.6
+Honduras,HND,2010,10.7
+Honduras,HND,2011,10.6
+Honduras,HND,2012,10.4
+Honduras,HND,2013,10.2
+Honduras,HND,2014,10
+Honduras,HND,2015,10.2
+Honduras,HND,2016,10.2
+Honduras,HND,2017,10.2
+Hong Kong,HKG,1990,12.8
+Hong Kong,HKG,1991,12.9
+Hong Kong,HKG,1992,13
+Hong Kong,HKG,1993,13.2
+Hong Kong,HKG,1994,13.3
+Hong Kong,HKG,1995,13.4
+Hong Kong,HKG,1996,13.6
+Hong Kong,HKG,1997,13.7
+Hong Kong,HKG,1998,13.9
+Hong Kong,HKG,1999,14
+Hong Kong,HKG,2000,14.1
+Hong Kong,HKG,2001,14.3
+Hong Kong,HKG,2002,14.4
+Hong Kong,HKG,2003,14.5
+Hong Kong,HKG,2004,14.7
+Hong Kong,HKG,2005,14.8
+Hong Kong,HKG,2006,14.9
+Hong Kong,HKG,2007,15.1
+Hong Kong,HKG,2008,15.2
+Hong Kong,HKG,2009,15.4
+Hong Kong,HKG,2010,15.3
+Hong Kong,HKG,2011,15.4
+Hong Kong,HKG,2012,15.8
+Hong Kong,HKG,2013,16
+Hong Kong,HKG,2014,16.2
+Hong Kong,HKG,2015,16.3
+Hong Kong,HKG,2016,16.3
+Hong Kong,HKG,2017,16.3
+Hungary,HUN,1990,11.1
+Hungary,HUN,1991,11.1
+Hungary,HUN,1992,11.2
+Hungary,HUN,1993,11.9
+Hungary,HUN,1994,12.6
+Hungary,HUN,1995,12.8
+Hungary,HUN,1996,13.2
+Hungary,HUN,1997,13.1
+Hungary,HUN,1998,13.4
+Hungary,HUN,1999,13.9
+Hungary,HUN,2000,14.2
+Hungary,HUN,2001,14.6
+Hungary,HUN,2002,14.9
+Hungary,HUN,2003,15.3
+Hungary,HUN,2004,15
+Hungary,HUN,2005,15.2
+Hungary,HUN,2006,15.3
+Hungary,HUN,2007,15.3
+Hungary,HUN,2008,15.3
+Hungary,HUN,2009,15.2
+Hungary,HUN,2010,15.3
+Hungary,HUN,2011,15.2
+Hungary,HUN,2012,15.2
+Hungary,HUN,2013,15.6
+Hungary,HUN,2014,15.4
+Hungary,HUN,2015,15.2
+Hungary,HUN,2016,15.1
+Hungary,HUN,2017,15.1
+Iceland,ISL,1990,14.2
+Iceland,ISL,1991,15.3
+Iceland,ISL,1992,15.6
+Iceland,ISL,1993,15.5
+Iceland,ISL,1994,15.7
+Iceland,ISL,1995,15.8
+Iceland,ISL,1996,15.9
+Iceland,ISL,1997,16.3
+Iceland,ISL,1998,16.8
+Iceland,ISL,1999,16.8
+Iceland,ISL,2000,17.1
+Iceland,ISL,2001,17.2
+Iceland,ISL,2002,17.6
+Iceland,ISL,2003,18.3
+Iceland,ISL,2004,17.9
+Iceland,ISL,2005,18.2
+Iceland,ISL,2006,18.3
+Iceland,ISL,2007,18.2
+Iceland,ISL,2008,18.4
+Iceland,ISL,2009,18.3
+Iceland,ISL,2010,18.5
+Iceland,ISL,2011,18.5
+Iceland,ISL,2012,18.8
+Iceland,ISL,2013,19.5
+Iceland,ISL,2014,19.6
+Iceland,ISL,2015,19.3
+Iceland,ISL,2016,19.3
+Iceland,ISL,2017,19.3
+India,IND,1990,7.6
+India,IND,1991,7.7
+India,IND,1992,7.9
+India,IND,1993,8
+India,IND,1994,8.1
+India,IND,1995,8.2
+India,IND,1996,8.2
+India,IND,1997,8.2
+India,IND,1998,8.3
+India,IND,1999,8.3
+India,IND,2000,8.3
+India,IND,2001,8.4
+India,IND,2002,8.6
+India,IND,2003,9.2
+India,IND,2004,9.4
+India,IND,2005,9.7
+India,IND,2006,9.9
+India,IND,2007,10.2
+India,IND,2008,10.5
+India,IND,2009,10.4
+India,IND,2010,10.8
+India,IND,2011,11.3
+India,IND,2012,11.5
+India,IND,2013,11.6
+India,IND,2014,11.9
+India,IND,2015,12
+India,IND,2016,12.3
+India,IND,2017,12.3
+Indonesia,IDN,1990,10.1
+Indonesia,IDN,1991,9.9
+Indonesia,IDN,1992,9.8
+Indonesia,IDN,1993,9.7
+Indonesia,IDN,1994,9.9
+Indonesia,IDN,1995,10.1
+Indonesia,IDN,1996,10.2
+Indonesia,IDN,1997,10.5
+Indonesia,IDN,1998,10.6
+Indonesia,IDN,1999,10.7
+Indonesia,IDN,2000,10.6
+Indonesia,IDN,2001,10.6
+Indonesia,IDN,2002,10.8
+Indonesia,IDN,2003,11
+Indonesia,IDN,2004,11.1
+Indonesia,IDN,2005,10.9
+Indonesia,IDN,2006,11
+Indonesia,IDN,2007,11.7
+Indonesia,IDN,2008,11.7
+Indonesia,IDN,2009,12.1
+Indonesia,IDN,2010,12.2
+Indonesia,IDN,2011,12.5
+Indonesia,IDN,2012,12.8
+Indonesia,IDN,2013,12.8
+Indonesia,IDN,2014,12.8
+Indonesia,IDN,2015,12.7
+Indonesia,IDN,2016,12.8
+Indonesia,IDN,2017,12.8
+Iran,IRN,1990,9.2
+Iran,IRN,1991,9.6
+Iran,IRN,1992,10
+Iran,IRN,1993,10.3
+Iran,IRN,1994,10.7
+Iran,IRN,1995,11.1
+Iran,IRN,1996,11.2
+Iran,IRN,1997,11.4
+Iran,IRN,1998,11.5
+Iran,IRN,1999,11.6
+Iran,IRN,2000,11.6
+Iran,IRN,2001,11.9
+Iran,IRN,2002,11.8
+Iran,IRN,2003,11.8
+Iran,IRN,2004,11.4
+Iran,IRN,2005,11.4
+Iran,IRN,2006,11.8
+Iran,IRN,2007,12.1
+Iran,IRN,2008,12.7
+Iran,IRN,2009,12.9
+Iran,IRN,2010,13.1
+Iran,IRN,2011,13.6
+Iran,IRN,2012,14.9
+Iran,IRN,2013,14.8
+Iran,IRN,2014,14.8
+Iran,IRN,2015,14.9
+Iran,IRN,2016,14.9
+Iran,IRN,2017,14.9
+Iraq,IRQ,1990,9.6
+Iraq,IRQ,1991,9.5
+Iraq,IRQ,1992,9.4
+Iraq,IRQ,1993,9.3
+Iraq,IRQ,1994,9.2
+Iraq,IRQ,1995,9.1
+Iraq,IRQ,1996,8.9
+Iraq,IRQ,1997,8.8
+Iraq,IRQ,1998,8.7
+Iraq,IRQ,1999,8.6
+Iraq,IRQ,2000,8.7
+Iraq,IRQ,2001,9.1
+Iraq,IRQ,2002,9.4
+Iraq,IRQ,2003,9.8
+Iraq,IRQ,2004,10.1
+Iraq,IRQ,2005,10.2
+Iraq,IRQ,2006,10.2
+Iraq,IRQ,2007,10.3
+Iraq,IRQ,2008,10.3
+Iraq,IRQ,2009,10.4
+Iraq,IRQ,2010,10.4
+Iraq,IRQ,2011,10.5
+Iraq,IRQ,2012,10.3
+Iraq,IRQ,2013,10.1
+Iraq,IRQ,2014,10.1
+Iraq,IRQ,2015,10.1
+Iraq,IRQ,2016,10.1
+Iraq,IRQ,2017,11
+Ireland,IRL,1990,12.1
+Ireland,IRL,1991,12.1
+Ireland,IRL,1992,12.3
+Ireland,IRL,1993,12.8
+Ireland,IRL,1994,13
+Ireland,IRL,1995,13.1
+Ireland,IRL,1996,13.1
+Ireland,IRL,1997,13.4
+Ireland,IRL,1998,16
+Ireland,IRL,1999,16.2
+Ireland,IRL,2000,16.4
+Ireland,IRL,2001,16.5
+Ireland,IRL,2002,16.8
+Ireland,IRL,2003,17.1
+Ireland,IRL,2004,17.5
+Ireland,IRL,2005,17.5
+Ireland,IRL,2006,17.6
+Ireland,IRL,2007,17.9
+Ireland,IRL,2008,17.9
+Ireland,IRL,2009,18.1
+Ireland,IRL,2010,18.4
+Ireland,IRL,2011,18.4
+Ireland,IRL,2012,18.5
+Ireland,IRL,2013,18.8
+Ireland,IRL,2014,19
+Ireland,IRL,2015,19.6
+Ireland,IRL,2016,19.6
+Ireland,IRL,2017,19.6
+Israel,ISR,1990,12.7
+Israel,ISR,1991,13.1
+Israel,ISR,1992,13.3
+Israel,ISR,1993,13.5
+Israel,ISR,1994,13.5
+Israel,ISR,1995,13.6
+Israel,ISR,1996,13.7
+Israel,ISR,1997,14.2
+Israel,ISR,1998,14.7
+Israel,ISR,1999,15.2
+Israel,ISR,2000,15.1
+Israel,ISR,2001,15.3
+Israel,ISR,2002,16
+Israel,ISR,2003,15.9
+Israel,ISR,2004,15.8
+Israel,ISR,2005,15.7
+Israel,ISR,2006,15.7
+Israel,ISR,2007,15.8
+Israel,ISR,2008,15.6
+Israel,ISR,2009,15.7
+Israel,ISR,2010,15.8
+Israel,ISR,2011,15.9
+Israel,ISR,2012,15.9
+Israel,ISR,2013,16
+Israel,ISR,2014,16
+Israel,ISR,2015,16
+Israel,ISR,2016,15.9
+Israel,ISR,2017,15.9
+Italy,ITA,1990,12.8
+Italy,ITA,1991,13
+Italy,ITA,1992,13.3
+Italy,ITA,1993,13.5
+Italy,ITA,1994,13.9
+Italy,ITA,1995,14.1
+Italy,ITA,1996,14.3
+Italy,ITA,1997,14.6
+Italy,ITA,1998,14.7
+Italy,ITA,1999,14.8
+Italy,ITA,2000,14.9
+Italy,ITA,2001,15.2
+Italy,ITA,2002,15.4
+Italy,ITA,2003,15.6
+Italy,ITA,2004,15.8
+Italy,ITA,2005,15.9
+Italy,ITA,2006,16.1
+Italy,ITA,2007,16.2
+Italy,ITA,2008,16.3
+Italy,ITA,2009,16.3
+Italy,ITA,2010,16.4
+Italy,ITA,2011,16.6
+Italy,ITA,2012,16.5
+Italy,ITA,2013,16.3
+Italy,ITA,2014,16.3
+Italy,ITA,2015,16.3
+Italy,ITA,2016,16.3
+Italy,ITA,2017,16.3
+Jamaica,JAM,1990,11.2
+Jamaica,JAM,1991,11.4
+Jamaica,JAM,1992,11.4
+Jamaica,JAM,1993,11.4
+Jamaica,JAM,1994,11.4
+Jamaica,JAM,1995,11.4
+Jamaica,JAM,1996,11.4
+Jamaica,JAM,1997,11.4
+Jamaica,JAM,1998,11.4
+Jamaica,JAM,1999,11.4
+Jamaica,JAM,2000,10.9
+Jamaica,JAM,2001,11.7
+Jamaica,JAM,2002,11.9
+Jamaica,JAM,2003,11.1
+Jamaica,JAM,2004,12.4
+Jamaica,JAM,2005,12.5
+Jamaica,JAM,2006,12.5
+Jamaica,JAM,2007,12.6
+Jamaica,JAM,2008,12.7
+Jamaica,JAM,2009,12.7
+Jamaica,JAM,2010,12.8
+Jamaica,JAM,2011,12.8
+Jamaica,JAM,2012,12.9
+Jamaica,JAM,2013,13.2
+Jamaica,JAM,2014,13.1
+Jamaica,JAM,2015,13.1
+Jamaica,JAM,2016,13.1
+Jamaica,JAM,2017,13.1
+Japan,JPN,1990,13.3
+Japan,JPN,1991,13.4
+Japan,JPN,1992,13.5
+Japan,JPN,1993,13.8
+Japan,JPN,1994,14.1
+Japan,JPN,1995,14.2
+Japan,JPN,1996,14.3
+Japan,JPN,1997,14.4
+Japan,JPN,1998,14.1
+Japan,JPN,1999,14.1
+Japan,JPN,2000,14.3
+Japan,JPN,2001,14.3
+Japan,JPN,2002,14.4
+Japan,JPN,2003,14.5
+Japan,JPN,2004,14.6
+Japan,JPN,2005,14.6
+Japan,JPN,2006,14.8
+Japan,JPN,2007,14.8
+Japan,JPN,2008,14.8
+Japan,JPN,2009,14.9
+Japan,JPN,2010,15
+Japan,JPN,2011,15.2
+Japan,JPN,2012,15.2
+Japan,JPN,2013,15.2
+Japan,JPN,2014,15.2
+Japan,JPN,2015,15.2
+Japan,JPN,2016,15.2
+Japan,JPN,2017,15.2
+Jordan,JOR,1990,11.7
+Jordan,JOR,1991,11.9
+Jordan,JOR,1992,12.1
+Jordan,JOR,1993,12
+Jordan,JOR,1994,11.9
+Jordan,JOR,1995,12.1
+Jordan,JOR,1996,12.2
+Jordan,JOR,1997,12.3
+Jordan,JOR,1998,12.4
+Jordan,JOR,1999,12.6
+Jordan,JOR,2000,12.7
+Jordan,JOR,2001,13
+Jordan,JOR,2002,13.2
+Jordan,JOR,2003,13.5
+Jordan,JOR,2004,13.8
+Jordan,JOR,2005,13.7
+Jordan,JOR,2006,13.6
+Jordan,JOR,2007,13.6
+Jordan,JOR,2008,13.6
+Jordan,JOR,2009,13.2
+Jordan,JOR,2010,12.8
+Jordan,JOR,2011,12.6
+Jordan,JOR,2012,12.8
+Jordan,JOR,2013,12.9
+Jordan,JOR,2014,12.9
+Jordan,JOR,2015,13
+Jordan,JOR,2016,13.1
+Jordan,JOR,2017,13.1
+Kazakhstan,KAZ,1990,12.4
+Kazakhstan,KAZ,1991,12.3
+Kazakhstan,KAZ,1992,12.3
+Kazakhstan,KAZ,1993,12.1
+Kazakhstan,KAZ,1994,12
+Kazakhstan,KAZ,1995,12
+Kazakhstan,KAZ,1996,12
+Kazakhstan,KAZ,1997,12.1
+Kazakhstan,KAZ,1998,12.1
+Kazakhstan,KAZ,1999,12.1
+Kazakhstan,KAZ,2000,12.3
+Kazakhstan,KAZ,2001,12.7
+Kazakhstan,KAZ,2002,13.1
+Kazakhstan,KAZ,2003,13.5
+Kazakhstan,KAZ,2004,13.9
+Kazakhstan,KAZ,2005,14.3
+Kazakhstan,KAZ,2006,14.6
+Kazakhstan,KAZ,2007,14.6
+Kazakhstan,KAZ,2008,14.6
+Kazakhstan,KAZ,2009,14.5
+Kazakhstan,KAZ,2010,14.4
+Kazakhstan,KAZ,2011,14.7
+Kazakhstan,KAZ,2012,15
+Kazakhstan,KAZ,2013,14.9
+Kazakhstan,KAZ,2014,15
+Kazakhstan,KAZ,2015,15
+Kazakhstan,KAZ,2016,15
+Kazakhstan,KAZ,2017,15.1
+Kenya,KEN,1990,9.1
+Kenya,KEN,1991,9
+Kenya,KEN,1992,8.9
+Kenya,KEN,1993,8.9
+Kenya,KEN,1994,8.8
+Kenya,KEN,1995,8.7
+Kenya,KEN,1996,8.6
+Kenya,KEN,1997,8.6
+Kenya,KEN,1998,8.5
+Kenya,KEN,1999,8.4
+Kenya,KEN,2000,8.4
+Kenya,KEN,2001,8.5
+Kenya,KEN,2002,8.2
+Kenya,KEN,2003,8.9
+Kenya,KEN,2004,9.4
+Kenya,KEN,2005,9.4
+Kenya,KEN,2006,10.1
+Kenya,KEN,2007,9.9
+Kenya,KEN,2008,10.2
+Kenya,KEN,2009,10.5
+Kenya,KEN,2010,10.7
+Kenya,KEN,2011,10.9
+Kenya,KEN,2012,11.1
+Kenya,KEN,2013,11.3
+Kenya,KEN,2014,11.5
+Kenya,KEN,2015,11.7
+Kenya,KEN,2016,11.9
+Kenya,KEN,2017,12.1
+Kiribati,KIR,1990,10.4
+Kiribati,KIR,1991,10.8
+Kiribati,KIR,1992,11
+Kiribati,KIR,1993,11
+Kiribati,KIR,1994,11
+Kiribati,KIR,1995,10.9
+Kiribati,KIR,1996,11
+Kiribati,KIR,1997,10.7
+Kiribati,KIR,1998,10.3
+Kiribati,KIR,1999,10
+Kiribati,KIR,2000,10.4
+Kiribati,KIR,2001,11.7
+Kiribati,KIR,2002,11.6
+Kiribati,KIR,2003,12.4
+Kiribati,KIR,2004,12.2
+Kiribati,KIR,2005,12.1
+Kiribati,KIR,2006,11.8
+Kiribati,KIR,2007,11.6
+Kiribati,KIR,2008,11.9
+Kiribati,KIR,2009,12
+Kiribati,KIR,2010,12.3
+Kiribati,KIR,2011,12.7
+Kiribati,KIR,2012,12.8
+Kiribati,KIR,2013,13
+Kiribati,KIR,2014,12.9
+Kiribati,KIR,2015,12.9
+Kiribati,KIR,2016,12.9
+Kiribati,KIR,2017,12.9
+Kuwait,KWT,1990,10.6
+Kuwait,KWT,1991,8.8
+Kuwait,KWT,1992,7.1
+Kuwait,KWT,1993,8.2
+Kuwait,KWT,1994,9.8
+Kuwait,KWT,1995,11.6
+Kuwait,KWT,1996,13.3
+Kuwait,KWT,1997,13.4
+Kuwait,KWT,1998,13.8
+Kuwait,KWT,1999,14.1
+Kuwait,KWT,2000,14
+Kuwait,KWT,2001,13.9
+Kuwait,KWT,2002,14.1
+Kuwait,KWT,2003,14.4
+Kuwait,KWT,2004,14.2
+Kuwait,KWT,2005,14.1
+Kuwait,KWT,2006,13.9
+Kuwait,KWT,2007,13.8
+Kuwait,KWT,2008,13.6
+Kuwait,KWT,2009,13.5
+Kuwait,KWT,2010,13.4
+Kuwait,KWT,2011,13.2
+Kuwait,KWT,2012,13.1
+Kuwait,KWT,2013,13.6
+Kuwait,KWT,2014,13.6
+Kuwait,KWT,2015,13.6
+Kuwait,KWT,2016,13.6
+Kuwait,KWT,2017,13.6
+Kyrgyzstan,KGZ,1990,12
+Kyrgyzstan,KGZ,1991,11.8
+Kyrgyzstan,KGZ,1992,11.6
+Kyrgyzstan,KGZ,1993,11.3
+Kyrgyzstan,KGZ,1994,10.8
+Kyrgyzstan,KGZ,1995,10.6
+Kyrgyzstan,KGZ,1996,10.6
+Kyrgyzstan,KGZ,1997,10.7
+Kyrgyzstan,KGZ,1998,11.1
+Kyrgyzstan,KGZ,1999,11.5
+Kyrgyzstan,KGZ,2000,11.8
+Kyrgyzstan,KGZ,2001,12.2
+Kyrgyzstan,KGZ,2002,12.3
+Kyrgyzstan,KGZ,2003,12.6
+Kyrgyzstan,KGZ,2004,12.5
+Kyrgyzstan,KGZ,2005,12.6
+Kyrgyzstan,KGZ,2006,12.7
+Kyrgyzstan,KGZ,2007,12.7
+Kyrgyzstan,KGZ,2008,12.4
+Kyrgyzstan,KGZ,2009,12.5
+Kyrgyzstan,KGZ,2010,12.4
+Kyrgyzstan,KGZ,2011,12.3
+Kyrgyzstan,KGZ,2012,12.7
+Kyrgyzstan,KGZ,2013,13.1
+Kyrgyzstan,KGZ,2014,13.2
+Kyrgyzstan,KGZ,2015,13.3
+Kyrgyzstan,KGZ,2016,13.4
+Kyrgyzstan,KGZ,2017,13.4
+Laos,LAO,1990,6.7
+Laos,LAO,1991,6.7
+Laos,LAO,1992,6.8
+Laos,LAO,1993,6.9
+Laos,LAO,1994,7.2
+Laos,LAO,1995,6.8
+Laos,LAO,1996,7.4
+Laos,LAO,1997,7.7
+Laos,LAO,1998,7.9
+Laos,LAO,1999,8
+Laos,LAO,2000,8
+Laos,LAO,2001,8
+Laos,LAO,2002,8.3
+Laos,LAO,2003,8.6
+Laos,LAO,2004,8.7
+Laos,LAO,2005,9
+Laos,LAO,2006,9.1
+Laos,LAO,2007,9.2
+Laos,LAO,2008,9.4
+Laos,LAO,2009,9.7
+Laos,LAO,2010,10
+Laos,LAO,2011,10.4
+Laos,LAO,2012,10.5
+Laos,LAO,2013,10.8
+Laos,LAO,2014,11.1
+Laos,LAO,2015,11.3
+Laos,LAO,2016,11.2
+Laos,LAO,2017,11.2
+Latvia,LVA,1990,12.7
+Latvia,LVA,1991,12.6
+Latvia,LVA,1992,12.4
+Latvia,LVA,1993,11.9
+Latvia,LVA,1994,11.6
+Latvia,LVA,1995,11.6
+Latvia,LVA,1996,11.9
+Latvia,LVA,1997,12.3
+Latvia,LVA,1998,12.9
+Latvia,LVA,1999,13.6
+Latvia,LVA,2000,14.1
+Latvia,LVA,2001,14.7
+Latvia,LVA,2002,15
+Latvia,LVA,2003,15.2
+Latvia,LVA,2004,15.5
+Latvia,LVA,2005,15.7
+Latvia,LVA,2006,15.8
+Latvia,LVA,2007,15.9
+Latvia,LVA,2008,16.2
+Latvia,LVA,2009,15.9
+Latvia,LVA,2010,15.6
+Latvia,LVA,2011,15.4
+Latvia,LVA,2012,15.2
+Latvia,LVA,2013,15.7
+Latvia,LVA,2014,15.6
+Latvia,LVA,2015,15.8
+Latvia,LVA,2016,15.8
+Latvia,LVA,2017,15.8
+Lebanon,LBN,1990,11.7
+Lebanon,LBN,1991,11.9
+Lebanon,LBN,1992,12
+Lebanon,LBN,1993,12.2
+Lebanon,LBN,1994,12.4
+Lebanon,LBN,1995,12.5
+Lebanon,LBN,1996,12.7
+Lebanon,LBN,1997,13.4
+Lebanon,LBN,1998,14.2
+Lebanon,LBN,1999,14.9
+Lebanon,LBN,2000,15
+Lebanon,LBN,2001,15.2
+Lebanon,LBN,2002,14.8
+Lebanon,LBN,2003,14.2
+Lebanon,LBN,2004,13.7
+Lebanon,LBN,2005,13.2
+Lebanon,LBN,2006,12.9
+Lebanon,LBN,2007,13.1
+Lebanon,LBN,2008,13.2
+Lebanon,LBN,2009,13.3
+Lebanon,LBN,2010,13.2
+Lebanon,LBN,2011,13.3
+Lebanon,LBN,2012,12.5
+Lebanon,LBN,2013,12.5
+Lebanon,LBN,2014,12.5
+Lebanon,LBN,2015,12.5
+Lebanon,LBN,2016,12.5
+Lebanon,LBN,2017,12.5
+Lesotho,LSO,1990,9.6
+Lesotho,LSO,1991,9.7
+Lesotho,LSO,1992,9.7
+Lesotho,LSO,1993,9.4
+Lesotho,LSO,1994,9.8
+Lesotho,LSO,1995,9.9
+Lesotho,LSO,1996,9.8
+Lesotho,LSO,1997,9.8
+Lesotho,LSO,1998,9.7
+Lesotho,LSO,1999,9.6
+Lesotho,LSO,2000,10.3
+Lesotho,LSO,2001,10.4
+Lesotho,LSO,2002,10.5
+Lesotho,LSO,2003,10.7
+Lesotho,LSO,2004,10.7
+Lesotho,LSO,2005,10.7
+Lesotho,LSO,2006,10.6
+Lesotho,LSO,2007,10.7
+Lesotho,LSO,2008,10.8
+Lesotho,LSO,2009,10.9
+Lesotho,LSO,2010,11
+Lesotho,LSO,2011,11
+Lesotho,LSO,2012,11.1
+Lesotho,LSO,2013,10.8
+Lesotho,LSO,2014,10.7
+Lesotho,LSO,2015,10.6
+Lesotho,LSO,2016,10.6
+Lesotho,LSO,2017,10.6
+Liberia,LBR,1999,8.7
+Liberia,LBR,2000,10.5
+Liberia,LBR,2001,10.4
+Liberia,LBR,2002,10.3
+Liberia,LBR,2003,10.2
+Liberia,LBR,2004,10.1
+Liberia,LBR,2005,10
+Liberia,LBR,2006,9.9
+Liberia,LBR,2007,9.8
+Liberia,LBR,2008,9.7
+Liberia,LBR,2009,9.6
+Liberia,LBR,2010,9.5
+Liberia,LBR,2011,9.6
+Liberia,LBR,2012,9.8
+Liberia,LBR,2013,9.9
+Liberia,LBR,2014,10
+Liberia,LBR,2015,10
+Liberia,LBR,2016,10
+Liberia,LBR,2017,10
+Libya,LBY,1990,14
+Libya,LBY,1991,14.2
+Libya,LBY,1992,14.3
+Libya,LBY,1993,14.5
+Libya,LBY,1994,14.7
+Libya,LBY,1995,14.8
+Libya,LBY,1996,15
+Libya,LBY,1997,15.2
+Libya,LBY,1998,15.3
+Libya,LBY,1999,15.5
+Libya,LBY,2000,15.7
+Libya,LBY,2001,15.8
+Libya,LBY,2002,16
+Libya,LBY,2003,15.9
+Libya,LBY,2004,15.7
+Libya,LBY,2005,15.4
+Libya,LBY,2006,15.1
+Libya,LBY,2007,14.8
+Libya,LBY,2008,14.6
+Libya,LBY,2009,14.3
+Libya,LBY,2010,14
+Libya,LBY,2011,13.7
+Libya,LBY,2012,13.4
+Libya,LBY,2013,13.4
+Libya,LBY,2014,13.4
+Libya,LBY,2015,13.4
+Libya,LBY,2016,13.4
+Libya,LBY,2017,13.4
+Liechtenstein,LIE,2000,13.5
+Liechtenstein,LIE,2001,13.7
+Liechtenstein,LIE,2002,14
+Liechtenstein,LIE,2003,14.2
+Liechtenstein,LIE,2004,14.5
+Liechtenstein,LIE,2005,14.5
+Liechtenstein,LIE,2006,14.5
+Liechtenstein,LIE,2007,14.4
+Liechtenstein,LIE,2008,14.7
+Liechtenstein,LIE,2009,14.5
+Liechtenstein,LIE,2010,14.5
+Liechtenstein,LIE,2011,14.8
+Liechtenstein,LIE,2012,15
+Liechtenstein,LIE,2013,14.8
+Liechtenstein,LIE,2014,14.6
+Liechtenstein,LIE,2015,14.7
+Liechtenstein,LIE,2016,14.7
+Liechtenstein,LIE,2017,14.7
+Lithuania,LTU,1990,12.8
+Lithuania,LTU,1991,12.6
+Lithuania,LTU,1992,12.2
+Lithuania,LTU,1993,11.8
+Lithuania,LTU,1994,11.8
+Lithuania,LTU,1995,12
+Lithuania,LTU,1996,12.4
+Lithuania,LTU,1997,12.9
+Lithuania,LTU,1998,13.4
+Lithuania,LTU,1999,13.9
+Lithuania,LTU,2000,14.6
+Lithuania,LTU,2001,15.1
+Lithuania,LTU,2002,15.5
+Lithuania,LTU,2003,16
+Lithuania,LTU,2004,16.1
+Lithuania,LTU,2005,16.3
+Lithuania,LTU,2006,16.5
+Lithuania,LTU,2007,16.6
+Lithuania,LTU,2008,16.7
+Lithuania,LTU,2009,16.9
+Lithuania,LTU,2010,16.8
+Lithuania,LTU,2011,16.5
+Lithuania,LTU,2012,16.3
+Lithuania,LTU,2013,16.3
+Lithuania,LTU,2014,16.1
+Lithuania,LTU,2015,16.1
+Lithuania,LTU,2016,16.1
+Lithuania,LTU,2017,16.1
+Luxembourg,LUX,1990,11.1
+Luxembourg,LUX,1991,11.3
+Luxembourg,LUX,1992,11.4
+Luxembourg,LUX,1993,11.6
+Luxembourg,LUX,1994,11.8
+Luxembourg,LUX,1995,11.8
+Luxembourg,LUX,1996,12.3
+Luxembourg,LUX,1997,12.4
+Luxembourg,LUX,1998,12.7
+Luxembourg,LUX,1999,13.5
+Luxembourg,LUX,2000,13.4
+Luxembourg,LUX,2001,13.5
+Luxembourg,LUX,2002,13.6
+Luxembourg,LUX,2003,13.5
+Luxembourg,LUX,2004,13.5
+Luxembourg,LUX,2005,13.5
+Luxembourg,LUX,2006,13.5
+Luxembourg,LUX,2007,13.5
+Luxembourg,LUX,2008,13.5
+Luxembourg,LUX,2009,13.7
+Luxembourg,LUX,2010,13.9
+Luxembourg,LUX,2011,13.9
+Luxembourg,LUX,2012,13.9
+Luxembourg,LUX,2013,13.9
+Luxembourg,LUX,2014,13.9
+Luxembourg,LUX,2015,14
+Luxembourg,LUX,2016,14
+Luxembourg,LUX,2017,14
+Madagascar,MDG,1990,6.4
+Madagascar,MDG,1991,6.6
+Madagascar,MDG,1992,6.7
+Madagascar,MDG,1993,6.9
+Madagascar,MDG,1994,7.1
+Madagascar,MDG,1995,7.3
+Madagascar,MDG,1996,7.5
+Madagascar,MDG,1997,7.6
+Madagascar,MDG,1998,7.8
+Madagascar,MDG,1999,8
+Madagascar,MDG,2000,8.2
+Madagascar,MDG,2001,8.3
+Madagascar,MDG,2002,8.5
+Madagascar,MDG,2003,8.7
+Madagascar,MDG,2004,8.9
+Madagascar,MDG,2005,9.1
+Madagascar,MDG,2006,9.2
+Madagascar,MDG,2007,9.4
+Madagascar,MDG,2008,9.7
+Madagascar,MDG,2009,10.2
+Madagascar,MDG,2010,10.2
+Madagascar,MDG,2011,10.1
+Madagascar,MDG,2012,10.3
+Madagascar,MDG,2013,10.4
+Madagascar,MDG,2014,10.4
+Madagascar,MDG,2015,10.6
+Madagascar,MDG,2016,10.6
+Madagascar,MDG,2017,10.6
+Malawi,MWI,1990,5.4
+Malawi,MWI,1991,5.6
+Malawi,MWI,1992,6.7
+Malawi,MWI,1993,7
+Malawi,MWI,1994,7.2
+Malawi,MWI,1995,10.6
+Malawi,MWI,1996,10.4
+Malawi,MWI,1997,10.5
+Malawi,MWI,1998,10.6
+Malawi,MWI,1999,10.6
+Malawi,MWI,2000,9.9
+Malawi,MWI,2001,10.2
+Malawi,MWI,2002,10.2
+Malawi,MWI,2003,10
+Malawi,MWI,2004,9.5
+Malawi,MWI,2005,9.4
+Malawi,MWI,2006,9.4
+Malawi,MWI,2007,9.3
+Malawi,MWI,2008,9.9
+Malawi,MWI,2009,10.2
+Malawi,MWI,2010,10.3
+Malawi,MWI,2011,10.4
+Malawi,MWI,2012,10.5
+Malawi,MWI,2013,10.7
+Malawi,MWI,2014,10.7
+Malawi,MWI,2015,10.7
+Malawi,MWI,2016,10.8
+Malawi,MWI,2017,10.8
+Malaysia,MYS,1990,9.7
+Malaysia,MYS,1991,9.9
+Malaysia,MYS,1992,10.1
+Malaysia,MYS,1993,10.1
+Malaysia,MYS,1994,10.1
+Malaysia,MYS,1995,10.2
+Malaysia,MYS,1996,10.7
+Malaysia,MYS,1997,11.1
+Malaysia,MYS,1998,11.5
+Malaysia,MYS,1999,11.6
+Malaysia,MYS,2000,11.9
+Malaysia,MYS,2001,12
+Malaysia,MYS,2002,12.1
+Malaysia,MYS,2003,12.7
+Malaysia,MYS,2004,12.9
+Malaysia,MYS,2005,12.7
+Malaysia,MYS,2006,12.3
+Malaysia,MYS,2007,12.5
+Malaysia,MYS,2008,12.6
+Malaysia,MYS,2009,12.8
+Malaysia,MYS,2010,13
+Malaysia,MYS,2011,12.9
+Malaysia,MYS,2012,12.9
+Malaysia,MYS,2013,13.1
+Malaysia,MYS,2014,13.3
+Malaysia,MYS,2015,13.5
+Malaysia,MYS,2016,13.7
+Malaysia,MYS,2017,13.7
+Maldives,MDV,1995,8.5
+Maldives,MDV,1996,9.2
+Maldives,MDV,1997,9.8
+Maldives,MDV,1998,10.5
+Maldives,MDV,1999,11.3
+Maldives,MDV,2000,11.8
+Maldives,MDV,2001,12
+Maldives,MDV,2002,11.8
+Maldives,MDV,2003,12.2
+Maldives,MDV,2004,12.1
+Maldives,MDV,2005,12
+Maldives,MDV,2006,11.9
+Maldives,MDV,2007,11.8
+Maldives,MDV,2008,11.8
+Maldives,MDV,2009,11.6
+Maldives,MDV,2010,11.9
+Maldives,MDV,2011,12.2
+Maldives,MDV,2012,12.3
+Maldives,MDV,2013,12.5
+Maldives,MDV,2014,12.4
+Maldives,MDV,2015,12.7
+Maldives,MDV,2016,12.6
+Maldives,MDV,2017,12.6
+Mali,MLI,1990,2.1
+Mali,MLI,1991,2.2
+Mali,MLI,1992,2.3
+Mali,MLI,1993,2.5
+Mali,MLI,1994,2.8
+Mali,MLI,1995,3
+Mali,MLI,1996,3.3
+Mali,MLI,1997,3.7
+Mali,MLI,1998,4
+Mali,MLI,1999,4.4
+Mali,MLI,2000,4.6
+Mali,MLI,2001,4.9
+Mali,MLI,2002,5.2
+Mali,MLI,2003,5.5
+Mali,MLI,2004,5.8
+Mali,MLI,2005,6.1
+Mali,MLI,2006,6.4
+Mali,MLI,2007,5.8
+Mali,MLI,2008,7.1
+Mali,MLI,2009,7.4
+Mali,MLI,2010,7.6
+Mali,MLI,2011,7.7
+Mali,MLI,2012,7.6
+Mali,MLI,2013,7.4
+Mali,MLI,2014,7.5
+Mali,MLI,2015,7.5
+Mali,MLI,2016,7.5
+Mali,MLI,2017,7.7
+Malta,MLT,1990,12.9
+Malta,MLT,1991,13.1
+Malta,MLT,1992,13.2
+Malta,MLT,1993,13.3
+Malta,MLT,1994,13.4
+Malta,MLT,1995,13.4
+Malta,MLT,1996,13.4
+Malta,MLT,1997,13.5
+Malta,MLT,1998,13.9
+Malta,MLT,1999,13.8
+Malta,MLT,2000,13.7
+Malta,MLT,2001,13.8
+Malta,MLT,2002,13.8
+Malta,MLT,2003,14.2
+Malta,MLT,2004,14.8
+Malta,MLT,2005,14.8
+Malta,MLT,2006,14.4
+Malta,MLT,2007,14.6
+Malta,MLT,2008,14.4
+Malta,MLT,2009,14.6
+Malta,MLT,2010,15.3
+Malta,MLT,2011,14.9
+Malta,MLT,2012,15
+Malta,MLT,2013,15.2
+Malta,MLT,2014,15.4
+Malta,MLT,2015,15.7
+Malta,MLT,2016,15.9
+Malta,MLT,2017,15.9
+Marshall Islands,MHL,2002,12.3
+Marshall Islands,MHL,2017,13
+Mauritania,MRT,1990,3.7
+Mauritania,MRT,1991,3.9
+Mauritania,MRT,1992,4.2
+Mauritania,MRT,1993,4.7
+Mauritania,MRT,1994,5.4
+Mauritania,MRT,1995,5.5
+Mauritania,MRT,1996,5.8
+Mauritania,MRT,1997,5.8
+Mauritania,MRT,1998,6.2
+Mauritania,MRT,1999,6.4
+Mauritania,MRT,2000,6.5
+Mauritania,MRT,2001,6.5
+Mauritania,MRT,2002,6.5
+Mauritania,MRT,2003,6.7
+Mauritania,MRT,2004,7.1
+Mauritania,MRT,2005,7.2
+Mauritania,MRT,2006,7.4
+Mauritania,MRT,2007,7.2
+Mauritania,MRT,2008,7.1
+Mauritania,MRT,2009,7.6
+Mauritania,MRT,2010,7.6
+Mauritania,MRT,2011,7.7
+Mauritania,MRT,2012,8.1
+Mauritania,MRT,2013,8.4
+Mauritania,MRT,2014,8.6
+Mauritania,MRT,2015,8.6
+Mauritania,MRT,2016,8.6
+Mauritania,MRT,2017,8.6
+Mauritius,MUS,1990,10.5
+Mauritius,MUS,1991,10.6
+Mauritius,MUS,1992,10.8
+Mauritius,MUS,1993,10.9
+Mauritius,MUS,1994,11.1
+Mauritius,MUS,1995,11.2
+Mauritius,MUS,1996,11.3
+Mauritius,MUS,1997,11.5
+Mauritius,MUS,1998,11.8
+Mauritius,MUS,1999,12.1
+Mauritius,MUS,2000,12.2
+Mauritius,MUS,2001,12.5
+Mauritius,MUS,2002,12.6
+Mauritius,MUS,2003,12.8
+Mauritius,MUS,2004,13
+Mauritius,MUS,2005,13.4
+Mauritius,MUS,2006,13.5
+Mauritius,MUS,2007,13.6
+Mauritius,MUS,2008,13.7
+Mauritius,MUS,2009,14
+Mauritius,MUS,2010,14.1
+Mauritius,MUS,2011,14.3
+Mauritius,MUS,2012,14.8
+Mauritius,MUS,2013,14.8
+Mauritius,MUS,2014,15.3
+Mauritius,MUS,2015,15.1
+Mauritius,MUS,2016,15.1
+Mauritius,MUS,2017,15.1
+Mexico,MEX,1990,10.6
+Mexico,MEX,1991,10.5
+Mexico,MEX,1992,10.5
+Mexico,MEX,1993,10.4
+Mexico,MEX,1994,10.5
+Mexico,MEX,1995,10.7
+Mexico,MEX,1996,10.8
+Mexico,MEX,1997,11
+Mexico,MEX,1998,11.3
+Mexico,MEX,1999,11.4
+Mexico,MEX,2000,11.7
+Mexico,MEX,2001,11.8
+Mexico,MEX,2002,12
+Mexico,MEX,2003,12.3
+Mexico,MEX,2004,12.3
+Mexico,MEX,2005,12.3
+Mexico,MEX,2006,12.4
+Mexico,MEX,2007,12.5
+Mexico,MEX,2008,12.6
+Mexico,MEX,2009,12.7
+Mexico,MEX,2010,12.8
+Mexico,MEX,2011,12.9
+Mexico,MEX,2012,13.1
+Mexico,MEX,2013,13.3
+Mexico,MEX,2014,13.5
+Mexico,MEX,2015,13.7
+Mexico,MEX,2016,14.1
+Mexico,MEX,2017,14.1
+Micronesia (region),,2000,10.1
+Micronesia (region),,2001,10.2
+Micronesia (region),,2002,10.4
+Micronesia (region),,2003,10.5
+Micronesia (region),,2004,10.7
+Micronesia (region),,2005,10.9
+Micronesia (region),,2006,11
+Micronesia (region),,2007,11.2
+Micronesia (region),,2008,11.4
+Micronesia (region),,2009,11.5
+Micronesia (region),,2010,11.7
+Micronesia (region),,2011,11.7
+Micronesia (region),,2012,11.7
+Micronesia (region),,2013,11.7
+Micronesia (region),,2014,11.7
+Micronesia (region),,2015,11.7
+Micronesia (region),,2016,11.8
+Micronesia (region),,2017,11.7
+Moldova,MDA,1990,12
+Moldova,MDA,1991,11.8
+Moldova,MDA,1992,11.6
+Moldova,MDA,1993,11.4
+Moldova,MDA,1994,11.2
+Moldova,MDA,1995,11
+Moldova,MDA,1996,10.7
+Moldova,MDA,1997,10.7
+Moldova,MDA,1998,11.1
+Moldova,MDA,1999,11.4
+Moldova,MDA,2000,11.4
+Moldova,MDA,2001,11.3
+Moldova,MDA,2002,11.5
+Moldova,MDA,2003,11.7
+Moldova,MDA,2004,11.9
+Moldova,MDA,2005,11.9
+Moldova,MDA,2006,12.1
+Moldova,MDA,2007,12.1
+Moldova,MDA,2008,12
+Moldova,MDA,2009,11.8
+Moldova,MDA,2010,11.8
+Moldova,MDA,2011,11.8
+Moldova,MDA,2012,11.8
+Moldova,MDA,2013,11.8
+Moldova,MDA,2014,11.8
+Moldova,MDA,2015,11.6
+Moldova,MDA,2016,11.6
+Moldova,MDA,2017,11.6
+Mongolia,MNG,1990,10.2
+Mongolia,MNG,1991,9.7
+Mongolia,MNG,1992,8.8
+Mongolia,MNG,1993,7.7
+Mongolia,MNG,1994,7.7
+Mongolia,MNG,1995,7.7
+Mongolia,MNG,1996,8
+Mongolia,MNG,1997,8.3
+Mongolia,MNG,1998,8.6
+Mongolia,MNG,1999,8.9
+Mongolia,MNG,2000,9.4
+Mongolia,MNG,2001,10.1
+Mongolia,MNG,2002,10.5
+Mongolia,MNG,2003,11.2
+Mongolia,MNG,2004,11.8
+Mongolia,MNG,2005,12.7
+Mongolia,MNG,2006,13
+Mongolia,MNG,2007,13.4
+Mongolia,MNG,2008,13.8
+Mongolia,MNG,2009,14.3
+Mongolia,MNG,2010,14.6
+Mongolia,MNG,2011,14.7
+Mongolia,MNG,2012,14.7
+Mongolia,MNG,2013,14.8
+Mongolia,MNG,2014,14.9
+Mongolia,MNG,2015,15
+Mongolia,MNG,2016,15.5
+Mongolia,MNG,2017,15.5
+Montenegro,MNE,2003,12.6
+Montenegro,MNE,2004,12.8
+Montenegro,MNE,2005,13.2
+Montenegro,MNE,2006,13.6
+Montenegro,MNE,2007,14.1
+Montenegro,MNE,2008,14.6
+Montenegro,MNE,2009,14.9
+Montenegro,MNE,2010,15.1
+Montenegro,MNE,2011,15
+Montenegro,MNE,2012,15
+Montenegro,MNE,2013,15
+Montenegro,MNE,2014,15
+Montenegro,MNE,2015,14.9
+Montenegro,MNE,2016,14.9
+Montenegro,MNE,2017,14.9
+Morocco,MAR,1990,6.5
+Morocco,MAR,1991,6.5
+Morocco,MAR,1992,6.6
+Morocco,MAR,1993,6.8
+Morocco,MAR,1994,7
+Morocco,MAR,1995,7.3
+Morocco,MAR,1996,7.4
+Morocco,MAR,1997,7.6
+Morocco,MAR,1998,7.6
+Morocco,MAR,1999,8
+Morocco,MAR,2000,8.5
+Morocco,MAR,2001,8.8
+Morocco,MAR,2002,9.3
+Morocco,MAR,2003,9.6
+Morocco,MAR,2004,9.8
+Morocco,MAR,2005,10.1
+Morocco,MAR,2006,10.1
+Morocco,MAR,2007,10.4
+Morocco,MAR,2008,10.5
+Morocco,MAR,2009,10.7
+Morocco,MAR,2010,11.1
+Morocco,MAR,2011,11.4
+Morocco,MAR,2012,11.8
+Morocco,MAR,2013,12
+Morocco,MAR,2014,12.1
+Morocco,MAR,2015,12.3
+Morocco,MAR,2016,12.4
+Morocco,MAR,2017,12.4
+Mozambique,MOZ,1990,3.7
+Mozambique,MOZ,1991,3.6
+Mozambique,MOZ,1992,3.5
+Mozambique,MOZ,1993,3.5
+Mozambique,MOZ,1994,3.7
+Mozambique,MOZ,1995,3.9
+Mozambique,MOZ,1996,4.3
+Mozambique,MOZ,1997,4.7
+Mozambique,MOZ,1998,5
+Mozambique,MOZ,1999,5.4
+Mozambique,MOZ,2000,5.8
+Mozambique,MOZ,2001,6.2
+Mozambique,MOZ,2002,6.7
+Mozambique,MOZ,2003,7
+Mozambique,MOZ,2004,7.4
+Mozambique,MOZ,2005,8
+Mozambique,MOZ,2006,8.3
+Mozambique,MOZ,2007,8.9
+Mozambique,MOZ,2008,9.3
+Mozambique,MOZ,2009,9.4
+Mozambique,MOZ,2010,9.6
+Mozambique,MOZ,2011,9.3
+Mozambique,MOZ,2012,9.2
+Mozambique,MOZ,2013,9.7
+Mozambique,MOZ,2014,9.7
+Mozambique,MOZ,2015,9.7
+Mozambique,MOZ,2016,9.7
+Mozambique,MOZ,2017,9.7
+Myanmar,MMR,1990,6.1
+Myanmar,MMR,1991,6.7
+Myanmar,MMR,1992,7.2
+Myanmar,MMR,1993,7.4
+Myanmar,MMR,1994,7.5
+Myanmar,MMR,1995,7.4
+Myanmar,MMR,1996,7.5
+Myanmar,MMR,1997,7.6
+Myanmar,MMR,1998,7.6
+Myanmar,MMR,1999,7.7
+Myanmar,MMR,2000,7.8
+Myanmar,MMR,2001,7.8
+Myanmar,MMR,2002,7.9
+Myanmar,MMR,2003,8
+Myanmar,MMR,2004,8.1
+Myanmar,MMR,2005,8.1
+Myanmar,MMR,2006,8.2
+Myanmar,MMR,2007,8.4
+Myanmar,MMR,2008,8.7
+Myanmar,MMR,2009,8.9
+Myanmar,MMR,2010,9.2
+Myanmar,MMR,2011,9.5
+Myanmar,MMR,2012,9.6
+Myanmar,MMR,2013,9.7
+Myanmar,MMR,2014,9.8
+Myanmar,MMR,2015,9.9
+Myanmar,MMR,2016,10
+Myanmar,MMR,2017,10
+Namibia,NAM,1990,11.1
+Namibia,NAM,1991,11.1
+Namibia,NAM,1992,11.5
+Namibia,NAM,1993,12
+Namibia,NAM,1994,12.4
+Namibia,NAM,1995,12.2
+Namibia,NAM,1996,12
+Namibia,NAM,1997,11.9
+Namibia,NAM,1998,11.8
+Namibia,NAM,1999,11.5
+Namibia,NAM,2000,11.7
+Namibia,NAM,2001,11.8
+Namibia,NAM,2002,11.7
+Namibia,NAM,2003,11.7
+Namibia,NAM,2004,11.6
+Namibia,NAM,2005,11.4
+Namibia,NAM,2006,11.3
+Namibia,NAM,2007,11.4
+Namibia,NAM,2008,11.4
+Namibia,NAM,2009,11.6
+Namibia,NAM,2010,11.9
+Namibia,NAM,2011,12.2
+Namibia,NAM,2012,12.3
+Namibia,NAM,2013,12.3
+Namibia,NAM,2014,12.3
+Namibia,NAM,2015,12.3
+Namibia,NAM,2016,12.3
+Namibia,NAM,2017,12.3
+Nauru,NRU,2000,8.8
+Nauru,NRU,2001,8.9
+Nauru,NRU,2002,8.4
+Nauru,NRU,2003,8.2
+Nauru,NRU,2004,8.4
+Nauru,NRU,2005,10.3
+Nauru,NRU,2006,10.1
+Nauru,NRU,2007,8.9
+Nauru,NRU,2008,9.3
+Nauru,NRU,2009,9.5
+Nauru,NRU,2010,9.7
+Nauru,NRU,2011,10
+Nauru,NRU,2012,10.1
+Nauru,NRU,2013,10.2
+Nauru,NRU,2014,10.2
+Nauru,NRU,2015,10.4
+Nauru,NRU,2016,10.3
+Nauru,NRU,2017,10.3
+Nepal,NPL,1990,7.5
+Nepal,NPL,1991,7.7
+Nepal,NPL,1992,8
+Nepal,NPL,1993,8
+Nepal,NPL,1994,8
+Nepal,NPL,1995,8.1
+Nepal,NPL,1996,8.5
+Nepal,NPL,1997,8.6
+Nepal,NPL,1998,8.7
+Nepal,NPL,1999,8.9
+Nepal,NPL,2000,9
+Nepal,NPL,2001,8.6
+Nepal,NPL,2002,9.2
+Nepal,NPL,2003,9.3
+Nepal,NPL,2004,9.4
+Nepal,NPL,2005,9.6
+Nepal,NPL,2006,10
+Nepal,NPL,2007,10.1
+Nepal,NPL,2008,10.5
+Nepal,NPL,2009,11.1
+Nepal,NPL,2010,12
+Nepal,NPL,2011,12.3
+Nepal,NPL,2012,12.3
+Nepal,NPL,2013,12.4
+Nepal,NPL,2014,12.2
+Nepal,NPL,2015,12.2
+Nepal,NPL,2016,12.2
+Nepal,NPL,2017,12.2
+Netherlands,NLD,1990,14.7
+Netherlands,NLD,1991,14.9
+Netherlands,NLD,1992,14.8
+Netherlands,NLD,1993,15.1
+Netherlands,NLD,1994,17.3
+Netherlands,NLD,1995,16.7
+Netherlands,NLD,1996,16.9
+Netherlands,NLD,1997,16.6
+Netherlands,NLD,1998,16.5
+Netherlands,NLD,1999,16.4
+Netherlands,NLD,2000,16.6
+Netherlands,NLD,2001,16.7
+Netherlands,NLD,2002,16.3
+Netherlands,NLD,2003,16.4
+Netherlands,NLD,2004,16.3
+Netherlands,NLD,2005,16.4
+Netherlands,NLD,2006,16.5
+Netherlands,NLD,2007,16.6
+Netherlands,NLD,2008,16.8
+Netherlands,NLD,2009,16.8
+Netherlands,NLD,2010,17
+Netherlands,NLD,2011,17.9
+Netherlands,NLD,2012,17.8
+Netherlands,NLD,2013,17.9
+Netherlands,NLD,2014,18
+Netherlands,NLD,2015,18.1
+Netherlands,NLD,2016,18
+Netherlands,NLD,2017,18
+New Zealand,NZL,1990,14.5
+New Zealand,NZL,1991,14.8
+New Zealand,NZL,1992,15.2
+New Zealand,NZL,1993,16
+New Zealand,NZL,1994,16.6
+New Zealand,NZL,1995,16.9
+New Zealand,NZL,1996,17
+New Zealand,NZL,1997,17.3
+New Zealand,NZL,1998,17.4
+New Zealand,NZL,1999,17.2
+New Zealand,NZL,2000,17.4
+New Zealand,NZL,2001,17.5
+New Zealand,NZL,2002,18.2
+New Zealand,NZL,2003,18.4
+New Zealand,NZL,2004,18.9
+New Zealand,NZL,2005,19.1
+New Zealand,NZL,2006,19.2
+New Zealand,NZL,2007,19.5
+New Zealand,NZL,2008,19.3
+New Zealand,NZL,2009,20.3
+New Zealand,NZL,2010,19.8
+New Zealand,NZL,2011,19.4
+New Zealand,NZL,2012,19
+New Zealand,NZL,2013,18.8
+New Zealand,NZL,2014,18.8
+New Zealand,NZL,2015,18.9
+New Zealand,NZL,2016,18.9
+New Zealand,NZL,2017,18.9
+Nicaragua,NIC,1990,7.7
+Nicaragua,NIC,1991,8.2
+Nicaragua,NIC,1992,8.4
+Nicaragua,NIC,1993,8.5
+Nicaragua,NIC,1994,8.7
+Nicaragua,NIC,1995,8.8
+Nicaragua,NIC,1996,9.1
+Nicaragua,NIC,1997,9.5
+Nicaragua,NIC,1998,9.8
+Nicaragua,NIC,1999,10.1
+Nicaragua,NIC,2000,10.4
+Nicaragua,NIC,2001,10.7
+Nicaragua,NIC,2002,11
+Nicaragua,NIC,2003,11
+Nicaragua,NIC,2004,11
+Nicaragua,NIC,2005,11
+Nicaragua,NIC,2006,11
+Nicaragua,NIC,2007,11.1
+Nicaragua,NIC,2008,11.3
+Nicaragua,NIC,2009,11.4
+Nicaragua,NIC,2010,11.5
+Nicaragua,NIC,2011,11.5
+Nicaragua,NIC,2012,11.5
+Nicaragua,NIC,2013,11.6
+Nicaragua,NIC,2014,12.1
+Nicaragua,NIC,2015,12.1
+Nicaragua,NIC,2016,12.1
+Nicaragua,NIC,2017,12.1
+Niger,NER,1990,2.1
+Niger,NER,1991,2.1
+Niger,NER,1992,2.2
+Niger,NER,1993,2.3
+Niger,NER,1994,2.4
+Niger,NER,1995,2.4
+Niger,NER,1996,2.5
+Niger,NER,1997,2.6
+Niger,NER,1998,2.7
+Niger,NER,1999,2.8
+Niger,NER,2000,2.9
+Niger,NER,2001,2.9
+Niger,NER,2002,3
+Niger,NER,2003,3.1
+Niger,NER,2004,3.4
+Niger,NER,2005,3.6
+Niger,NER,2006,3.8
+Niger,NER,2007,3.9
+Niger,NER,2008,4.2
+Niger,NER,2009,4.4
+Niger,NER,2010,4.7
+Niger,NER,2011,5
+Niger,NER,2012,5.3
+Niger,NER,2013,5.3
+Niger,NER,2014,5.3
+Niger,NER,2015,5.3
+Niger,NER,2016,5.4
+Niger,NER,2017,5.4
+Nigeria,NGA,1990,6.7
+Nigeria,NGA,1991,6.8
+Nigeria,NGA,1992,6.9
+Nigeria,NGA,1993,7
+Nigeria,NGA,1994,7.1
+Nigeria,NGA,1995,7.2
+Nigeria,NGA,1996,7.3
+Nigeria,NGA,1997,7.4
+Nigeria,NGA,1998,7.5
+Nigeria,NGA,1999,7.6
+Nigeria,NGA,2000,8
+Nigeria,NGA,2001,7.7
+Nigeria,NGA,2002,8.1
+Nigeria,NGA,2003,8.5
+Nigeria,NGA,2004,9
+Nigeria,NGA,2005,9
+Nigeria,NGA,2006,9.1
+Nigeria,NGA,2007,9.2
+Nigeria,NGA,2008,9.3
+Nigeria,NGA,2009,9.5
+Nigeria,NGA,2010,8.4
+Nigeria,NGA,2011,8.7
+Nigeria,NGA,2012,9.8
+Nigeria,NGA,2013,10
+Nigeria,NGA,2014,10
+Nigeria,NGA,2015,10
+Nigeria,NGA,2016,10
+Nigeria,NGA,2017,10
+North Korea,PRK,2009,12
+North Korea,PRK,2010,12
+North Korea,PRK,2011,12
+North Korea,PRK,2012,12
+North Korea,PRK,2013,12
+North Korea,PRK,2014,12
+North Korea,PRK,2015,12
+North Korea,PRK,2016,12
+North Korea,PRK,2017,12
+North Macedonia,MKD,1990,10.3
+North Macedonia,MKD,1991,10.4
+North Macedonia,MKD,1992,10.5
+North Macedonia,MKD,1993,10.6
+North Macedonia,MKD,1994,10.8
+North Macedonia,MKD,1995,11
+North Macedonia,MKD,1996,11.3
+North Macedonia,MKD,1997,11.4
+North Macedonia,MKD,1998,11.6
+North Macedonia,MKD,1999,11.7
+North Macedonia,MKD,2000,11.8
+North Macedonia,MKD,2001,11.9
+North Macedonia,MKD,2002,11.9
+North Macedonia,MKD,2003,11.9
+North Macedonia,MKD,2004,11.9
+North Macedonia,MKD,2005,12.1
+North Macedonia,MKD,2006,12.2
+North Macedonia,MKD,2007,12.2
+North Macedonia,MKD,2008,13
+North Macedonia,MKD,2009,13
+North Macedonia,MKD,2010,12.9
+North Macedonia,MKD,2011,12.9
+North Macedonia,MKD,2012,12.9
+North Macedonia,MKD,2013,12.9
+North Macedonia,MKD,2014,13
+North Macedonia,MKD,2015,13.3
+North Macedonia,MKD,2016,13.3
+North Macedonia,MKD,2017,13.3
+Norway,NOR,1990,14
+Norway,NOR,1991,14.3
+Norway,NOR,1992,14.5
+Norway,NOR,1993,15.1
+Norway,NOR,1994,16.1
+Norway,NOR,1995,15.6
+Norway,NOR,1996,15.8
+Norway,NOR,1997,16
+Norway,NOR,1998,16.9
+Norway,NOR,1999,17.1
+Norway,NOR,2000,17.5
+Norway,NOR,2001,17.1
+Norway,NOR,2002,17.1
+Norway,NOR,2003,17.5
+Norway,NOR,2004,17.6
+Norway,NOR,2005,17.5
+Norway,NOR,2006,17.6
+Norway,NOR,2007,17.6
+Norway,NOR,2008,17.4
+Norway,NOR,2009,17.4
+Norway,NOR,2010,17.6
+Norway,NOR,2011,17.6
+Norway,NOR,2012,17.5
+Norway,NOR,2013,17.7
+Norway,NOR,2014,17.7
+Norway,NOR,2015,17.7
+Norway,NOR,2016,17.9
+Norway,NOR,2017,17.9
+Oman,OMN,1990,7.9
+Oman,OMN,1991,8.4
+Oman,OMN,1992,8.8
+Oman,OMN,1993,9.2
+Oman,OMN,1994,9.4
+Oman,OMN,1995,9.7
+Oman,OMN,1996,9.9
+Oman,OMN,1997,10
+Oman,OMN,1998,10.1
+Oman,OMN,1999,10.4
+Oman,OMN,2000,10.7
+Oman,OMN,2001,11
+Oman,OMN,2002,11.2
+Oman,OMN,2003,11.5
+Oman,OMN,2004,11.6
+Oman,OMN,2005,11.7
+Oman,OMN,2006,11.8
+Oman,OMN,2007,12.1
+Oman,OMN,2008,12.4
+Oman,OMN,2009,13.3
+Oman,OMN,2010,13.4
+Oman,OMN,2011,13.4
+Oman,OMN,2012,13.6
+Oman,OMN,2013,13.8
+Oman,OMN,2014,13.8
+Oman,OMN,2015,13.9
+Oman,OMN,2016,13.9
+Oman,OMN,2017,13.9
+Pakistan,PAK,1990,4.6
+Pakistan,PAK,1991,4.7
+Pakistan,PAK,1992,4.8
+Pakistan,PAK,1993,4.9
+Pakistan,PAK,1994,4.9
+Pakistan,PAK,1995,5
+Pakistan,PAK,1996,5.1
+Pakistan,PAK,1997,5.2
+Pakistan,PAK,1998,5.2
+Pakistan,PAK,1999,5.3
+Pakistan,PAK,2000,5.4
+Pakistan,PAK,2001,5.5
+Pakistan,PAK,2002,5.6
+Pakistan,PAK,2003,5.6
+Pakistan,PAK,2004,6.1
+Pakistan,PAK,2005,6.5
+Pakistan,PAK,2006,6.7
+Pakistan,PAK,2007,7.2
+Pakistan,PAK,2008,7.3
+Pakistan,PAK,2009,7.5
+Pakistan,PAK,2010,7.5
+Pakistan,PAK,2011,7.6
+Pakistan,PAK,2012,7.7
+Pakistan,PAK,2013,7.8
+Pakistan,PAK,2014,8.1
+Pakistan,PAK,2015,8.2
+Pakistan,PAK,2016,8.6
+Pakistan,PAK,2017,8.6
+Palau,PLW,2000,13.7
+Palau,PLW,2001,13.8
+Palau,PLW,2002,13.8
+Palau,PLW,2003,13.9
+Palau,PLW,2004,13.9
+Palau,PLW,2005,13.9
+Palau,PLW,2006,14
+Palau,PLW,2007,14
+Palau,PLW,2008,14.1
+Palau,PLW,2009,14.1
+Palau,PLW,2010,14.2
+Palau,PLW,2011,14.2
+Palau,PLW,2012,14.2
+Palau,PLW,2013,14.5
+Palau,PLW,2014,14.8
+Palau,PLW,2015,15.1
+Palau,PLW,2016,15.3
+Palau,PLW,2017,15.6
+Palestine,PSE,1995,9.8
+Palestine,PSE,1996,10.2
+Palestine,PSE,1997,10.6
+Palestine,PSE,1998,10.9
+Palestine,PSE,1999,11.3
+Palestine,PSE,2000,11.2
+Palestine,PSE,2001,11.6
+Palestine,PSE,2002,11.9
+Palestine,PSE,2003,12.2
+Palestine,PSE,2004,12.7
+Palestine,PSE,2005,12.7
+Palestine,PSE,2006,12.9
+Palestine,PSE,2007,13.3
+Palestine,PSE,2008,13.4
+Palestine,PSE,2009,13.3
+Palestine,PSE,2010,13.3
+Palestine,PSE,2011,13.3
+Palestine,PSE,2012,13.2
+Palestine,PSE,2013,12.9
+Palestine,PSE,2014,12.9
+Palestine,PSE,2015,12.8
+Palestine,PSE,2016,12.8
+Palestine,PSE,2017,12.8
+Panama,PAN,1990,10.7
+Panama,PAN,1991,10.7
+Panama,PAN,1992,10.8
+Panama,PAN,1993,10.9
+Panama,PAN,1994,10.9
+Panama,PAN,1995,11.1
+Panama,PAN,1996,11.3
+Panama,PAN,1997,11.6
+Panama,PAN,1998,11.8
+Panama,PAN,1999,12.1
+Panama,PAN,2000,12.4
+Panama,PAN,2001,12.6
+Panama,PAN,2002,12.8
+Panama,PAN,2003,12.8
+Panama,PAN,2004,12.9
+Panama,PAN,2005,12.9
+Panama,PAN,2006,12.9
+Panama,PAN,2007,13
+Panama,PAN,2008,12.8
+Panama,PAN,2009,12.7
+Panama,PAN,2010,12.8
+Panama,PAN,2011,12.7
+Panama,PAN,2012,12.7
+Panama,PAN,2013,12.7
+Panama,PAN,2014,12.7
+Panama,PAN,2015,12.7
+Panama,PAN,2016,12.7
+Panama,PAN,2017,12.7
+Papua New Guinea,PNG,1990,4.7
+Papua New Guinea,PNG,1991,4.8
+Papua New Guinea,PNG,1992,4.9
+Papua New Guinea,PNG,1993,5
+Papua New Guinea,PNG,1994,4.7
+Papua New Guinea,PNG,1995,5.2
+Papua New Guinea,PNG,1996,5.4
+Papua New Guinea,PNG,1997,5.7
+Papua New Guinea,PNG,1998,5.9
+Papua New Guinea,PNG,1999,6
+Papua New Guinea,PNG,2000,6.3
+Papua New Guinea,PNG,2001,6.7
+Papua New Guinea,PNG,2002,7
+Papua New Guinea,PNG,2003,7.3
+Papua New Guinea,PNG,2004,7.7
+Papua New Guinea,PNG,2005,8
+Papua New Guinea,PNG,2006,8.3
+Papua New Guinea,PNG,2007,8.8
+Papua New Guinea,PNG,2008,9
+Papua New Guinea,PNG,2009,9.3
+Papua New Guinea,PNG,2010,9.8
+Papua New Guinea,PNG,2011,10.2
+Papua New Guinea,PNG,2012,10
+Papua New Guinea,PNG,2013,10.1
+Papua New Guinea,PNG,2014,9.9
+Papua New Guinea,PNG,2015,10.2
+Papua New Guinea,PNG,2016,9.9
+Papua New Guinea,PNG,2017,10
+Paraguay,PRY,1990,8.6
+Paraguay,PRY,1991,8.9
+Paraguay,PRY,1992,9.2
+Paraguay,PRY,1993,9.5
+Paraguay,PRY,1994,9.7
+Paraguay,PRY,1995,9.9
+Paraguay,PRY,1996,10.3
+Paraguay,PRY,1997,10.7
+Paraguay,PRY,1998,11.1
+Paraguay,PRY,1999,11.6
+Paraguay,PRY,2000,11.8
+Paraguay,PRY,2001,12.2
+Paraguay,PRY,2002,12.7
+Paraguay,PRY,2003,12.1
+Paraguay,PRY,2004,12.3
+Paraguay,PRY,2005,12.1
+Paraguay,PRY,2006,12
+Paraguay,PRY,2007,11.9
+Paraguay,PRY,2008,12.1
+Paraguay,PRY,2009,12.4
+Paraguay,PRY,2010,12.3
+Paraguay,PRY,2011,12.4
+Paraguay,PRY,2012,12.6
+Paraguay,PRY,2013,12.7
+Paraguay,PRY,2014,12.8
+Paraguay,PRY,2015,12.7
+Paraguay,PRY,2016,12.7
+Paraguay,PRY,2017,12.7
+Peru,PER,1990,11.9
+Peru,PER,1991,11.9
+Peru,PER,1992,11.7
+Peru,PER,1993,11.7
+Peru,PER,1994,11.9
+Peru,PER,1995,12.2
+Peru,PER,1996,12.2
+Peru,PER,1997,12.2
+Peru,PER,1998,12.8
+Peru,PER,1999,13.5
+Peru,PER,2000,13.4
+Peru,PER,2001,13.9
+Peru,PER,2002,13.3
+Peru,PER,2003,12.8
+Peru,PER,2004,13
+Peru,PER,2005,13
+Peru,PER,2006,13.2
+Peru,PER,2007,13.4
+Peru,PER,2008,13.4
+Peru,PER,2009,13.6
+Peru,PER,2010,13.4
+Peru,PER,2011,13.5
+Peru,PER,2012,13.6
+Peru,PER,2013,13.7
+Peru,PER,2014,13.7
+Peru,PER,2015,13.8
+Peru,PER,2016,13.8
+Peru,PER,2017,13.8
+Philippines,PHL,1990,10.8
+Philippines,PHL,1991,10.8
+Philippines,PHL,1992,10.8
+Philippines,PHL,1993,10.8
+Philippines,PHL,1994,10.8
+Philippines,PHL,1995,10.8
+Philippines,PHL,1996,11.1
+Philippines,PHL,1997,11.1
+Philippines,PHL,1998,11.1
+Philippines,PHL,1999,11.4
+Philippines,PHL,2000,11.4
+Philippines,PHL,2001,11.4
+Philippines,PHL,2002,11.6
+Philippines,PHL,2003,11.6
+Philippines,PHL,2004,11.6
+Philippines,PHL,2005,11.5
+Philippines,PHL,2006,11.4
+Philippines,PHL,2007,11.5
+Philippines,PHL,2008,11.7
+Philippines,PHL,2009,11.4
+Philippines,PHL,2010,11.7
+Philippines,PHL,2011,12
+Philippines,PHL,2012,12.3
+Philippines,PHL,2013,12.6
+Philippines,PHL,2014,12.6
+Philippines,PHL,2015,12.6
+Philippines,PHL,2016,12.6
+Philippines,PHL,2017,12.6
+Poland,POL,1990,12.2
+Poland,POL,1991,12.3
+Poland,POL,1992,12.3
+Poland,POL,1993,12.9
+Poland,POL,1994,13.1
+Poland,POL,1995,13.1
+Poland,POL,1996,13.3
+Poland,POL,1997,13.8
+Poland,POL,1998,14.2
+Poland,POL,1999,14.6
+Poland,POL,2000,14.7
+Poland,POL,2001,15
+Poland,POL,2002,15.3
+Poland,POL,2003,15.5
+Poland,POL,2004,14.8
+Poland,POL,2005,15
+Poland,POL,2006,15
+Poland,POL,2007,15
+Poland,POL,2008,15
+Poland,POL,2009,15.1
+Poland,POL,2010,15.3
+Poland,POL,2011,15.2
+Poland,POL,2012,15.3
+Poland,POL,2013,16.3
+Poland,POL,2014,16
+Poland,POL,2015,16.1
+Poland,POL,2016,16.4
+Poland,POL,2017,16.4
+Portugal,PRT,1990,11.8
+Portugal,PRT,1991,12.3
+Portugal,PRT,1992,13.1
+Portugal,PRT,1993,14.2
+Portugal,PRT,1994,14.7
+Portugal,PRT,1995,15
+Portugal,PRT,1996,15.4
+Portugal,PRT,1997,15.7
+Portugal,PRT,1998,15.8
+Portugal,PRT,1999,15.4
+Portugal,PRT,2000,15.6
+Portugal,PRT,2001,15.8
+Portugal,PRT,2002,15.7
+Portugal,PRT,2003,15.8
+Portugal,PRT,2004,15.3
+Portugal,PRT,2005,15.3
+Portugal,PRT,2006,15.3
+Portugal,PRT,2007,15.7
+Portugal,PRT,2008,15.9
+Portugal,PRT,2009,15.9
+Portugal,PRT,2010,16
+Portugal,PRT,2011,16.1
+Portugal,PRT,2012,16.2
+Portugal,PRT,2013,16.7
+Portugal,PRT,2014,16.4
+Portugal,PRT,2015,16.4
+Portugal,PRT,2016,16.3
+Portugal,PRT,2017,16.3
+Qatar,QAT,1990,11.8
+Qatar,QAT,1991,11.5
+Qatar,QAT,1992,11.3
+Qatar,QAT,1993,11.9
+Qatar,QAT,1994,12.6
+Qatar,QAT,1995,13.1
+Qatar,QAT,1996,13.6
+Qatar,QAT,1997,13.4
+Qatar,QAT,1998,13.2
+Qatar,QAT,1999,13
+Qatar,QAT,2000,12.6
+Qatar,QAT,2001,12.6
+Qatar,QAT,2002,12.8
+Qatar,QAT,2003,13.2
+Qatar,QAT,2004,13.2
+Qatar,QAT,2005,13.1
+Qatar,QAT,2006,12.3
+Qatar,QAT,2007,12
+Qatar,QAT,2008,12.3
+Qatar,QAT,2009,12.5
+Qatar,QAT,2010,12.8
+Qatar,QAT,2011,13.4
+Qatar,QAT,2012,13.4
+Qatar,QAT,2013,13.4
+Qatar,QAT,2014,13.4
+Qatar,QAT,2015,13.4
+Qatar,QAT,2016,13.4
+Qatar,QAT,2017,13.4
+Romania,ROU,1990,11.9
+Romania,ROU,1991,11
+Romania,ROU,1992,10.5
+Romania,ROU,1993,10.3
+Romania,ROU,1994,10.2
+Romania,ROU,1995,10.4
+Romania,ROU,1996,10.8
+Romania,ROU,1997,11
+Romania,ROU,1998,11.1
+Romania,ROU,1999,11.5
+Romania,ROU,2000,11.7
+Romania,ROU,2001,12
+Romania,ROU,2002,12.5
+Romania,ROU,2003,12.9
+Romania,ROU,2004,13.4
+Romania,ROU,2005,13.7
+Romania,ROU,2006,14
+Romania,ROU,2007,14.6
+Romania,ROU,2008,15.3
+Romania,ROU,2009,15.6
+Romania,ROU,2010,15.4
+Romania,ROU,2011,15
+Romania,ROU,2012,14.4
+Romania,ROU,2013,14.5
+Romania,ROU,2014,14.5
+Romania,ROU,2015,14.5
+Romania,ROU,2016,14.3
+Romania,ROU,2017,14.3
+Russia,RUS,1990,12.8
+Russia,RUS,1991,12.7
+Russia,RUS,1992,12.4
+Russia,RUS,1993,12
+Russia,RUS,1994,11.8
+Russia,RUS,1995,11.8
+Russia,RUS,1996,11.9
+Russia,RUS,1997,11.9
+Russia,RUS,1998,12
+Russia,RUS,1999,12.1
+Russia,RUS,2000,12.5
+Russia,RUS,2001,12.8
+Russia,RUS,2002,13.2
+Russia,RUS,2003,13.6
+Russia,RUS,2004,13.7
+Russia,RUS,2005,13.8
+Russia,RUS,2006,13.8
+Russia,RUS,2007,13.9
+Russia,RUS,2008,14
+Russia,RUS,2009,13.7
+Russia,RUS,2010,14
+Russia,RUS,2011,14.3
+Russia,RUS,2012,14.6
+Russia,RUS,2013,14.9
+Russia,RUS,2014,15
+Russia,RUS,2015,15.4
+Russia,RUS,2016,15.5
+Russia,RUS,2017,15.5
+Rwanda,RWA,1990,5.7
+Rwanda,RWA,1991,5.8
+Rwanda,RWA,1992,5.9
+Rwanda,RWA,1993,6
+Rwanda,RWA,1994,6.1
+Rwanda,RWA,1995,6.2
+Rwanda,RWA,1996,6.3
+Rwanda,RWA,1997,6.4
+Rwanda,RWA,1998,6.2
+Rwanda,RWA,1999,6.8
+Rwanda,RWA,2000,7.2
+Rwanda,RWA,2001,7.3
+Rwanda,RWA,2002,7.7
+Rwanda,RWA,2003,8.3
+Rwanda,RWA,2004,8.9
+Rwanda,RWA,2005,9.4
+Rwanda,RWA,2006,10.2
+Rwanda,RWA,2007,10.5
+Rwanda,RWA,2008,10.3
+Rwanda,RWA,2009,11
+Rwanda,RWA,2010,11.1
+Rwanda,RWA,2011,11.3
+Rwanda,RWA,2012,11.5
+Rwanda,RWA,2013,11.3
+Rwanda,RWA,2014,11.2
+Rwanda,RWA,2015,10.8
+Rwanda,RWA,2016,11.2
+Rwanda,RWA,2017,11.2
+Saint Kitts and Nevis,KNA,1990,12.7
+Saint Kitts and Nevis,KNA,1991,12.8
+Saint Kitts and Nevis,KNA,1992,12.9
+Saint Kitts and Nevis,KNA,1993,13
+Saint Kitts and Nevis,KNA,1994,13
+Saint Kitts and Nevis,KNA,1995,13
+Saint Kitts and Nevis,KNA,1996,13
+Saint Kitts and Nevis,KNA,1997,13
+Saint Kitts and Nevis,KNA,1998,13
+Saint Kitts and Nevis,KNA,1999,13
+Saint Kitts and Nevis,KNA,2000,12.9
+Saint Kitts and Nevis,KNA,2001,12.9
+Saint Kitts and Nevis,KNA,2002,12.9
+Saint Kitts and Nevis,KNA,2003,12.9
+Saint Kitts and Nevis,KNA,2004,12.9
+Saint Kitts and Nevis,KNA,2005,12.9
+Saint Kitts and Nevis,KNA,2006,12.9
+Saint Kitts and Nevis,KNA,2007,12.9
+Saint Kitts and Nevis,KNA,2008,12.9
+Saint Kitts and Nevis,KNA,2009,13
+Saint Kitts and Nevis,KNA,2010,13.3
+Saint Kitts and Nevis,KNA,2011,13.5
+Saint Kitts and Nevis,KNA,2012,13.7
+Saint Kitts and Nevis,KNA,2013,14
+Saint Kitts and Nevis,KNA,2014,14.2
+Saint Kitts and Nevis,KNA,2015,14.2
+Saint Kitts and Nevis,KNA,2016,14.2
+Saint Kitts and Nevis,KNA,2017,14.4
+Saint Lucia,LCA,1990,12.6
+Saint Lucia,LCA,1991,12.9
+Saint Lucia,LCA,1992,13.2
+Saint Lucia,LCA,1993,13.5
+Saint Lucia,LCA,1994,13.4
+Saint Lucia,LCA,1995,13.3
+Saint Lucia,LCA,1996,13.1
+Saint Lucia,LCA,1997,13
+Saint Lucia,LCA,1998,12.9
+Saint Lucia,LCA,1999,12.8
+Saint Lucia,LCA,2000,12.6
+Saint Lucia,LCA,2001,12.5
+Saint Lucia,LCA,2002,12.4
+Saint Lucia,LCA,2003,12.3
+Saint Lucia,LCA,2004,12.2
+Saint Lucia,LCA,2005,12.4
+Saint Lucia,LCA,2006,12.8
+Saint Lucia,LCA,2007,12.6
+Saint Lucia,LCA,2008,12.8
+Saint Lucia,LCA,2009,12.9
+Saint Lucia,LCA,2010,13.1
+Saint Lucia,LCA,2011,13.4
+Saint Lucia,LCA,2012,13.1
+Saint Lucia,LCA,2013,13.4
+Saint Lucia,LCA,2014,13.4
+Saint Lucia,LCA,2015,13.6
+Saint Lucia,LCA,2016,13.6
+Saint Lucia,LCA,2017,13.6
+Saint Vincent and the Grenadines,VCT,1990,12
+Saint Vincent and the Grenadines,VCT,1991,12.1
+Saint Vincent and the Grenadines,VCT,1992,12.2
+Saint Vincent and the Grenadines,VCT,1993,12.2
+Saint Vincent and the Grenadines,VCT,1994,12.3
+Saint Vincent and the Grenadines,VCT,1995,12.4
+Saint Vincent and the Grenadines,VCT,1996,12.5
+Saint Vincent and the Grenadines,VCT,1997,12.5
+Saint Vincent and the Grenadines,VCT,1998,12.6
+Saint Vincent and the Grenadines,VCT,1999,12.7
+Saint Vincent and the Grenadines,VCT,2000,12.8
+Saint Vincent and the Grenadines,VCT,2001,12.9
+Saint Vincent and the Grenadines,VCT,2002,13
+Saint Vincent and the Grenadines,VCT,2003,13.2
+Saint Vincent and the Grenadines,VCT,2004,13.3
+Saint Vincent and the Grenadines,VCT,2005,13.4
+Saint Vincent and the Grenadines,VCT,2006,13.4
+Saint Vincent and the Grenadines,VCT,2007,13.6
+Saint Vincent and the Grenadines,VCT,2008,13.4
+Saint Vincent and the Grenadines,VCT,2009,13.4
+Saint Vincent and the Grenadines,VCT,2010,13.7
+Saint Vincent and the Grenadines,VCT,2011,13.7
+Saint Vincent and the Grenadines,VCT,2012,13.4
+Saint Vincent and the Grenadines,VCT,2013,13.5
+Saint Vincent and the Grenadines,VCT,2014,13.2
+Saint Vincent and the Grenadines,VCT,2015,13.3
+Saint Vincent and the Grenadines,VCT,2016,13.3
+Saint Vincent and the Grenadines,VCT,2017,13.3
+Samoa,WSM,1990,11.7
+Samoa,WSM,1991,11.7
+Samoa,WSM,1992,11.7
+Samoa,WSM,1993,11.8
+Samoa,WSM,1994,11.8
+Samoa,WSM,1995,11.9
+Samoa,WSM,1996,11.9
+Samoa,WSM,1997,11.8
+Samoa,WSM,1998,12
+Samoa,WSM,1999,12.1
+Samoa,WSM,2000,12
+Samoa,WSM,2001,12
+Samoa,WSM,2002,12.1
+Samoa,WSM,2003,12.1
+Samoa,WSM,2004,12.1
+Samoa,WSM,2005,12.1
+Samoa,WSM,2006,12.2
+Samoa,WSM,2007,12.2
+Samoa,WSM,2008,12.2
+Samoa,WSM,2009,12.3
+Samoa,WSM,2010,12.3
+Samoa,WSM,2011,12.3
+Samoa,WSM,2012,12.3
+Samoa,WSM,2013,12.4
+Samoa,WSM,2014,12.4
+Samoa,WSM,2015,12.4
+Samoa,WSM,2016,12.5
+Samoa,WSM,2017,12.5
+San Marino,SMR,2010,15.5
+San Marino,SMR,2011,15.2
+San Marino,SMR,2012,15.1
+San Marino,SMR,2013,15.1
+San Marino,SMR,2014,15.1
+San Marino,SMR,2015,15.1
+San Marino,SMR,2016,15.1
+San Marino,SMR,2017,15.1
+Sao Tome and Principe,STP,1990,8.2
+Sao Tome and Principe,STP,1991,8.3
+Sao Tome and Principe,STP,1992,8.4
+Sao Tome and Principe,STP,1993,8.6
+Sao Tome and Principe,STP,1994,8.7
+Sao Tome and Principe,STP,1995,8.8
+Sao Tome and Principe,STP,1996,8.9
+Sao Tome and Principe,STP,1997,9.1
+Sao Tome and Principe,STP,1998,9.2
+Sao Tome and Principe,STP,1999,9.3
+Sao Tome and Principe,STP,2000,9.4
+Sao Tome and Principe,STP,2001,9.6
+Sao Tome and Principe,STP,2002,9.7
+Sao Tome and Principe,STP,2003,9.8
+Sao Tome and Principe,STP,2004,10
+Sao Tome and Principe,STP,2005,10.2
+Sao Tome and Principe,STP,2006,10.3
+Sao Tome and Principe,STP,2007,10.4
+Sao Tome and Principe,STP,2008,10.1
+Sao Tome and Principe,STP,2009,10.6
+Sao Tome and Principe,STP,2010,10.6
+Sao Tome and Principe,STP,2011,10.8
+Sao Tome and Principe,STP,2012,11
+Sao Tome and Principe,STP,2013,11.4
+Sao Tome and Principe,STP,2014,11.7
+Sao Tome and Principe,STP,2015,12.5
+Sao Tome and Principe,STP,2016,12.5
+Sao Tome and Principe,STP,2017,12.5
+Saudi Arabia,SAU,1990,10.8
+Saudi Arabia,SAU,1991,10.9
+Saudi Arabia,SAU,1992,11
+Saudi Arabia,SAU,1993,11.2
+Saudi Arabia,SAU,1994,11.3
+Saudi Arabia,SAU,1995,11.4
+Saudi Arabia,SAU,1996,11.5
+Saudi Arabia,SAU,1997,11.6
+Saudi Arabia,SAU,1998,11.7
+Saudi Arabia,SAU,1999,11.8
+Saudi Arabia,SAU,2000,12
+Saudi Arabia,SAU,2001,12.1
+Saudi Arabia,SAU,2002,12.2
+Saudi Arabia,SAU,2003,12.3
+Saudi Arabia,SAU,2004,12.4
+Saudi Arabia,SAU,2005,12.7
+Saudi Arabia,SAU,2006,12.9
+Saudi Arabia,SAU,2007,13.1
+Saudi Arabia,SAU,2008,13.4
+Saudi Arabia,SAU,2009,13.6
+Saudi Arabia,SAU,2010,14.3
+Saudi Arabia,SAU,2011,14.9
+Saudi Arabia,SAU,2012,15.6
+Saudi Arabia,SAU,2013,16.3
+Saudi Arabia,SAU,2014,16.9
+Saudi Arabia,SAU,2015,16.9
+Saudi Arabia,SAU,2016,16.9
+Saudi Arabia,SAU,2017,16.9
+Senegal,SEN,1990,4.5
+Senegal,SEN,1991,4.5
+Senegal,SEN,1992,4.6
+Senegal,SEN,1993,4.7
+Senegal,SEN,1994,4.7
+Senegal,SEN,1995,4.8
+Senegal,SEN,1996,4.9
+Senegal,SEN,1997,5
+Senegal,SEN,1998,5.1
+Senegal,SEN,1999,5.2
+Senegal,SEN,2000,5.4
+Senegal,SEN,2001,5.7
+Senegal,SEN,2002,5.9
+Senegal,SEN,2003,6.2
+Senegal,SEN,2004,6.4
+Senegal,SEN,2005,6.6
+Senegal,SEN,2006,6.8
+Senegal,SEN,2007,7.1
+Senegal,SEN,2008,7.5
+Senegal,SEN,2009,7.7
+Senegal,SEN,2010,8
+Senegal,SEN,2011,8.6
+Senegal,SEN,2012,8.8
+Senegal,SEN,2013,8.9
+Senegal,SEN,2014,9.1
+Senegal,SEN,2015,9.3
+Senegal,SEN,2016,9.5
+Senegal,SEN,2017,9.7
+Serbia,SRB,1990,12.4
+Serbia,SRB,1991,12.5
+Serbia,SRB,1992,12.6
+Serbia,SRB,1993,12.6
+Serbia,SRB,1994,12.7
+Serbia,SRB,1995,12.8
+Serbia,SRB,1996,12.8
+Serbia,SRB,1997,12.9
+Serbia,SRB,1998,13
+Serbia,SRB,1999,13
+Serbia,SRB,2000,13.1
+Serbia,SRB,2001,13.2
+Serbia,SRB,2002,13
+Serbia,SRB,2003,13.1
+Serbia,SRB,2004,13.2
+Serbia,SRB,2005,13.4
+Serbia,SRB,2006,13.5
+Serbia,SRB,2007,13.5
+Serbia,SRB,2008,13.6
+Serbia,SRB,2009,13.6
+Serbia,SRB,2010,13.5
+Serbia,SRB,2011,14
+Serbia,SRB,2012,14.1
+Serbia,SRB,2013,14.3
+Serbia,SRB,2014,14.4
+Serbia,SRB,2015,14.4
+Serbia,SRB,2016,14.6
+Serbia,SRB,2017,14.6
+Seychelles,SYC,1990,11.4
+Seychelles,SYC,1991,11.5
+Seychelles,SYC,1992,11.6
+Seychelles,SYC,1993,11.8
+Seychelles,SYC,1994,12
+Seychelles,SYC,1995,11.9
+Seychelles,SYC,1996,11.9
+Seychelles,SYC,1997,12
+Seychelles,SYC,1998,12
+Seychelles,SYC,1999,12.3
+Seychelles,SYC,2000,12.2
+Seychelles,SYC,2001,11.7
+Seychelles,SYC,2002,12.1
+Seychelles,SYC,2003,12.3
+Seychelles,SYC,2004,12.1
+Seychelles,SYC,2005,13.1
+Seychelles,SYC,2006,11.7
+Seychelles,SYC,2007,13.2
+Seychelles,SYC,2008,13.3
+Seychelles,SYC,2009,13.3
+Seychelles,SYC,2010,13.4
+Seychelles,SYC,2011,12.3
+Seychelles,SYC,2012,14.2
+Seychelles,SYC,2013,14.4
+Seychelles,SYC,2014,14.5
+Seychelles,SYC,2015,14.6
+Seychelles,SYC,2016,14.7
+Seychelles,SYC,2017,14.8
+Sierra Leone,SLE,1990,4.9
+Sierra Leone,SLE,1991,4.6
+Sierra Leone,SLE,1992,4.9
+Sierra Leone,SLE,1993,5.2
+Sierra Leone,SLE,1994,5.4
+Sierra Leone,SLE,1995,5.7
+Sierra Leone,SLE,1996,5.9
+Sierra Leone,SLE,1997,6.2
+Sierra Leone,SLE,1998,6.4
+Sierra Leone,SLE,1999,6.7
+Sierra Leone,SLE,2000,7
+Sierra Leone,SLE,2001,7.2
+Sierra Leone,SLE,2002,7.4
+Sierra Leone,SLE,2003,7.6
+Sierra Leone,SLE,2004,7.8
+Sierra Leone,SLE,2005,8
+Sierra Leone,SLE,2006,8.2
+Sierra Leone,SLE,2007,8.3
+Sierra Leone,SLE,2008,8.5
+Sierra Leone,SLE,2009,8.7
+Sierra Leone,SLE,2010,8.9
+Sierra Leone,SLE,2011,9.1
+Sierra Leone,SLE,2012,9.3
+Sierra Leone,SLE,2013,9.5
+Sierra Leone,SLE,2014,9.5
+Sierra Leone,SLE,2015,9.5
+Sierra Leone,SLE,2016,9.7
+Sierra Leone,SLE,2017,9.8
+Singapore,SGP,1990,10.6
+Singapore,SGP,1991,10.8
+Singapore,SGP,1992,11
+Singapore,SGP,1993,11.2
+Singapore,SGP,1994,11.4
+Singapore,SGP,1995,11.6
+Singapore,SGP,1996,11.8
+Singapore,SGP,1997,12
+Singapore,SGP,1998,12.3
+Singapore,SGP,1999,12.5
+Singapore,SGP,2000,12.7
+Singapore,SGP,2001,12.6
+Singapore,SGP,2002,12.7
+Singapore,SGP,2003,12.7
+Singapore,SGP,2004,12.6
+Singapore,SGP,2005,13.9
+Singapore,SGP,2006,14.1
+Singapore,SGP,2007,14.2
+Singapore,SGP,2008,14.4
+Singapore,SGP,2009,14.5
+Singapore,SGP,2010,15.2
+Singapore,SGP,2011,15.4
+Singapore,SGP,2012,15.8
+Singapore,SGP,2013,15.8
+Singapore,SGP,2014,16.1
+Singapore,SGP,2015,16.1
+Singapore,SGP,2016,16.1
+Singapore,SGP,2017,16.2
+Slovakia,SVK,1990,11.6
+Slovakia,SVK,1991,11.6
+Slovakia,SVK,1992,11.7
+Slovakia,SVK,1993,11.8
+Slovakia,SVK,1994,11.9
+Slovakia,SVK,1995,12
+Slovakia,SVK,1996,12.2
+Slovakia,SVK,1997,12.3
+Slovakia,SVK,1998,12.9
+Slovakia,SVK,1999,13
+Slovakia,SVK,2000,13.2
+Slovakia,SVK,2001,13.2
+Slovakia,SVK,2002,13.5
+Slovakia,SVK,2003,13.7
+Slovakia,SVK,2004,13.9
+Slovakia,SVK,2005,14.2
+Slovakia,SVK,2006,14.4
+Slovakia,SVK,2007,14.7
+Slovakia,SVK,2008,14.9
+Slovakia,SVK,2009,14.9
+Slovakia,SVK,2010,15
+Slovakia,SVK,2011,14.9
+Slovakia,SVK,2012,14.9
+Slovakia,SVK,2013,14.9
+Slovakia,SVK,2014,14.8
+Slovakia,SVK,2015,15
+Slovakia,SVK,2016,15
+Slovakia,SVK,2017,15
+Slovenia,SVN,1990,12
+Slovenia,SVN,1991,12
+Slovenia,SVN,1992,12.3
+Slovenia,SVN,1993,12.2
+Slovenia,SVN,1994,12.3
+Slovenia,SVN,1995,12.6
+Slovenia,SVN,1996,12.8
+Slovenia,SVN,1997,13.1
+Slovenia,SVN,1998,13.7
+Slovenia,SVN,1999,14.6
+Slovenia,SVN,2000,14.7
+Slovenia,SVN,2001,15.6
+Slovenia,SVN,2002,16.1
+Slovenia,SVN,2003,16.6
+Slovenia,SVN,2004,16.3
+Slovenia,SVN,2005,16.7
+Slovenia,SVN,2006,16.8
+Slovenia,SVN,2007,16.9
+Slovenia,SVN,2008,16.9
+Slovenia,SVN,2009,17
+Slovenia,SVN,2010,17.1
+Slovenia,SVN,2011,16.9
+Slovenia,SVN,2012,16.9
+Slovenia,SVN,2013,17.6
+Slovenia,SVN,2014,17.3
+Slovenia,SVN,2015,17.2
+Slovenia,SVN,2016,17.2
+Slovenia,SVN,2017,17.2
+Solomon Islands,SLB,1990,6
+Solomon Islands,SLB,1991,6.1
+Solomon Islands,SLB,1992,6.6
+Solomon Islands,SLB,1993,6.9
+Solomon Islands,SLB,1994,7.2
+Solomon Islands,SLB,1995,7.2
+Solomon Islands,SLB,1996,7.2
+Solomon Islands,SLB,1997,7.2
+Solomon Islands,SLB,1998,7.2
+Solomon Islands,SLB,1999,7.2
+Solomon Islands,SLB,2000,6.6
+Solomon Islands,SLB,2001,7.3
+Solomon Islands,SLB,2002,8
+Solomon Islands,SLB,2003,8.1
+Solomon Islands,SLB,2004,8.3
+Solomon Islands,SLB,2005,8.4
+Solomon Islands,SLB,2006,9
+Solomon Islands,SLB,2007,9.2
+Solomon Islands,SLB,2008,9.4
+Solomon Islands,SLB,2009,9.5
+Solomon Islands,SLB,2010,9.6
+Solomon Islands,SLB,2011,9.7
+Solomon Islands,SLB,2012,9.9
+Solomon Islands,SLB,2013,10
+Solomon Islands,SLB,2014,10.1
+Solomon Islands,SLB,2015,10.2
+Solomon Islands,SLB,2016,10.2
+Solomon Islands,SLB,2017,10.2
+South Africa,ZAF,1990,11.4
+South Africa,ZAF,1991,11.9
+South Africa,ZAF,1992,12.3
+South Africa,ZAF,1993,12.7
+South Africa,ZAF,1994,12.8
+South Africa,ZAF,1995,13
+South Africa,ZAF,1996,13
+South Africa,ZAF,1997,13
+South Africa,ZAF,1998,13
+South Africa,ZAF,1999,13
+South Africa,ZAF,2000,13
+South Africa,ZAF,2001,12.9
+South Africa,ZAF,2002,12.9
+South Africa,ZAF,2003,12.9
+South Africa,ZAF,2004,12.9
+South Africa,ZAF,2005,12.9
+South Africa,ZAF,2006,12.9
+South Africa,ZAF,2007,12.9
+South Africa,ZAF,2008,12.8
+South Africa,ZAF,2009,12.8
+South Africa,ZAF,2010,12.8
+South Africa,ZAF,2011,12.8
+South Africa,ZAF,2012,12.9
+South Africa,ZAF,2013,13.1
+South Africa,ZAF,2014,13.3
+South Africa,ZAF,2015,13.3
+South Africa,ZAF,2016,13.3
+South Africa,ZAF,2017,13.3
+South Korea,KOR,1990,13.6
+South Korea,KOR,1991,13.7
+South Korea,KOR,1992,13.7
+South Korea,KOR,1993,13.9
+South Korea,KOR,1994,14.2
+South Korea,KOR,1995,14.5
+South Korea,KOR,1996,14.9
+South Korea,KOR,1997,15.5
+South Korea,KOR,1998,15.2
+South Korea,KOR,1999,15.4
+South Korea,KOR,2000,15.6
+South Korea,KOR,2001,15.7
+South Korea,KOR,2002,15.7
+South Korea,KOR,2003,15.9
+South Korea,KOR,2004,16.1
+South Korea,KOR,2005,16.3
+South Korea,KOR,2006,16.4
+South Korea,KOR,2007,16.6
+South Korea,KOR,2008,16.7
+South Korea,KOR,2009,16.8
+South Korea,KOR,2010,16.8
+South Korea,KOR,2011,16.9
+South Korea,KOR,2012,16.7
+South Korea,KOR,2013,16.6
+South Korea,KOR,2014,16.6
+South Korea,KOR,2015,16.5
+South Korea,KOR,2016,16.5
+South Korea,KOR,2017,16.5
+South Sudan,SSD,2010,4.9
+South Sudan,SSD,2011,4.9
+South Sudan,SSD,2012,4.9
+South Sudan,SSD,2013,4.9
+South Sudan,SSD,2014,4.9
+South Sudan,SSD,2015,4.9
+South Sudan,SSD,2016,4.9
+South Sudan,SSD,2017,4.9
+Spain,ESP,1990,14
+Spain,ESP,1991,14.3
+Spain,ESP,1992,14.5
+Spain,ESP,1993,15
+Spain,ESP,1994,15.3
+Spain,ESP,1995,15.5
+Spain,ESP,1996,15.6
+Spain,ESP,1997,15.6
+Spain,ESP,1998,15.6
+Spain,ESP,1999,15.6
+Spain,ESP,2000,15.7
+Spain,ESP,2001,15.6
+Spain,ESP,2002,15.6
+Spain,ESP,2003,15.6
+Spain,ESP,2004,15.7
+Spain,ESP,2005,15.9
+Spain,ESP,2006,15.9
+Spain,ESP,2007,16.1
+Spain,ESP,2008,16.2
+Spain,ESP,2009,16.4
+Spain,ESP,2010,16.8
+Spain,ESP,2011,17.2
+Spain,ESP,2012,17.4
+Spain,ESP,2013,17.6
+Spain,ESP,2014,17.6
+Spain,ESP,2015,17.8
+Spain,ESP,2016,17.9
+Spain,ESP,2017,17.9
+Sri Lanka,LKA,1990,11.3
+Sri Lanka,LKA,1991,11.4
+Sri Lanka,LKA,1992,11.5
+Sri Lanka,LKA,1993,11.3
+Sri Lanka,LKA,1994,11.8
+Sri Lanka,LKA,1995,11.9
+Sri Lanka,LKA,1996,12
+Sri Lanka,LKA,1997,12.1
+Sri Lanka,LKA,1998,12.3
+Sri Lanka,LKA,1999,12.4
+Sri Lanka,LKA,2000,12.5
+Sri Lanka,LKA,2001,12.6
+Sri Lanka,LKA,2002,12.7
+Sri Lanka,LKA,2003,12.8
+Sri Lanka,LKA,2004,12.9
+Sri Lanka,LKA,2005,13.1
+Sri Lanka,LKA,2006,13.2
+Sri Lanka,LKA,2007,13.3
+Sri Lanka,LKA,2008,13.4
+Sri Lanka,LKA,2009,13.5
+Sri Lanka,LKA,2010,13.6
+Sri Lanka,LKA,2011,13.7
+Sri Lanka,LKA,2012,13.8
+Sri Lanka,LKA,2013,13.8
+Sri Lanka,LKA,2014,13.9
+Sri Lanka,LKA,2015,13.9
+Sri Lanka,LKA,2016,13.9
+Sri Lanka,LKA,2017,13.9
+Sudan,SDN,1990,3.9
+Sudan,SDN,1991,4.1
+Sudan,SDN,1992,4.3
+Sudan,SDN,1993,4.4
+Sudan,SDN,1994,4.6
+Sudan,SDN,1995,4.8
+Sudan,SDN,1996,5
+Sudan,SDN,1997,5.1
+Sudan,SDN,1998,5.3
+Sudan,SDN,1999,5.5
+Sudan,SDN,2000,5.6
+Sudan,SDN,2001,5.7
+Sudan,SDN,2002,5.8
+Sudan,SDN,2003,5.9
+Sudan,SDN,2004,6.2
+Sudan,SDN,2005,6.4
+Sudan,SDN,2006,6.6
+Sudan,SDN,2007,6.5
+Sudan,SDN,2008,7.1
+Sudan,SDN,2009,7.3
+Sudan,SDN,2010,7.3
+Sudan,SDN,2011,6.9
+Sudan,SDN,2012,7.2
+Sudan,SDN,2013,7.3
+Sudan,SDN,2014,7.3
+Sudan,SDN,2015,7.3
+Sudan,SDN,2016,7.4
+Sudan,SDN,2017,7.4
+Suriname,SUR,1990,11.9
+Suriname,SUR,1991,11.8
+Suriname,SUR,1992,11.7
+Suriname,SUR,1993,11.6
+Suriname,SUR,1994,11.5
+Suriname,SUR,1995,11.5
+Suriname,SUR,1996,11.4
+Suriname,SUR,1997,11.3
+Suriname,SUR,1998,11.2
+Suriname,SUR,1999,11.1
+Suriname,SUR,2000,11
+Suriname,SUR,2001,11
+Suriname,SUR,2002,10.9
+Suriname,SUR,2003,11.1
+Suriname,SUR,2004,11.3
+Suriname,SUR,2005,11.4
+Suriname,SUR,2006,11.5
+Suriname,SUR,2007,11.7
+Suriname,SUR,2008,11.8
+Suriname,SUR,2009,10.3
+Suriname,SUR,2010,12.5
+Suriname,SUR,2011,12.5
+Suriname,SUR,2012,12.5
+Suriname,SUR,2013,12.5
+Suriname,SUR,2014,12.5
+Suriname,SUR,2015,12.7
+Suriname,SUR,2016,12.7
+Suriname,SUR,2017,12.7
+Sweden,SWE,1990,12.9
+Sweden,SWE,1991,13
+Sweden,SWE,1992,13.3
+Sweden,SWE,1993,15.1
+Sweden,SWE,1994,15.5
+Sweden,SWE,1995,15.9
+Sweden,SWE,1996,16.3
+Sweden,SWE,1997,17
+Sweden,SWE,1998,18.6
+Sweden,SWE,1999,18.8
+Sweden,SWE,2000,18.8
+Sweden,SWE,2001,18.8
+Sweden,SWE,2002,18.6
+Sweden,SWE,2003,18.5
+Sweden,SWE,2004,16
+Sweden,SWE,2005,15.9
+Sweden,SWE,2006,15.8
+Sweden,SWE,2007,15.7
+Sweden,SWE,2008,15.7
+Sweden,SWE,2009,15.7
+Sweden,SWE,2010,15.9
+Sweden,SWE,2011,15.8
+Sweden,SWE,2012,15.8
+Sweden,SWE,2013,16.4
+Sweden,SWE,2014,17
+Sweden,SWE,2015,17.6
+Sweden,SWE,2016,17.6
+Sweden,SWE,2017,17.6
+Switzerland,CHE,1990,13.4
+Switzerland,CHE,1991,13.6
+Switzerland,CHE,1992,13.7
+Switzerland,CHE,1993,14.1
+Switzerland,CHE,1994,14.2
+Switzerland,CHE,1995,14.4
+Switzerland,CHE,1996,14.5
+Switzerland,CHE,1997,14.8
+Switzerland,CHE,1998,15
+Switzerland,CHE,1999,15.1
+Switzerland,CHE,2000,15.2
+Switzerland,CHE,2001,15.2
+Switzerland,CHE,2002,15
+Switzerland,CHE,2003,15.1
+Switzerland,CHE,2004,15.2
+Switzerland,CHE,2005,15.2
+Switzerland,CHE,2006,15.3
+Switzerland,CHE,2007,15.3
+Switzerland,CHE,2008,15.3
+Switzerland,CHE,2009,15.4
+Switzerland,CHE,2010,15.6
+Switzerland,CHE,2011,15.7
+Switzerland,CHE,2012,15.8
+Switzerland,CHE,2013,15.9
+Switzerland,CHE,2014,16
+Switzerland,CHE,2015,16.2
+Switzerland,CHE,2016,16.2
+Switzerland,CHE,2017,16.2
+Syria,SYR,1990,10.3
+Syria,SYR,1991,10.2
+Syria,SYR,1992,10.1
+Syria,SYR,1993,10
+Syria,SYR,1994,9.8
+Syria,SYR,1995,9.7
+Syria,SYR,1996,9.8
+Syria,SYR,1997,9.9
+Syria,SYR,1998,9.9
+Syria,SYR,1999,10
+Syria,SYR,2000,10.1
+Syria,SYR,2001,10.2
+Syria,SYR,2002,10.2
+Syria,SYR,2003,10.6
+Syria,SYR,2004,10.9
+Syria,SYR,2005,11.4
+Syria,SYR,2006,11.4
+Syria,SYR,2007,11.5
+Syria,SYR,2008,11.6
+Syria,SYR,2009,11.6
+Syria,SYR,2010,11.8
+Syria,SYR,2011,12.2
+Syria,SYR,2012,12.7
+Syria,SYR,2013,8.8
+Syria,SYR,2014,8.8
+Syria,SYR,2015,8.8
+Syria,SYR,2016,8.8
+Syria,SYR,2017,8.8
+Tajikistan,TJK,1990,12
+Tajikistan,TJK,1991,12
+Tajikistan,TJK,1992,11.9
+Tajikistan,TJK,1993,11.1
+Tajikistan,TJK,1994,10.3
+Tajikistan,TJK,1995,10.3
+Tajikistan,TJK,1996,10.1
+Tajikistan,TJK,1997,10
+Tajikistan,TJK,1998,9.8
+Tajikistan,TJK,1999,9.6
+Tajikistan,TJK,2000,9.7
+Tajikistan,TJK,2001,9.8
+Tajikistan,TJK,2002,10.1
+Tajikistan,TJK,2003,10.5
+Tajikistan,TJK,2004,10.6
+Tajikistan,TJK,2005,10.7
+Tajikistan,TJK,2006,10.9
+Tajikistan,TJK,2007,10.8
+Tajikistan,TJK,2008,11
+Tajikistan,TJK,2009,11
+Tajikistan,TJK,2010,11.1
+Tajikistan,TJK,2011,11.1
+Tajikistan,TJK,2012,11.2
+Tajikistan,TJK,2013,11.2
+Tajikistan,TJK,2014,11.2
+Tajikistan,TJK,2015,11.2
+Tajikistan,TJK,2016,11.2
+Tajikistan,TJK,2017,11.2
+Tanzania,TZA,1990,5.5
+Tanzania,TZA,1991,5.6
+Tanzania,TZA,1992,5.5
+Tanzania,TZA,1993,5.6
+Tanzania,TZA,1994,5.5
+Tanzania,TZA,1995,5.4
+Tanzania,TZA,1996,5.4
+Tanzania,TZA,1997,5.4
+Tanzania,TZA,1998,5.7
+Tanzania,TZA,1999,6
+Tanzania,TZA,2000,6.2
+Tanzania,TZA,2001,6.5
+Tanzania,TZA,2002,6.8
+Tanzania,TZA,2003,7.1
+Tanzania,TZA,2004,7.3
+Tanzania,TZA,2005,7.6
+Tanzania,TZA,2006,7.9
+Tanzania,TZA,2007,8.2
+Tanzania,TZA,2008,8.4
+Tanzania,TZA,2009,8.7
+Tanzania,TZA,2010,8.8
+Tanzania,TZA,2011,8.8
+Tanzania,TZA,2012,8.8
+Tanzania,TZA,2013,8.2
+Tanzania,TZA,2014,8.4
+Tanzania,TZA,2015,8.9
+Tanzania,TZA,2016,8.9
+Tanzania,TZA,2017,8.9
+Thailand,THA,1990,8.4
+Thailand,THA,1991,8.7
+Thailand,THA,1992,8.9
+Thailand,THA,1993,9.2
+Thailand,THA,1994,9.4
+Thailand,THA,1995,9.6
+Thailand,THA,1996,9.8
+Thailand,THA,1997,10.1
+Thailand,THA,1998,10.6
+Thailand,THA,1999,10.9
+Thailand,THA,2000,11.2
+Thailand,THA,2001,11.5
+Thailand,THA,2002,11.8
+Thailand,THA,2003,11.9
+Thailand,THA,2004,12.3
+Thailand,THA,2005,12.7
+Thailand,THA,2006,12.8
+Thailand,THA,2007,13.3
+Thailand,THA,2008,13.2
+Thailand,THA,2009,13.3
+Thailand,THA,2010,13.3
+Thailand,THA,2011,13.5
+Thailand,THA,2012,13.3
+Thailand,THA,2013,13.2
+Thailand,THA,2014,13.5
+Thailand,THA,2015,13.9
+Thailand,THA,2016,14.3
+Thailand,THA,2017,14.7
+Timor,TLS,2000,9.8
+Timor,TLS,2001,9.8
+Timor,TLS,2002,9.8
+Timor,TLS,2003,10.2
+Timor,TLS,2004,10.6
+Timor,TLS,2005,11
+Timor,TLS,2006,11.3
+Timor,TLS,2007,11.7
+Timor,TLS,2008,12.1
+Timor,TLS,2009,11.8
+Timor,TLS,2010,12.4
+Timor,TLS,2011,12.8
+Timor,TLS,2012,12.8
+Timor,TLS,2013,12.8
+Timor,TLS,2014,12.8
+Timor,TLS,2015,12.8
+Timor,TLS,2016,12.8
+Timor,TLS,2017,12.8
+Togo,TGO,1990,7.6
+Togo,TGO,1991,7.9
+Togo,TGO,1992,7.3
+Togo,TGO,1993,7.4
+Togo,TGO,1994,7.4
+Togo,TGO,1995,8.3
+Togo,TGO,1996,8.7
+Togo,TGO,1997,8.9
+Togo,TGO,1998,9.1
+Togo,TGO,1999,9.3
+Togo,TGO,2000,9.4
+Togo,TGO,2001,9.7
+Togo,TGO,2002,9.9
+Togo,TGO,2003,10
+Togo,TGO,2004,10.1
+Togo,TGO,2005,10.2
+Togo,TGO,2006,10.6
+Togo,TGO,2007,10.1
+Togo,TGO,2008,10.6
+Togo,TGO,2009,11
+Togo,TGO,2010,11.5
+Togo,TGO,2011,11.9
+Togo,TGO,2012,12.1
+Togo,TGO,2013,12.3
+Togo,TGO,2014,12.3
+Togo,TGO,2015,12.4
+Togo,TGO,2016,12.4
+Togo,TGO,2017,12.4
+Tonga,TON,1990,13.7
+Tonga,TON,1991,13.7
+Tonga,TON,1992,13.7
+Tonga,TON,1993,13.7
+Tonga,TON,1994,13.7
+Tonga,TON,1995,13.7
+Tonga,TON,1996,13.7
+Tonga,TON,1997,13.7
+Tonga,TON,1998,13.7
+Tonga,TON,1999,13.7
+Tonga,TON,2000,13.2
+Tonga,TON,2001,13.5
+Tonga,TON,2002,13.7
+Tonga,TON,2003,14.6
+Tonga,TON,2004,14.6
+Tonga,TON,2005,14.6
+Tonga,TON,2006,14.5
+Tonga,TON,2007,14.5
+Tonga,TON,2008,14.5
+Tonga,TON,2009,14.4
+Tonga,TON,2010,14.4
+Tonga,TON,2011,14.4
+Tonga,TON,2012,14.3
+Tonga,TON,2013,14.3
+Tonga,TON,2014,14.3
+Tonga,TON,2015,14.3
+Tonga,TON,2016,14.3
+Tonga,TON,2017,14.3
+Trinidad and Tobago,TTO,1990,11.2
+Trinidad and Tobago,TTO,1991,11
+Trinidad and Tobago,TTO,1992,11
+Trinidad and Tobago,TTO,1993,11
+Trinidad and Tobago,TTO,1994,11.1
+Trinidad and Tobago,TTO,1995,11.2
+Trinidad and Tobago,TTO,1996,11.3
+Trinidad and Tobago,TTO,1997,11.5
+Trinidad and Tobago,TTO,1998,11.6
+Trinidad and Tobago,TTO,1999,11.7
+Trinidad and Tobago,TTO,2000,11.8
+Trinidad and Tobago,TTO,2001,11.9
+Trinidad and Tobago,TTO,2002,12
+Trinidad and Tobago,TTO,2003,12.2
+Trinidad and Tobago,TTO,2004,12.3
+Trinidad and Tobago,TTO,2005,12.3
+Trinidad and Tobago,TTO,2006,12.4
+Trinidad and Tobago,TTO,2007,12.4
+Trinidad and Tobago,TTO,2008,12.5
+Trinidad and Tobago,TTO,2009,12.5
+Trinidad and Tobago,TTO,2010,12.6
+Trinidad and Tobago,TTO,2011,12.6
+Trinidad and Tobago,TTO,2012,12.7
+Trinidad and Tobago,TTO,2013,12.7
+Trinidad and Tobago,TTO,2014,12.7
+Trinidad and Tobago,TTO,2015,12.7
+Trinidad and Tobago,TTO,2016,12.9
+Trinidad and Tobago,TTO,2017,12.9
+Tunisia,TUN,1990,10.5
+Tunisia,TUN,1991,10.6
+Tunisia,TUN,1992,10.7
+Tunisia,TUN,1993,10.9
+Tunisia,TUN,1994,11.3
+Tunisia,TUN,1995,11.6
+Tunisia,TUN,1996,11.8
+Tunisia,TUN,1997,11.8
+Tunisia,TUN,1998,12.4
+Tunisia,TUN,1999,12.8
+Tunisia,TUN,2000,13.1
+Tunisia,TUN,2001,13.3
+Tunisia,TUN,2002,13.5
+Tunisia,TUN,2003,13.6
+Tunisia,TUN,2004,13.9
+Tunisia,TUN,2005,14.2
+Tunisia,TUN,2006,14.3
+Tunisia,TUN,2007,14.3
+Tunisia,TUN,2008,14.4
+Tunisia,TUN,2009,14.4
+Tunisia,TUN,2010,14.5
+Tunisia,TUN,2011,14.6
+Tunisia,TUN,2012,14.7
+Tunisia,TUN,2013,14.8
+Tunisia,TUN,2014,14.7
+Tunisia,TUN,2015,14.9
+Tunisia,TUN,2016,15.1
+Tunisia,TUN,2017,15.1
+Turkey,TUR,1990,8.9
+Turkey,TUR,1991,9.1
+Turkey,TUR,1992,9.2
+Turkey,TUR,1993,9.3
+Turkey,TUR,1994,9.5
+Turkey,TUR,1995,9.6
+Turkey,TUR,1996,9.7
+Turkey,TUR,1997,9.8
+Turkey,TUR,1998,10.2
+Turkey,TUR,1999,10.7
+Turkey,TUR,2000,11.1
+Turkey,TUR,2001,11.6
+Turkey,TUR,2002,12
+Turkey,TUR,2003,12.1
+Turkey,TUR,2004,12
+Turkey,TUR,2005,11.9
+Turkey,TUR,2006,12.3
+Turkey,TUR,2007,12.6
+Turkey,TUR,2008,12.5
+Turkey,TUR,2009,13
+Turkey,TUR,2010,13.8
+Turkey,TUR,2011,14.3
+Turkey,TUR,2012,14.4
+Turkey,TUR,2013,14.8
+Turkey,TUR,2014,15.2
+Turkey,TUR,2015,15.2
+Turkey,TUR,2016,15.2
+Turkey,TUR,2017,15.2
+Turkmenistan,TKM,2000,10.2
+Turkmenistan,TKM,2001,10.2
+Turkmenistan,TKM,2002,10.3
+Turkmenistan,TKM,2003,10.3
+Turkmenistan,TKM,2004,10.3
+Turkmenistan,TKM,2005,10.4
+Turkmenistan,TKM,2006,10.4
+Turkmenistan,TKM,2007,10.5
+Turkmenistan,TKM,2008,10.5
+Turkmenistan,TKM,2009,10.6
+Turkmenistan,TKM,2010,10.6
+Turkmenistan,TKM,2011,10.7
+Turkmenistan,TKM,2012,10.7
+Turkmenistan,TKM,2013,10.8
+Turkmenistan,TKM,2014,10.8
+Turkmenistan,TKM,2015,10.8
+Turkmenistan,TKM,2016,10.9
+Turkmenistan,TKM,2017,10.8
+Tuvalu,TUV,2001,11
+Uganda,UGA,1990,5.7
+Uganda,UGA,1991,5.7
+Uganda,UGA,1992,5.1
+Uganda,UGA,1993,5.5
+Uganda,UGA,1994,5.5
+Uganda,UGA,1995,5.6
+Uganda,UGA,1996,6.6
+Uganda,UGA,1997,7.7
+Uganda,UGA,1998,8.7
+Uganda,UGA,1999,9.8
+Uganda,UGA,2000,10.8
+Uganda,UGA,2001,11
+Uganda,UGA,2002,11.5
+Uganda,UGA,2003,11.6
+Uganda,UGA,2004,10.6
+Uganda,UGA,2005,10.7
+Uganda,UGA,2006,10.7
+Uganda,UGA,2007,10.8
+Uganda,UGA,2008,10.9
+Uganda,UGA,2009,10.9
+Uganda,UGA,2010,11
+Uganda,UGA,2011,11
+Uganda,UGA,2012,11.1
+Uganda,UGA,2013,11.1
+Uganda,UGA,2014,11.2
+Uganda,UGA,2015,11.2
+Uganda,UGA,2016,11.3
+Uganda,UGA,2017,11.6
+Ukraine,UKR,1990,12.4
+Ukraine,UKR,1991,12.4
+Ukraine,UKR,1992,12.1
+Ukraine,UKR,1993,12
+Ukraine,UKR,1994,11.9
+Ukraine,UKR,1995,12.2
+Ukraine,UKR,1996,12.4
+Ukraine,UKR,1997,12.7
+Ukraine,UKR,1998,13
+Ukraine,UKR,1999,13.1
+Ukraine,UKR,2000,13
+Ukraine,UKR,2001,13.7
+Ukraine,UKR,2002,14.1
+Ukraine,UKR,2003,14.4
+Ukraine,UKR,2004,14.4
+Ukraine,UKR,2005,14.6
+Ukraine,UKR,2006,14.7
+Ukraine,UKR,2007,14.8
+Ukraine,UKR,2008,14.8
+Ukraine,UKR,2009,14.8
+Ukraine,UKR,2010,14.8
+Ukraine,UKR,2011,14.8
+Ukraine,UKR,2012,14.9
+Ukraine,UKR,2013,14.9
+Ukraine,UKR,2014,15
+Ukraine,UKR,2015,15
+Ukraine,UKR,2016,15
+Ukraine,UKR,2017,15
+United Arab Emirates,ARE,1990,10.7
+United Arab Emirates,ARE,1991,11.1
+United Arab Emirates,ARE,1992,10.9
+United Arab Emirates,ARE,1993,10.9
+United Arab Emirates,ARE,1994,11.1
+United Arab Emirates,ARE,1995,11.2
+United Arab Emirates,ARE,1996,11.4
+United Arab Emirates,ARE,1997,11.5
+United Arab Emirates,ARE,1998,11.7
+United Arab Emirates,ARE,1999,11.8
+United Arab Emirates,ARE,2000,12
+United Arab Emirates,ARE,2001,12.1
+United Arab Emirates,ARE,2002,12.3
+United Arab Emirates,ARE,2003,12.4
+United Arab Emirates,ARE,2004,12.6
+United Arab Emirates,ARE,2005,12.8
+United Arab Emirates,ARE,2006,12.9
+United Arab Emirates,ARE,2007,13.1
+United Arab Emirates,ARE,2008,13.2
+United Arab Emirates,ARE,2009,13.3
+United Arab Emirates,ARE,2010,13.4
+United Arab Emirates,ARE,2011,13.5
+United Arab Emirates,ARE,2012,13.6
+United Arab Emirates,ARE,2013,13.8
+United Arab Emirates,ARE,2014,13.8
+United Arab Emirates,ARE,2015,13.8
+United Arab Emirates,ARE,2016,13.6
+United Arab Emirates,ARE,2017,13.6
+United Kingdom,GBR,1990,13.7
+United Kingdom,GBR,1991,13.9
+United Kingdom,GBR,1992,14.3
+United Kingdom,GBR,1993,14.5
+United Kingdom,GBR,1994,14.7
+United Kingdom,GBR,1995,14.9
+United Kingdom,GBR,1996,15.1
+United Kingdom,GBR,1997,15.3
+United Kingdom,GBR,1998,15.5
+United Kingdom,GBR,1999,15.9
+United Kingdom,GBR,2000,16.1
+United Kingdom,GBR,2001,16.1
+United Kingdom,GBR,2002,16.1
+United Kingdom,GBR,2003,16.1
+United Kingdom,GBR,2004,16.5
+United Kingdom,GBR,2005,16.6
+United Kingdom,GBR,2006,16.1
+United Kingdom,GBR,2007,15.9
+United Kingdom,GBR,2008,16
+United Kingdom,GBR,2009,16.1
+United Kingdom,GBR,2010,16.4
+United Kingdom,GBR,2011,15.8
+United Kingdom,GBR,2012,15.7
+United Kingdom,GBR,2013,17.7
+United Kingdom,GBR,2014,17.9
+United Kingdom,GBR,2015,17.4
+United Kingdom,GBR,2016,17.4
+United Kingdom,GBR,2017,17.4
+United States,USA,1990,15.3
+United States,USA,1991,15.3
+United States,USA,1992,15.6
+United States,USA,1993,15.8
+United States,USA,1994,15.9
+United States,USA,1995,15.9
+United States,USA,1996,15.8
+United States,USA,1997,15.8
+United States,USA,1998,15.9
+United States,USA,1999,15.8
+United States,USA,2000,15.5
+United States,USA,2001,15.6
+United States,USA,2002,15.7
+United States,USA,2003,15.9
+United States,USA,2004,15.9
+United States,USA,2005,16
+United States,USA,2006,16.1
+United States,USA,2007,16.2
+United States,USA,2008,16.3
+United States,USA,2009,16.4
+United States,USA,2010,16.6
+United States,USA,2011,16.7
+United States,USA,2012,16.6
+United States,USA,2013,16.4
+United States,USA,2014,16.4
+United States,USA,2015,16.5
+United States,USA,2016,16.5
+United States,USA,2017,16.5
+Uruguay,URY,1990,12.9
+Uruguay,URY,1991,13
+Uruguay,URY,1992,12.8
+Uruguay,URY,1993,12.9
+Uruguay,URY,1994,13
+Uruguay,URY,1995,13.1
+Uruguay,URY,1996,13.2
+Uruguay,URY,1997,13.5
+Uruguay,URY,1998,13.9
+Uruguay,URY,1999,13.9
+Uruguay,URY,2000,14.2
+Uruguay,URY,2001,14.7
+Uruguay,URY,2002,15.1
+Uruguay,URY,2003,15.5
+Uruguay,URY,2004,15.5
+Uruguay,URY,2005,15.2
+Uruguay,URY,2006,15.3
+Uruguay,URY,2007,14.9
+Uruguay,URY,2008,14.7
+Uruguay,URY,2009,15.6
+Uruguay,URY,2010,14.7
+Uruguay,URY,2011,15.2
+Uruguay,URY,2012,15.6
+Uruguay,URY,2013,16.1
+Uruguay,URY,2014,16.1
+Uruguay,URY,2015,15.9
+Uruguay,URY,2016,15.9
+Uruguay,URY,2017,15.9
+Uzbekistan,UZB,1990,11.3
+Uzbekistan,UZB,1991,11.1
+Uzbekistan,UZB,1992,10.8
+Uzbekistan,UZB,1993,10.8
+Uzbekistan,UZB,1994,10.8
+Uzbekistan,UZB,1995,10.7
+Uzbekistan,UZB,1996,10.7
+Uzbekistan,UZB,1997,10.7
+Uzbekistan,UZB,1998,10.6
+Uzbekistan,UZB,1999,10.6
+Uzbekistan,UZB,2000,10.7
+Uzbekistan,UZB,2001,11
+Uzbekistan,UZB,2002,11.3
+Uzbekistan,UZB,2003,11.4
+Uzbekistan,UZB,2004,11.4
+Uzbekistan,UZB,2005,11.5
+Uzbekistan,UZB,2006,11.4
+Uzbekistan,UZB,2007,11.5
+Uzbekistan,UZB,2008,11.3
+Uzbekistan,UZB,2009,11.4
+Uzbekistan,UZB,2010,11.4
+Uzbekistan,UZB,2011,11.4
+Uzbekistan,UZB,2012,11.6
+Uzbekistan,UZB,2013,11.6
+Uzbekistan,UZB,2014,11.7
+Uzbekistan,UZB,2015,11.7
+Uzbekistan,UZB,2016,11.8
+Uzbekistan,UZB,2017,12
+Vanuatu,VUT,1999,9.6
+Vanuatu,VUT,2000,10.1
+Vanuatu,VUT,2001,10.2
+Vanuatu,VUT,2002,10.4
+Vanuatu,VUT,2003,10.7
+Vanuatu,VUT,2004,10.6
+Vanuatu,VUT,2005,10.6
+Vanuatu,VUT,2006,10.7
+Vanuatu,VUT,2007,10.7
+Vanuatu,VUT,2008,10.7
+Vanuatu,VUT,2009,10.8
+Vanuatu,VUT,2010,10.8
+Vanuatu,VUT,2011,10.8
+Vanuatu,VUT,2012,10.9
+Vanuatu,VUT,2013,10.9
+Vanuatu,VUT,2014,10.9
+Vanuatu,VUT,2015,10.9
+Vanuatu,VUT,2016,10.9
+Vanuatu,VUT,2017,10.9
+Venezuela,VEN,1990,10.5
+Venezuela,VEN,1991,10.7
+Venezuela,VEN,1992,10.8
+Venezuela,VEN,1993,10.8
+Venezuela,VEN,1994,10.7
+Venezuela,VEN,1995,10.7
+Venezuela,VEN,1996,10.6
+Venezuela,VEN,1997,10.6
+Venezuela,VEN,1998,10.5
+Venezuela,VEN,1999,10.6
+Venezuela,VEN,2000,10.4
+Venezuela,VEN,2001,11
+Venezuela,VEN,2002,11.6
+Venezuela,VEN,2003,11.6
+Venezuela,VEN,2004,11.8
+Venezuela,VEN,2005,12.4
+Venezuela,VEN,2006,12.9
+Venezuela,VEN,2007,13.4
+Venezuela,VEN,2008,14
+Venezuela,VEN,2009,14
+Venezuela,VEN,2010,14.1
+Venezuela,VEN,2011,14.1
+Venezuela,VEN,2012,14.2
+Venezuela,VEN,2013,14.2
+Venezuela,VEN,2014,14.3
+Venezuela,VEN,2015,14.3
+Venezuela,VEN,2016,14.3
+Venezuela,VEN,2017,14.3
+Vietnam,VNM,1990,7.8
+Vietnam,VNM,1991,8.1
+Vietnam,VNM,1992,8.4
+Vietnam,VNM,1993,8.7
+Vietnam,VNM,1994,9
+Vietnam,VNM,1995,9.3
+Vietnam,VNM,1996,9.6
+Vietnam,VNM,1997,9
+Vietnam,VNM,1998,10.3
+Vietnam,VNM,1999,10.4
+Vietnam,VNM,2000,10.6
+Vietnam,VNM,2001,10.7
+Vietnam,VNM,2002,10.9
+Vietnam,VNM,2003,11
+Vietnam,VNM,2004,11.1
+Vietnam,VNM,2005,11.3
+Vietnam,VNM,2006,11.4
+Vietnam,VNM,2007,11.6
+Vietnam,VNM,2008,11.7
+Vietnam,VNM,2009,11.9
+Vietnam,VNM,2010,12
+Vietnam,VNM,2011,12.5
+Vietnam,VNM,2012,12.6
+Vietnam,VNM,2013,12.6
+Vietnam,VNM,2014,12.7
+Vietnam,VNM,2015,12.7
+Vietnam,VNM,2016,12.7
+Vietnam,VNM,2017,12.7
+Yemen,YEM,1990,7.5
+Yemen,YEM,1991,7.5
+Yemen,YEM,1992,7.6
+Yemen,YEM,1993,7.6
+Yemen,YEM,1994,7.6
+Yemen,YEM,1995,7.6
+Yemen,YEM,1996,7.6
+Yemen,YEM,1997,7.6
+Yemen,YEM,1998,7.6
+Yemen,YEM,1999,7.7
+Yemen,YEM,2000,7.9
+Yemen,YEM,2001,8
+Yemen,YEM,2002,8.2
+Yemen,YEM,2003,8.4
+Yemen,YEM,2004,8.6
+Yemen,YEM,2005,8.7
+Yemen,YEM,2006,8.6
+Yemen,YEM,2007,8.5
+Yemen,YEM,2008,8.4
+Yemen,YEM,2009,8.5
+Yemen,YEM,2010,8.6
+Yemen,YEM,2011,9
+Yemen,YEM,2012,9
+Yemen,YEM,2013,9
+Yemen,YEM,2014,9
+Yemen,YEM,2015,9
+Yemen,YEM,2016,9
+Yemen,YEM,2017,9
+Zambia,ZMB,1990,7.5
+Zambia,ZMB,1991,7.7
+Zambia,ZMB,1992,8
+Zambia,ZMB,1993,8.2
+Zambia,ZMB,1994,8.4
+Zambia,ZMB,1995,8.7
+Zambia,ZMB,1996,8.9
+Zambia,ZMB,1997,9.1
+Zambia,ZMB,1998,9.3
+Zambia,ZMB,1999,9.6
+Zambia,ZMB,2000,9.8
+Zambia,ZMB,2001,10
+Zambia,ZMB,2002,10.2
+Zambia,ZMB,2003,10.5
+Zambia,ZMB,2004,10.7
+Zambia,ZMB,2005,10.9
+Zambia,ZMB,2006,11.1
+Zambia,ZMB,2007,11.4
+Zambia,ZMB,2008,11.6
+Zambia,ZMB,2009,11.8
+Zambia,ZMB,2010,12
+Zambia,ZMB,2011,12.3
+Zambia,ZMB,2012,12.5
+Zambia,ZMB,2013,12.5
+Zambia,ZMB,2014,12.5
+Zambia,ZMB,2015,12.5
+Zambia,ZMB,2016,12.5
+Zambia,ZMB,2017,12.5
+Zimbabwe,ZWE,1990,9.8
+Zimbabwe,ZWE,1991,10.2
+Zimbabwe,ZWE,1992,9.8
+Zimbabwe,ZWE,1993,9.8
+Zimbabwe,ZWE,1994,9.8
+Zimbabwe,ZWE,1995,9.8
+Zimbabwe,ZWE,1996,9.8
+Zimbabwe,ZWE,1997,9.8
+Zimbabwe,ZWE,1998,9.8
+Zimbabwe,ZWE,1999,9.8
+Zimbabwe,ZWE,2000,9.8
+Zimbabwe,ZWE,2001,10
+Zimbabwe,ZWE,2002,9.5
+Zimbabwe,ZWE,2003,9.2
+Zimbabwe,ZWE,2004,9.3
+Zimbabwe,ZWE,2005,9.5
+Zimbabwe,ZWE,2006,9.6
+Zimbabwe,ZWE,2007,9.7
+Zimbabwe,ZWE,2008,9.9
+Zimbabwe,ZWE,2009,10
+Zimbabwe,ZWE,2010,10.1
+Zimbabwe,ZWE,2011,9.8
+Zimbabwe,ZWE,2012,10.3
+Zimbabwe,ZWE,2013,10.2
+Zimbabwe,ZWE,2014,10.3
+Zimbabwe,ZWE,2015,10.3
+Zimbabwe,ZWE,2016,10.3
+Zimbabwe,ZWE,2017,10.3
