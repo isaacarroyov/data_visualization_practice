@@ -1,0 +1,21 @@
+country,nuclear_energy_generation_TWh,share_primary_energy_nuclear_percentage,Code,share_electricity_from_nuclear_percentage,position_nuclear_energy_generation,position_share_primary_energy,position_share_electricity_nuclear,Continent
+France,353.83,36.105,FRA,67.175,3,1,1,Europe
+Ukraine,76.2,20.423,UKR,51.396,7,4,2,Europe
+Hungary,16.06,14.732,HUN,46.176,20,8,3,Europe
+Bulgaria,16.63,21.413,BGR,41.337,19,3,4,Europe
+Belgium,34.43,13.928,BEL,39.196,14,9,5,Europe
+Czechia,30.04,17.354,CZE,37.503,16,7,6,Europe
+Finland,23.29,19.067,FIN,33.891,17,5,7,Europe
+Switzerland,22.99,18.943,CHE,32.857,18,6,8,Europe
+Sweden,49.2,21.738,SWE,30.038,11,2,9,Europe
+South Korea,152.33,12.069,KOR,27.648,5,10,10,Asia
+Spain,58.3,10.397,ESP,22.446,9,11,11,Europe
+Russia,215.74,6.773,RUS,20.985,4,13,12,Europe
+United States,789.88,8.412,USA,19.547,1,12,13,The Americas
+United Kingdom,50.84,6.477,GBR,16.535,10,14,14,Europe
+Canada,92.65,6.356,CAN,14.702,6,15,15,The Americas
+Germany,64.38,4.721,DEU,11.404,8,17,16,Europe
+Taiwan,31.44,5.795,TWN,11.223,15,16,17,Asia
+China,366.2,2.236,CHN,4.739,2,19,18,Asia
+Japan,43.0,2.243,JPN,4.572,13,18,19,Asia
+India,44.61,1.239,IND,2.859,12,20,20,Asia
