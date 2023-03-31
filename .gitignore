@@ -8,3 +8,7 @@ ignore_*
 .Rhistory
 *.svg
 *.ai
+data/spotify_2016-2021*.csv
+data/temperature_*_wide*.csv
+No-Code/
+R/visualizing_who_am_i/
